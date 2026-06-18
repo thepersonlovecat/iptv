@@ -1,0 +1,1515 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: 
+ScriptType: v4.00+
+PlayDepth: 0
+ScaledBorderAndShadow: Yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,17,&H0005FFF7,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,120.0,100.0,0,0,3,2.5,1.0,2,10,10,5,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.00,0:00:07.00,Default,,0,0,0,,
+Dialogue: 0,0:00:08.00,0:00:13.00,Default,,0,0,0,,
+Dialogue: 0,0:00:11.31,0:00:16.23,Default,,0,0,0,,Một sản phẩm của Toho
+Dialogue: 0,0:00:20.99,0:00:25.99,Default,,0,0,0,,Vào đi.\NTôi rất vui vì cậu đã đến.
+Dialogue: 0,0:00:26.04,0:00:28.37,Default,,0,0,0,,Đã bao nhiêu năm rồi nhỉ?
+Dialogue: 0,0:00:28.41,0:00:28.50,Default,,0,0,0,,- Xin lỗi vì tôi đã không giữ liên lạc.\N- Quên chuyện đó đi.
+Dialogue: 0,0:00:28.50,0:00:31.33,Default,,0,0,0,,1926\N- Xin lỗi vì tôi đã không giữ liên lạc.\N- Quên chuyện đó đi.
+Dialogue: 0,0:00:31.33,0:00:31.37,Default,,0,0,0,,1926
+Dialogue: 0,0:00:31.37,0:00:33.83,Default,,0,0,0,,Đây là lần đầu tiên tôi đến thăm cậu ở đây.\N1926
+Dialogue: 0,0:00:33.83,0:00:33.92,Default,,0,0,0,,- Thật sao?\N- Đây là một thị trấn yên tĩnh.\N1926
+Dialogue: 0,0:00:33.92,0:00:35.29,Default,,0,0,0,,- Thật sao?\N- Đây là một thị trấn yên tĩnh.
+Dialogue: 0,0:00:35.29,0:00:38.21,Default,,0,0,0,,Thành phố Yoshino\N- Thật sao?\N- Đây là một thị trấn yên tĩnh.
+Dialogue: 0,0:00:38.21,0:00:39.92,Default,,0,0,0,,Thành phố Yoshino
+Dialogue: 0,0:00:39.92,0:00:40.72,Default,,0,0,0,,Cậu nói là cậu sắp đi\Ndu lịch à?\NThành phố Yoshino
+Dialogue: 0,0:00:40.72,0:00:44.43,Default,,0,0,0,,Cậu nói là cậu sắp đi\Ndu lịch à?
+Dialogue: 0,0:00:44.72,0:00:46.60,Default,,0,0,0,,Ngồi đi.
+Dialogue: 0,0:00:47.89,0:00:51.73,Default,,0,0,0,,Tôi sẽ đi vắng một thời gian.
+Dialogue: 0,0:00:55.86,0:00:59.32,Default,,0,0,0,,Cô ấy tên là Tae.
+Dialogue: 0,0:00:59.53,0:01:02.20,Default,,0,0,0,,Cô ấy là một người họ hàng xa.
+Dialogue: 0,0:01:02.36,0:01:06.08,Default,,0,0,0,,Cô ấy đến để chép bản thảo cho tôi,\Nvà giúp đỡ nhà tôi.
+Dialogue: 0,0:01:06.28,0:01:09.16,Default,,0,0,0,,Cô ấy đang học để trở thành dược sĩ.
+Dialogue: 0,0:01:09.20,0:01:11.37,Default,,0,0,0,,Chuyên ngành đại học của cháu là ngành dược.
+Dialogue: 0,0:01:11.87,0:01:16.63,Default,,0,0,0,,Đây là bạn tôi, Kindaichi.
+Dialogue: 0,0:01:18.21,0:01:20.63,Default,,0,0,0,,Cậu ấy là một thám tử.
+Dialogue: 0,0:01:20.63,0:01:25.97,Default,,0,0,0,,Cậu ấy thường hay biến mất khi\Nđang giải quyết một vụ án hóc búa.
+Dialogue: 0,0:01:25.97,0:01:31.23,Default,,0,0,0,,Tôi nhớ hình như có một nhân vật như\Nvậy xuất hiện trong tiểu thuyết của anh.
+Dialogue: 0,0:01:31.23,0:01:34.23,Default,,0,0,0,,- Tôi không nhớ nữa.\N- Anh định đi đâu thế?
+Dialogue: 0,0:01:34.23,0:01:36.40,Default,,0,0,0,,Có lẽ là Mỹ.
+Dialogue: 0,0:01:36.73,0:01:39.57,Default,,0,0,0,,Mỹ sao?
+Dialogue: 0,0:01:39.82,0:01:44.07,Default,,0,0,0,,Mỹ khá là tiên tiến về các\Nloại thuốc trị căng thẳng...
+Dialogue: 0,0:01:44.28,0:01:47.16,Default,,0,0,0,,tự kỷ và các bệnh thần kinh.
+Dialogue: 0,0:01:47.28,0:01:49.74,Default,,0,0,0,,Anh đi thật sao?
+Dialogue: 0,0:01:50.24,0:01:54.00,Default,,0,0,0,,Con người ở đâu cũng như nhau cả thôi.
+Dialogue: 0,0:01:55.29,0:02:00.63,Default,,0,0,0,,Này, Kindaichi đến rồi kìa!\NPha cho chúng tôi ít trà đi!
+Dialogue: 0,0:02:00.88,0:02:02.97,Default,,0,0,0,,{\i1}Chờ một lát.{\i0}
+Dialogue: 0,0:02:08.10,0:02:11.06,Default,,0,0,0,,- Anh đi bằng tàu à?\N- Đúng vậy.
+Dialogue: 0,0:02:11.27,0:02:14.98,Default,,0,0,0,,- Anh đã làm hộ chiếu chưa?\N- Vẫn chưa.
+Dialogue: 0,0:02:15.19,0:02:18.11,Default,,0,0,0,,- Anh sẽ cần một tấm ảnh thẻ đấy.\N- Tôi vẫn chưa chụp nữa.
+Dialogue: 0,0:02:18.31,0:02:23.99,Default,,0,0,0,,Tôi biết một tiệm ảnh cũ\Nhoạt động từ năm 1892.
+Dialogue: 0,0:02:24.24,0:02:27.49,Default,,0,0,0,,Tôi quên mất tên rồi...
+Dialogue: 0,0:02:27.66,0:02:31.12,Default,,0,0,0,,Cũng phải 7, 8 năm rồi tôi chưa tới đó.
+Dialogue: 0,0:02:33.66,0:02:37.00,Default,,0,0,0,,- Cậu ấy đang nói về Tiệm ảnh Honjo đấy.\N- Đúng là nó rồi.
+Dialogue: 0,0:02:37.67,0:02:40.96,Default,,0,0,0,,- Xin chào.\N- Cảm ơn.
+Dialogue: 0,0:02:41.17,0:02:43.92,Default,,0,0,0,,Kindaichi nói cậu ấy sắp đi Mỹ.
+Dialogue: 0,0:02:44.13,0:02:45.76,Default,,0,0,0,,Ồ, ra nước ngoài cơ à!
+Dialogue: 0,0:03:47.11,0:03:52.41,Default,,0,0,0,,Thả lỏng đi nào, cậu cứng đơ cả người rồi.
+Dialogue: 0,0:03:52.58,0:03:56.20,Default,,0,0,0,,Tôi không tìm thấy nó.
+Dialogue: 0,0:03:56.41,0:03:58.12,Default,,0,0,0,,Trong nhà này tối quá.
+Dialogue: 0,0:03:58.16,0:04:02.93,Default,,0,0,0,,Chắc chắn phải là một trong số này chứ. Chúng ta phải mua cái mới thôi, nhưng toàn là đồ cũ cả.
+Dialogue: 0,0:04:03.21,0:04:05.38,Default,,0,0,0,,- Có lẽ ông nên thay hết đi thôi.\N- Này, Mokutaro!
+Dialogue: 0,0:04:05.59,0:04:07.80,Default,,0,0,0,,Khẩn trương lên nào!
+Dialogue: 0,0:04:08.42,0:04:12.18,Default,,0,0,0,,Chúng ta đã dùng nó cho binh\Nlính Mỹ thời kỳ chiếm đóng mà.
+Dialogue: 0,0:04:13.22,0:04:16.93,Default,,0,0,0,,- Nó ở cái xó xỉnh nào thế nhỉ?\N- Ông đang tìm phông nền phong cảnh núi non à?
+Dialogue: 0,0:04:17.14,0:04:20.77,Default,,0,0,0,,Hôm nọ chúng ta vừa mới dùng xong.\NSao ông không xếp gọn gàng vào chứ?
+Dialogue: 0,0:04:20.77,0:04:22.44,Default,,0,0,0,,Tìm thấy rồi!
+Dialogue: 0,0:04:23.69,0:04:27.07,Default,,0,0,0,,Chết tiệt, cái này dành cho\Nlễ hội trẻ em.
+Dialogue: 0,0:04:27.49,0:04:30.49,Default,,0,0,0,,Rốt cuộc thì núi non nằm ở đâu thế hả trời?!
+Dialogue: 0,0:04:30.49,0:04:32.70,Default,,0,0,0,,Chụp mỗi mặt cháu là được rồi.
+Dialogue: 0,0:04:32.74,0:04:36.83,Default,,0,0,0,,Không thể dùng cái này làm phông nền được đâu.
+Dialogue: 0,0:04:36.83,0:04:38.95,Default,,0,0,0,,Chụp để làm hộ chiếu đấy ạ.
+Dialogue: 0,0:04:40.04,0:04:42.88,Default,,0,0,0,,Thế thì phải dùng phông nền trắng chứ!
+Dialogue: 0,0:04:43.08,0:04:45.21,Default,,0,0,0,,Sao cậu không nói thế ngay từ đầu!
+Dialogue: 0,0:04:54.76,0:04:58.39,Default,,0,0,0,,Cậu đang làm cái gì thế hả, đồ ngốc?!
+Dialogue: 0,0:04:58.60,0:05:03.02,Default,,0,0,0,,Cậu có sao không?\NTrợ lý của tôi vẫn còn mới nhận việc.
+Dialogue: 0,0:05:03.23,0:05:04.69,Default,,0,0,0,,Tôi nghĩ tôi làm hỏng cái gì đó rồi!
+Dialogue: 0,0:05:11.40,0:05:15.28,Default,,0,0,0,,Xin lỗi, tôi cứ tưởng ông đã ra ngoài rồi.
+Dialogue: 0,0:05:15.49,0:05:19.37,Default,,0,0,0,,- Cậu muốn gì?\N- Magie.
+Dialogue: 0,0:05:19.58,0:05:22.62,Default,,0,0,0,,- Nó ở ngăn kệ dưới cùng.\N- Tôi tìm thấy rồi. - Khách hàng là ai thế?
+Dialogue: 0,0:05:22.83,0:05:25.58,Default,,0,0,0,,- Anh ta hơi kỳ lạ.\N- Gì cơ?
+Dialogue: 0,0:05:25.79,0:05:28.38,Default,,0,0,0,,Gã là một thám tử tư.
+Dialogue: 0,0:05:29.46,0:05:31.63,Default,,0,0,0,,Cớm sao?
+Dialogue: 0,0:05:31.80,0:05:36.01,Default,,0,0,0,,- Các đợt ném bom ở khu vực này khá dữ dội\N- Người ta nói thế.
+Dialogue: 0,0:05:36.22,0:05:40.22,Default,,0,0,0,,Tôi trở về từ Siberia vào năm 1949.
+Dialogue: 0,0:05:40.43,0:05:42.85,Default,,0,0,0,,Nơi này đã bị san phẳng.
+Dialogue: 0,0:05:43.06,0:05:45.10,Default,,0,0,0,,Tôi thậm chí còn không nhận ra nó nữa.
+Dialogue: 0,0:05:45.31,0:05:49.57,Default,,0,0,0,,Lục quân Nhật Bản từng có\Nsân bay ngay đằng kia.
+Dialogue: 0,0:05:49.82,0:05:52.11,Default,,0,0,0,,Đó chắc hẳn là mục tiêu của kẻ thù.
+Dialogue: 0,0:05:52.28,0:05:56.57,Default,,0,0,0,,- Tôi không thể tin được tòa nhà này vẫn còn đứng vững. \N- Tôi đoán là anh nói đúng.
+Dialogue: 0,0:05:57.74,0:06:01.29,Default,,0,0,0,,Quân đội Mỹ vẫn đang đóng quân ở thị trấn này.
+Dialogue: 0,0:06:01.50,0:06:04.42,Default,,0,0,0,,Có một ngọn đồi dốc ngay phía kia.
+Dialogue: 0,0:06:04.58,0:06:07.04,Default,,0,0,0,,Đó là Đồi Bệnh Viện.
+Dialogue: 0,0:06:07.29,0:06:08.88,Default,,0,0,0,,Đồi Bệnh Viện sao?
+Dialogue: 0,0:06:09.09,0:06:13.51,Default,,0,0,0,,Nó từng có một cái tên bình thường hơn,
+Dialogue: 0,0:06:13.72,0:06:19.14,Default,,0,0,0,,nhưng một bệnh viện lớn đã được xây dựng ở đó vào cuối thế kỷ 19.
+Dialogue: 0,0:06:19.85,0:06:26.85,Default,,0,0,0,,Người ta bắt đầu gọi nơi đó là\N'Đồi Bệnh Viện'.
+Dialogue: 0,0:06:27.69,0:06:30.90,Default,,0,0,0,,Đó là Bệnh viện Hogen.
+Dialogue: 0,0:06:31.11,0:06:33.36,Default,,0,0,0,,Tôi không để ý thấy bệnh viện đó.
+Dialogue: 0,0:06:33.61,0:06:35.74,Default,,0,0,0,,Đừng cử động, tôi chuẩn bị chụp hình đây.
+Dialogue: 0,0:06:35.95,0:06:39.83,Default,,0,0,0,,Ngẩng đầu lên một chút...\Nhạ cằm xuống.
+Dialogue: 0,0:06:40.03,0:06:43.16,Default,,0,0,0,,Lên magiê... Sẵn sàng!
+Dialogue: 0,0:06:46.21,0:06:58.39,Default,,0,0,0,,Ngôi Nhà Treo Cổ
+Dialogue: 0,0:06:58.93,0:07:02.64,Default,,0,0,0,,Sản xuất bởi Kon Ichikawa
+Dialogue: 0,0:07:05.68,0:07:09.69,Default,,0,0,0,,Dựa trên tác phẩm của Seishi Yokomizo
+Dialogue: 0,0:07:09.90,0:07:14.03,Default,,0,0,0,,Kịch bản bởi \NShinya Hidaka và Tei Kurisu
+Dialogue: 0,0:08:05.24,0:08:07.75,Default,,0,0,0,,Diễn viên chính:
+Dialogue: 0,0:08:08.29,0:08:12.63,Default,,0,0,0,,Yoshiko Sakuma
+Dialogue: 0,0:08:12.84,0:08:15.88,Default,,0,0,0,,Masao Kusakari
+Dialogue: 0,0:08:16.09,0:08:19.30,Default,,0,0,0,,Junko Sakurada
+Dialogue: 0,0:08:26.27,0:08:30.77,Default,,0,0,0,,Takako Irie\NTakeshi Kato
+Dialogue: 0,0:08:31.73,0:08:36.15,Default,,0,0,0,,Mitsuko Kusabue\NKayoko Shiraishi\NMiki Sanjo
+Dialogue: 0,0:08:36.98,0:08:41.45,Default,,0,0,0,,Midori Hagio\NPeter\NKie Nakai
+Dialogue: 0,0:08:43.07,0:08:47.66,Default,,0,0,0,,Hideji Otaki\NNobuto Okamoto\NEitaro Ozaka
+Dialogue: 0,0:08:47.75,0:08:52.58,Default,,0,0,0,,Koji Shimizu, Akiji Kobayashi,\NFujio Tokita, Koreharu Hisatomi
+Dialogue: 0,0:08:53.92,0:08:59.13,Default,,0,0,0,,Noboru Mitani, Sabu Kawahara,\NYutaka Hayashi, Shingo Yamamoto,\NBunji Hayata
+Dialogue: 0,0:08:59.47,0:09:02.47,Default,,0,0,0,,Teruhiko Aoi
+Dialogue: 0,0:09:02.55,0:09:06.22,Default,,0,0,0,,Với sự tham gia đặc biệt của\NSeishi Yokomizo và Norihei Miki
+Dialogue: 0,0:09:06.97,0:09:11.69,Default,,0,0,0,,Koji Ishizaka trong vai Kosuke Kindaichi
+Dialogue: 0,0:09:11.85,0:09:17.36,Default,,0,0,0,,Đạo diễn: Kon Ichikawa
+Dialogue: 0,0:09:17.94,0:09:21.53,Default,,0,0,0,,Anh sắp bị giết sao?
+Dialogue: 0,0:09:24.11,0:09:26.78,Default,,0,0,0,,Đúng vậy.
+Dialogue: 0,0:09:29.66,0:09:34.46,Default,,0,0,0,,Hôm nọ tôi có đi làm một việc vặt.
+Dialogue: 0,0:09:34.67,0:09:38.67,Default,,0,0,0,,Tôi đã đi xem một tòa nhà bị cháy rụi.
+Dialogue: 0,0:09:38.88,0:09:45.97,Default,,0,0,0,,Ngay khi tôi định bước qua\Ncánh cửa mở hướng vào trong,
+Dialogue: 0,0:09:46.22,0:09:50.22,Default,,0,0,0,,chiếc chuông gió khổng lồ này\Nrơi bộp ngay xuống người tôi!
+Dialogue: 0,0:09:50.43,0:09:54.65,Default,,0,0,0,,Chuông gió á? Ý cậu là mấy thứ kêu leng keng khi gió thổi vào mùa hè ấy hả.
+Dialogue: 0,0:09:54.81,0:09:58.27,Default,,0,0,0,,Đúng thế! Giờ vẫn còn đau đây.
+Dialogue: 0,0:09:59.73,0:10:03.65,Default,,0,0,0,,Cũng nhờ tôi đã khựng lại ngay ngưỡng cửa...
+Dialogue: 0,0:10:03.86,0:10:08.62,Default,,0,0,0,,khi người quản lý gọi tên tôi...
+Dialogue: 0,0:10:09.20,0:10:15.21,Default,,0,0,0,,nên chiếc chuông gió đó chỉ sượt qua vai tôi.
+Dialogue: 0,0:10:15.42,0:10:17.75,Default,,0,0,0,,Nếu bị trúng trực diện,\Ntôi xong đời rồi.
+Dialogue: 0,0:10:19.25,0:10:21.51,Default,,0,0,0,,Anh có nghĩ đó là một cái bẫy không?
+Dialogue: 0,0:10:23.05,0:10:25.68,Default,,0,0,0,,Tại sao lại có người muốn giết ông chứ?
+Dialogue: 0,0:10:26.14,0:10:30.10,Default,,0,0,0,,Tôi không biết. Đó là lý do\Ntôi muốn anh điều tra xem sao.
+Dialogue: 0,0:10:30.18,0:10:33.98,Default,,0,0,0,,- Thám tử tư có cung cấp dịch vụ đó đúng không?\N- Dĩ nhiên rồi.
+Dialogue: 0,0:10:34.39,0:10:37.02,Default,,0,0,0,,Tôi rất sẵn lòng trả tiền.
+Dialogue: 0,0:10:39.52,0:10:43.90,Default,,0,0,0,,Nhưng anh không được nói với ai về chuyện này.
+Dialogue: 0,0:10:49.95,0:10:53.20,Default,,0,0,0,,Bố tôi muốn gì ở anh thế?
+Dialogue: 0,0:10:53.33,0:10:54.66,Default,,0,0,0,,Chúng tôi chỉ trò chuyện thôi.
+Dialogue: 0,0:10:55.50,0:10:57.96,Default,,0,0,0,,Anh có nhiều ảnh cũ quá.
+Dialogue: 0,0:10:58.38,0:11:00.38,Default,,0,0,0,,Tất cả đều do tự tay anh chụp à?
+Dialogue: 0,0:11:00.92,0:11:04.92,Default,,0,0,0,,Đúng vậy, tôi và hai thế hệ nhiếp ảnh gia khác.
+Dialogue: 0,0:11:05.76,0:11:10.89,Default,,0,0,0,,Thời kỳ Minh Trị, Đại Chính và Chiêu\NHòa. Trông cứ như triển lãm bảo tàng vậy.
+Dialogue: 0,0:11:11.10,0:11:13.72,Default,,0,0,0,,Gia đình này luôn tự hào\Nvề việc được tổ chức rất quy củ.
+Dialogue: 0,0:11:14.10,0:11:17.27,Default,,0,0,0,,Mọi thứ đều được sắp xếp và bảo quản, từ những chiếc đĩa cho đến những cuộn phim.
+Dialogue: 0,0:11:17.39,0:11:21.11,Default,,0,0,0,,Tôi hiểu rồi. Khi nào thì ảnh của tôi xong?
+Dialogue: 0,0:11:21.32,0:11:23.19,Default,,0,0,0,,Trong ba ngày nữa.
+Dialogue: 0,0:11:23.73,0:11:25.61,Default,,0,0,0,,Hẹn gặp lại anh lúc đó.
+Dialogue: 0,0:11:38.17,0:11:40.63,Default,,0,0,0,,Thám tử, anh quên gì sao?
+Dialogue: 0,0:11:53.72,0:11:55.18,Default,,0,0,0,,Tôi có thể giúp gì cho cô?
+Dialogue: 0,0:11:58.14,0:12:00.10,Default,,0,0,0,,Tôi muốn chụp một bức ảnh.
+Dialogue: 0,0:12:01.27,0:12:03.98,Default,,0,0,0,,- Xin mời vào.\N- Tôi muốn chụp tại địa điểm yêu cầu.
+Dialogue: 0,0:12:04.94,0:12:06.32,Default,,0,0,0,,Ở đâu?
+Dialogue: 0,0:12:07.32,0:12:09.32,Default,,0,0,0,,- Tôi không thể nói.\N- Tại sao không?
+Dialogue: 0,0:12:09.53,0:12:10.82,Default,,0,0,0,,Không xa đâu.
+Dialogue: 0,0:12:11.12,0:12:14.33,Default,,0,0,0,,Chúng tôi cần biết địa điểm của buổi chụp.
+Dialogue: 0,0:12:14.54,0:12:17.83,Default,,0,0,0,,9 giờ tối nay.\NTôi sẽ cho người đến đón anh.
+Dialogue: 0,0:12:18.29,0:12:20.54,Default,,0,0,0,,Được rồi.
+Dialogue: 0,0:12:21.38,0:12:26.13,Default,,0,0,0,,Cô cần chụp loại ảnh nào?\NChúng tôi cần phải chuẩn bị.
+Dialogue: 0,0:12:26.21,0:12:27.42,Default,,0,0,0,,Ảnh cưới.
+Dialogue: 0,0:12:27.67,0:12:30.72,Default,,0,0,0,,Ồ, xin chúc mừng. Của cô sao?
+Dialogue: 0,0:12:30.93,0:12:34.18,Default,,0,0,0,,Không, của em gái tôi.
+Dialogue: 0,0:12:35.01,0:12:37.64,Default,,0,0,0,,Đây là 2.000 yên.\NHy vọng thế này là đủ.
+Dialogue: 0,0:12:37.85,0:12:40.35,Default,,0,0,0,,Ồ, cô trả tiền trước sao?
+Dialogue: 0,0:12:40.60,0:12:44.86,Default,,0,0,0,,- Khi nào ảnh sẽ xong?\N- Nếu cô đang vội thì hai ngày.
+Dialogue: 0,0:12:44.94,0:12:48.65,Default,,0,0,0,,Sẽ có người qua lấy chúng.\NXin vui lòng để sẵn chúng ra.
+Dialogue: 0,0:12:48.86,0:12:50.20,Default,,0,0,0,,Cảm ơn.
+Dialogue: 0,0:12:53.07,0:12:56.66,Default,,0,0,0,,Cô ấy không để lại tên.
+Dialogue: 0,0:12:56.74,0:12:59.41,Default,,0,0,0,,Cô ấy đúng là một cô gái ngọt ngào.
+Dialogue: 0,0:13:08.88,0:13:12.43,Default,,0,0,0,,{\i1}Studio ảnh Honjo{\i0}
+Dialogue: 0,0:13:12.64,0:13:14.60,Default,,0,0,0,,{\i1}Ai đấy?{\i0}
+Dialogue: 0,0:13:18.47,0:13:22.02,Default,,0,0,0,,Ồ, chụp ảnh cưới sao?
+Dialogue: 0,0:13:23.10,0:13:26.19,Default,,0,0,0,,Cảm ơn vì đã đến.
+Dialogue: 0,0:13:37.58,0:13:42.71,Default,,0,0,0,,Đây không phải là nhà Hogen sao?
+Dialogue: 0,0:13:43.83,0:13:49.00,Default,,0,0,0,,Đúng vậy. Chúng tôi là họ hàng.
+Dialogue: 0,0:13:49.30,0:13:52.09,Default,,0,0,0,,- Tôi cứ tưởng ngôi nhà này bị bỏ hoang rồi chứ.\N- Im mồm đi!
+Dialogue: 0,0:14:09.82,0:14:14.20,Default,,0,0,0,,Lắp đặt thiết bị của anh ở đây rồi đợi.
+Dialogue: 0,0:14:39.47,0:14:41.35,Default,,0,0,0,,{\i1}Được rồi, chúng tôi sẵn sàng rồi!{\i0}
+Dialogue: 0,0:14:41.52,0:14:43.60,Default,,0,0,0,,{\i1}Mở cửa rồi vào đi!{\i0}
+Dialogue: 0,0:15:07.96,0:15:10.25,Default,,0,0,0,,Nhanh lên mà chụp ảnh đi chứ!
+Dialogue: 0,0:15:16.43,0:15:20.51,Default,,0,0,0,,Treo chuông gió ở chỗ đó lạ thật đấy. Không có chúng thì bức ảnh trông sẽ đẹp hơn.
+Dialogue: 0,0:15:20.76,0:15:24.81,Default,,0,0,0,,Đừng chạm vào chúng. Đó là một truyền thống gia đình.
+Dialogue: 0,0:15:24.89,0:15:26.64,Default,,0,0,0,,Nếu anh nói thế.
+Dialogue: 0,0:15:36.86,0:15:39.32,Default,,0,0,0,,Cổ áo cô dâu bị lệch...
+Dialogue: 0,0:15:39.49,0:15:40.66,Default,,0,0,0,,Lùi lại!
+Dialogue: 0,0:15:41.20,0:15:42.54,Default,,0,0,0,,Để tôi làm cho.
+Dialogue: 0,0:15:50.13,0:15:51.88,Default,,0,0,0,,Được rồi, hoàn hảo.
+Dialogue: 0,0:16:16.44,0:16:18.78,Default,,0,0,0,,Chào buổi sáng, xong chưa?
+Dialogue: 0,0:16:21.37,0:16:24.12,Default,,0,0,0,,Để Cha xem nào.
+Dialogue: 0,0:16:30.75,0:16:33.46,Default,,0,0,0,,Để con làm rõ chuyện này nhé, cha...
+Dialogue: 0,0:16:33.63,0:16:37.67,Default,,0,0,0,,Cô ấy trông giống hệt một cô gái ở\NBệnh viện Hogen tên là Yukari sao?
+Dialogue: 0,0:16:40.05,0:16:41.76,Default,,0,0,0,,Tôi không biết chú rể.
+Dialogue: 0,0:16:42.18,0:16:43.97,Default,,0,0,0,,Anh ta rất lấn lướt.
+Dialogue: 0,0:16:44.10,0:16:45.64,Default,,0,0,0,,Xà phòng.
+Dialogue: 0,0:16:46.68,0:16:48.93,Default,,0,0,0,,Thuốc lá.
+Dialogue: 0,0:16:49.52,0:16:52.65,Default,,0,0,0,,Có tất dài không? Có, nếu anh có.
+Dialogue: 0,0:16:54.40,0:16:58.36,Default,,0,0,0,,Lại nữa sao? Anh không nên buôn\Nbán nhu yếu phẩm của quân đội Mỹ.
+Dialogue: 0,0:16:58.57,0:17:01.24,Default,,0,0,0,,Tôi không hỏi ý kiến của anh.
+Dialogue: 0,0:17:02.11,0:17:05.16,Default,,0,0,0,,Tôi biết. Nếu cậu không bận tâm, tôi cũng không bận tâm.
+Dialogue: 0,0:17:06.99,0:17:10.04,Default,,0,0,0,,- Chào buổi tối.\N- Chào buổi tối.
+Dialogue: 0,0:17:10.21,0:17:14.08,Default,,0,0,0,,- Thám tử, tôi xin lỗi, nhưng ảnh của anh vẫn chưa xong đâu.\N- Thật sao? Chủ tiệm có ở đây không?
+Dialogue: 0,0:17:14.29,0:17:16.55,Default,,0,0,0,,Có vài chuyện tôi muốn nói chuyện với ông ấy.
+Dialogue: 0,0:17:17.17,0:17:18.92,Default,,0,0,0,,Anh xem giùm tôi cái này được không?
+Dialogue: 0,0:17:18.96,0:17:21.43,Default,,0,0,0,,- Chủ tiệm sao?\N- Làm ơn đi.
+Dialogue: 0,0:17:25.14,0:17:27.81,Default,,0,0,0,,Đó là một bức ảnh cưới. Nó thì sao?
+Dialogue: 0,0:17:28.06,0:17:32.52,Default,,0,0,0,,Địa điểm này... lạ thật.
+Dialogue: 0,0:17:33.65,0:17:37.15,Default,,0,0,0,,Cũng không hẳn, có một bức bình\Nphong bằng vàng ở phía sau kìa.
+Dialogue: 0,0:17:37.23,0:17:41.15,Default,,0,0,0,,Chính là ngôi nhà đó. Tôi cứ nghĩ nó bị bỏ hoang rồi...
+Dialogue: 0,0:17:41.36,0:17:44.37,Default,,0,0,0,,- Nhưng không phải đâu!\N- Không, thực ra đúng là vậy đó.
+Dialogue: 0,0:17:45.07,0:17:49.45,Default,,0,0,0,,Nhưng sáng nay bố tôi đã\Nhét bảo tôi đi kiểm tra xem sao.
+Dialogue: 0,0:17:49.66,0:17:53.29,Default,,0,0,0,,Tôi đến đó và thấy bức bình phong,\Ntấm thảm, chiếc ghế... đều biến mất cả rồi.
+Dialogue: 0,0:17:53.37,0:17:58.42,Default,,0,0,0,,Thưa cậu trẻ, cô gái đặt lịch\Nchụp ảnh chính là cô dâu đó.
+Dialogue: 0,0:17:58.55,0:17:59.96,Default,,0,0,0,,Câm miệng lại đi.
+Dialogue: 0,0:18:00.88,0:18:04.18,Default,,0,0,0,,Có thứ gì đó đang treo\Ngiữa cô dâu và chú rể kìa.
+Dialogue: 0,0:18:04.39,0:18:07.60,Default,,0,0,0,,- Đó là chuông gió.\N- Chuông gió sao?
+Dialogue: 0,0:18:09.81,0:18:16.65,Default,,0,0,0,,Điều bất thường duy nhất là đôi mắt của\Ncô dâu trông như thể cô ấy đang mơ màng.
+Dialogue: 0,0:18:16.90,0:18:19.02,Default,,0,0,0,,Đúng vậy thật.
+Dialogue: 0,0:18:19.28,0:18:22.19,Default,,0,0,0,,Kỳ lạ thật. Tôi đã thấy mọi\Nchuyện đều kỳ quặc từ tối qua rồi.
+Dialogue: 0,0:18:22.19,0:18:24.74,Default,,0,0,0,,- Cô ấy còn sống không?\N- Đó là một câu hỏi rùng rợn.
+Dialogue: 0,0:18:24.74,0:18:27.58,Default,,0,0,0,,Đúng vậy, cô ấy vẫn còn thở.
+Dialogue: 0,0:18:27.62,0:18:30.16,Default,,0,0,0,,Thám tử, tôi vừa nghĩ là...
+Dialogue: 0,0:18:30.20,0:18:33.62,Default,,0,0,0,,Có lẽ hắn đã đánh thuốc cô gái vì\Ncô ấy không muốn kết hôn,
+Dialogue: 0,0:18:33.66,0:18:36.58,Default,,0,0,0,,và rồi tổ chức hôn lễ.\NĐáng lẽ tôi nên đi cùng.
+Dialogue: 0,0:18:36.79,0:18:38.38,Default,,0,0,0,,Im miệng đi được rồi đấy.
+Dialogue: 0,0:18:38.63,0:18:44.47,Default,,0,0,0,,Bố tôi nói cô dâu có thể thuộc\Ngia đình sở hữu Bệnh viện Hogen.
+Dialogue: 0,0:18:44.72,0:18:47.05,Default,,0,0,0,,Điều đó đối với tôi lại càng kỳ lạ hơn,
+Dialogue: 0,0:18:47.26,0:18:51.68,Default,,0,0,0,,con gái của một gia đình danh giá lại tổ chức đám cưới trong một ngôi nhà có quá khứ nhơ nhuốc như vậy.
+Dialogue: 0,0:18:51.72,0:18:53.02,Default,,0,0,0,,Nhơ nhuốc ư?
+Dialogue: 0,0:18:54.23,0:18:59.57,Default,,0,0,0,,Đúng vậy, ngôi nhà đó được gọi là Ngôi nhà Treo cổ.
+Dialogue: 0,0:19:00.02,0:19:02.15,Default,,0,0,0,,Tại sao?
+Dialogue: 0,0:19:02.19,0:19:09.20,Default,,0,0,0,,Một người phụ nữ được tìm thấy đã treo cổ trong nhà một năm sau khi Chiến tranh kết thúc.
+Dialogue: 0,0:19:15.29,0:19:17.79,Default,,0,0,0,,Alo.
+Dialogue: 0,0:19:18.00,0:19:19.75,Default,,0,0,0,,Vâng, đúng vậy.
+Dialogue: 0,0:19:20.38,0:19:21.92,Default,,0,0,0,,Sao cơ?
+Dialogue: 0,0:19:24.17,0:19:26.84,Default,,0,0,0,,Alo? Alo?
+Dialogue: 0,0:19:29.26,0:19:31.39,Default,,0,0,0,,- Cô ấy cúp máy rồi.\N- Ai thế?
+Dialogue: 0,0:19:32.14,0:19:33.52,Default,,0,0,0,,Nghe giọng giống như một phụ nữ trẻ.
+Dialogue: 0,0:19:33.64,0:19:36.06,Default,,0,0,0,,Cô ấy muốn đặt một buổi chụp hình khác\Ntối nay tại chính ngôi nhà đó.
+Dialogue: 0,0:19:36.14,0:19:39.40,Default,,0,0,0,,- Có phải cô gái tối qua không?\N - Đúng vậy, tôi chắc chắn đó là giọng của cô ấy!
+Dialogue: 0,0:19:39.61,0:19:42.15,Default,,0,0,0,,- Cô ấy muốn anh chụp gì?\N- Chuông gió.
+Dialogue: 0,0:20:16.48,0:20:19.98,Default,,0,0,0,,Không có ai ở đây cả.
+Dialogue: 0,0:20:20.15,0:20:22.15,Default,,0,0,0,,Nhìn này.
+Dialogue: 0,0:20:29.20,0:20:30.91,Default,,0,0,0,,Tôi không thấy cái chuông gió nào.
+Dialogue: 0,0:20:39.83,0:20:41.50,Default,,0,0,0,,Đó là một cái đầu bị chặt lìa!
+Dialogue: 0,0:20:52.60,0:20:53.85,Default,,0,0,0,,Chính là kẻ sát nhân!
+Dialogue: 0,0:22:41.08,0:22:44.33,Default,,0,0,0,,Dì Yayoi, cháu vẫn luôn đợi dì.
+Dialogue: 0,0:22:45.96,0:22:49.84,Default,,0,0,0,,Dì lại đi xe kéo đến nữa à?\NCháu đã cho xe đến đón dì rồi mà.
+Dialogue: 0,0:22:50.13,0:22:53.88,Default,,0,0,0,,Dì thích đi xe kéo của Sannosuke hơn.
+Dialogue: 0,0:22:54.76,0:23:02.18,Default,,0,0,0,,Đây là lần đầu tiên dì quay lại\Nđây kể từ khi ngôi nhà bị trúng bom.
+Dialogue: 0,0:23:03.39,0:23:08.27,Default,,0,0,0,,Tôi vừa mới gọi điện\Nthoại. Tôi là Thám tử Bando.
+Dialogue: 0,0:23:08.61,0:23:12.82,Default,,0,0,0,,Xin lỗi vì sự bất tiện\Nnày. Xin mời đi lối này.
+Dialogue: 0,0:23:13.82,0:23:16.32,Default,,0,0,0,,Không cần phải tháo giày ra đâu ạ.
+Dialogue: 0,0:23:18.41,0:23:23.70,Default,,0,0,0,,Vụ việc được phát hiện vào đêm muộn hôm qua. Chúng tôi vừa mới hoàn tất việc khám nghiệm hiện trường vụ án.
+Dialogue: 0,0:23:23.91,0:23:28.83,Default,,0,0,0,,Tôi e rằng đây là một vụ án\Nbất thường với rất ít manh mối.
+Dialogue: 0,0:23:29.04,0:23:31.88,Default,,0,0,0,,Nó khá là gây sốc.
+Dialogue: 0,0:23:32.09,0:23:33.51,Default,,0,0,0,,Bà ấy đây rồi.
+Dialogue: 0,0:23:34.92,0:23:38.09,Default,,0,0,0,,Đây là điều tra viên trưởng.
+Dialogue: 0,0:23:38.80,0:23:41.31,Default,,0,0,0,,Todoroki thuộc cảnh sát tỉnh.
+Dialogue: 0,0:23:41.81,0:23:43.56,Default,,0,0,0,,Tôi là Yayoi Hogen.
+Dialogue: 0,0:23:43.97,0:23:49.31,Default,,0,0,0,,Ba người này đã phát hiện ra hiện trường.
+Dialogue: 0,0:23:52.11,0:23:56.15,Default,,0,0,0,,Yayoi, lâu rồi không gặp.
+Dialogue: 0,0:23:59.57,0:24:04.58,Default,,0,0,0,,Đây là con trai tôi, Naokichi, và học trò của tôi, Mokutaro.
+Dialogue: 0,0:24:05.41,0:24:09.38,Default,,0,0,0,,Người đàn ông này nói anh ta là\Nthám tử tư. Có đúng vậy không?
+Dialogue: 0,0:24:09.63,0:24:10.92,Default,,0,0,0,,Đúng vậy.
+Dialogue: 0,0:24:11.00,0:24:15.84,Default,,0,0,0,,Có vẻ anh ta đang được\Nthuê bởi cha của nhiếp ảnh gia.
+Dialogue: 0,0:24:16.01,0:24:17.84,Default,,0,0,0,,- Có đúng thế không?\N- Đúng vậy.
+Dialogue: 0,0:24:18.01,0:24:22.56,Default,,0,0,0,,Cậu này vừa mới cho chúng tôi\Nmột cái nhìn khái quát về vụ việc.
+Dialogue: 0,0:24:23.18,0:24:24.85,Default,,0,0,0,,Đây là con trai bà à?
+Dialogue: 0,0:24:25.02,0:24:26.27,Default,,0,0,0,,Tôi không phải con trai bà ấy.
+Dialogue: 0,0:24:26.52,0:24:29.44,Default,,0,0,0,,Tên tôi là Shigeru Igarashi.\NNgười phụ nữ đó là mẹ tôi.
+Dialogue: 0,0:24:29.60,0:24:32.82,Default,,0,0,0,,Tuy nhiên, bà ấy vừa tự giới\Nthiệu mình là Mitsue Tanabe.
+Dialogue: 0,0:24:32.94,0:24:35.32,Default,,0,0,0,,Đúng vậy.\NIgarashi là họ của cha tôi.
+Dialogue: 0,0:24:35.48,0:24:37.82,Default,,0,0,0,,Mẹ tôi dùng họ thời con gái.
+Dialogue: 0,0:24:37.99,0:24:41.49,Default,,0,0,0,,Tôi từng mang họ Tanabe, nhưng\Ntôi đã đổi nó vì vấn đề thừa kế.
+Dialogue: 0,0:24:41.49,0:24:43.70,Default,,0,0,0,,Nhưng tất cả mọi người đều\Nđang sống cùng nhau, đúng không?
+Dialogue: 0,0:24:43.87,0:24:47.41,Default,,0,0,0,,Đúng vậy, hai gia đình có\Nquan hệ thông gia với nhau.
+Dialogue: 0,0:24:47.62,0:24:51.54,Default,,0,0,0,,- Yayoi là dì của tôi.\N- Tôi hiểu rồi.
+Dialogue: 0,0:24:51.58,0:24:53.96,Default,,0,0,0,,- Thật không đấy?\N- Im đi!
+Dialogue: 0,0:24:54.17,0:24:56.67,Default,,0,0,0,,Đừng làm tôi mất mặt khi tôi đang phá án!
+Dialogue: 0,0:24:56.84,0:25:01.05,Default,,0,0,0,,Nghi phạm tối qua đã bình tĩnh lại chưa?\NĐi nói chuyện với hắn đi.
+Dialogue: 0,0:25:01.22,0:25:03.51,Default,,0,0,0,,Hắn ta có thể có thông tin gì đó hữu ích đấy.
+Dialogue: 0,0:25:07.22,0:25:10.73,Default,,0,0,0,,Tôi tin là cô đã được báo qua điện thoại...
+Dialogue: 0,0:25:11.06,0:25:15.36,Default,,0,0,0,,rằng có một số điều chúng tôi muốn xác nhận với cô.
+Dialogue: 0,0:25:16.15,0:25:20.03,Default,,0,0,0,,Nhưng cô có thể xem hiện trường vụ án\Ntrước nếu muốn.
+Dialogue: 0,0:25:20.15,0:25:21.70,Default,,0,0,0,,Dì Yayoi, dì không việc gì phải xem thứ đó đâu!
+Dialogue: 0,0:25:22.03,0:25:25.53,Default,,0,0,0,,Cháu mới liếc nhìn một cái thôi mà\Nđã suýt ngất rồi.
+Dialogue: 0,0:25:25.95,0:25:27.87,Default,,0,0,0,,Không, tôi muốn xem.
+Dialogue: 0,0:25:28.00,0:25:31.67,Default,,0,0,0,,Đây là nhà tôi,\Nnên tôi cũng có phần trách nhiệm.
+Dialogue: 0,0:25:38.26,0:25:41.59,Default,,0,0,0,,Các anh đã tìm thấy phần thân\Nthuộc về cái đầu chưa?
+Dialogue: 0,0:25:41.88,0:25:44.80,Default,,0,0,0,,Chưa. Chúng tôi đã lục soát kỹ cả ngôi nhà và khuôn viên.
+Dialogue: 0,0:25:45.01,0:25:48.35,Default,,0,0,0,,Cảnh sát nghĩ rằng vụ án mạng\Nđược thực hiện ở một nơi khác.
+Dialogue: 0,0:25:49.18,0:25:50.89,Default,,0,0,0,,Nhưng, tôi...
+Dialogue: 0,0:25:51.64,0:25:54.86,Default,,0,0,0,,- Ôi, thật đáng sợ!\N- Ôi, Yayoi!
+Dialogue: 0,0:25:55.94,0:26:00.57,Default,,0,0,0,,Tôi muốn cô nhìn vào bức ảnh này.
+Dialogue: 0,0:26:01.15,0:26:04.07,Default,,0,0,0,,Nạn nhân gần như chắc chắn là chú rể,
+Dialogue: 0,0:26:04.70,0:26:07.54,Default,,0,0,0,,nhưng cô dâu có phải là con gái của cô không?
+Dialogue: 0,0:26:07.79,0:26:11.04,Default,,0,0,0,,Nói chính xác hơn là,\Ncô ấy đã được xác định là Yukari Hogen.
+Dialogue: 0,0:26:11.08,0:26:13.79,Default,,0,0,0,,- Dì có thể xác nhận việc này không?\N- Đúng là cô ấy phải không?
+Dialogue: 0,0:26:14.00,0:26:15.92,Default,,0,0,0,,Tôi đã nói với anh ta đúng là như vậy.
+Dialogue: 0,0:26:16.75,0:26:21.09,Default,,0,0,0,,Người phụ nữ đó trang điểm rất đậm,\Nnên thật khó để nói chắc chắn,
+Dialogue: 0,0:26:21.30,0:26:25.26,Default,,0,0,0,,nhưng cô ấy rõ ràng trông rất giống con gái tôi.
+Dialogue: 0,0:26:25.80,0:26:29.77,Default,,0,0,0,,"Trông giống" ư?! Có phải bà đang khẳng định rằng thực chất đó không phải là con gái mình không?!
+Dialogue: 0,0:26:30.10,0:26:32.06,Default,,0,0,0,,- Tôi bảo đó là Yukari mà!\N- Không, không phải đâu.
+Dialogue: 0,0:26:32.98,0:26:35.06,Default,,0,0,0,,Tôi biết rõ con gái mình mà.
+Dialogue: 0,0:26:35.40,0:26:39.28,Default,,0,0,0,,Dù sao thì, hiện giờ con bé đang ở nhà tôi.
+Dialogue: 0,0:26:40.11,0:26:43.07,Default,,0,0,0,,Cậu đã nói vài điều kỳ lạ qua điện thoại,
+Dialogue: 0,0:26:43.61,0:26:47.32,Default,,0,0,0,,nên tôi nghĩ tốt nhất là đưa cô ấy đến đây.
+Dialogue: 0,0:26:47.78,0:26:50.20,Default,,0,0,0,,Cô ấy sẽ đến sớm thôi.
+Dialogue: 0,0:26:50.74,0:26:53.33,Default,,0,0,0,,Về cái đầu bị cắt rời...
+Dialogue: 0,0:26:53.37,0:26:58.96,Default,,0,0,0,,Những kẻ sát nhân thường cố gắng che giấu danh tính của nạn nhân, hoặc giấu luôn cả cái xác.
+Dialogue: 0,0:26:58.96,0:27:02.84,Default,,0,0,0,,Tại sao lại có kẻ phải tốn công\Ntrưng bày cái đầu như thế chứ?
+Dialogue: 0,0:27:03.05,0:27:05.51,Default,,0,0,0,,Đồ ngốc, rõ ràng thế cơ mà!
+Dialogue: 0,0:27:05.76,0:27:10.64,Default,,0,0,0,,Tất nhiên là để đánh lạc hướng điều tra rồi.
+Dialogue: 0,0:27:12.77,0:27:14.44,Default,,0,0,0,,Yukari!
+Dialogue: 0,0:27:32.95,0:27:36.29,Default,,0,0,0,,Con gái tôi, Yukari.
+Dialogue: 0,0:27:43.42,0:27:46.22,Default,,0,0,0,,Bức ảnh này trông y hệt con bé.
+Dialogue: 0,0:27:46.72,0:27:51.68,Default,,0,0,0,,Vậy rốt cuộc cô dâu này là ai?!
+Dialogue: 0,0:27:52.10,0:27:54.81,Default,,0,0,0,,- Thám tử Todoroki!\N- Có chuyện gì thế?
+Dialogue: 0,0:27:55.23,0:27:58.77,Default,,0,0,0,,Chúng tôi đã xác định được\Ndanh tính của nạn nhân và cô dâu.
+Dialogue: 0,0:27:59.02,0:28:01.27,Default,,0,0,0,,- Sao cơ?\N- Nghi phạm của chúng ta đã xác nhận rồi!
+Dialogue: 0,0:28:06.90,0:28:09.70,Default,,0,0,0,,Này, là ai thế?
+Dialogue: 0,0:28:10.99,0:28:12.58,Default,,0,0,0,,Trả lời tôi đi!
+Dialogue: 0,0:28:13.74,0:28:17.58,Default,,0,0,0,,Đó là Toshio và Koyuki Yamauchi.
+Dialogue: 0,0:28:17.79,0:28:22.63,Default,,0,0,0,,Anh ta và họ từng tham gia một\Nnhóm gọi là The Angry Pirates{\i0}.
+Dialogue: 0,0:28:22.67,0:28:25.17,Default,,0,0,0,,'The Angry Pirates' là gì?
+Dialogue: 0,0:28:25.38,0:28:31.68,Default,,0,0,0,,Một ban nhạc jazz chuyên biểu diễn độc\Nquyền tại các căn cứ quân sự Mỹ ở Nhật Bản.
+Dialogue: 0,0:28:31.76,0:28:33.51,Default,,0,0,0,,Cảnh sát, tôi không hề giết ai cả.
+Dialogue: 0,0:28:33.56,0:28:35.52,Default,,0,0,0,,Vậy tại sao đến tận bây giờ anh mới chịu lên tiếng?
+Dialogue: 0,0:28:35.60,0:28:37.77,Default,,0,0,0,,Tôi đã rất sợ hãi và hoang mang.
+Dialogue: 0,0:28:37.98,0:28:39.81,Default,,0,0,0,,Hai người trong bức ảnh đều\Nmang họ Yamauchi.
+Dialogue: 0,0:28:40.02,0:28:42.61,Default,,0,0,0,,- Họ là hai anh em.\N- Thế thì tại sao họ lại kết hôn chứ?!
+Dialogue: 0,0:28:42.69,0:28:44.86,Default,,0,0,0,,Họ không có quan hệ huyết thống.
+Dialogue: 0,0:28:46.94,0:28:51.70,Default,,0,0,0,,Anh đã làm gì ở đây đêm qua?
+Dialogue: 0,0:28:52.32,0:28:55.41,Default,,0,0,0,,Hôm qua cả hai người họ đều xin nghỉ làm,\Nnên tôi đến để xem họ đang làm gì.
+Dialogue: 0,0:28:55.62,0:28:57.37,Default,,0,0,0,,Sao anh biết họ sẽ ở đây?
+Dialogue: 0,0:28:57.46,0:28:59.79,Default,,0,0,0,,Là nhờ bức ảnh cưới.
+Dialogue: 0,0:29:00.12,0:29:05.05,Default,,0,0,0,,Đêm hôm kia, cặp đôi đó đã\Nbí mật kết hôn ngay tại ngôi nhà này,
+Dialogue: 0,0:29:05.09,0:29:08.76,Default,,0,0,0,,và Yoshizawa là người duy nhất\Nđã giúp đỡ họ.
+Dialogue: 0,0:29:08.97,0:29:11.22,Default,,0,0,0,,- Có đúng không?!\N- Đúng vậy...
+Dialogue: 0,0:29:11.26,0:29:13.72,Default,,0,0,0,,Tôi đã mượn những tấm bình phong và tấm thảm.
+Dialogue: 0,0:29:13.80,0:29:16.31,Default,,0,0,0,,Sau đó, tôi kéo đường dây từ\Ncột điện để lấy điện.
+Dialogue: 0,0:29:16.39,0:29:18.85,Default,,0,0,0,,Nhiều việc lắm đấy.
+Dialogue: 0,0:29:18.93,0:29:21.69,Default,,0,0,0,,Tôi đến để xem họ còn ở đây không,
+Dialogue: 0,0:29:21.85,0:29:26.69,Default,,0,0,0,,thì thấy chiếc đầu lìa cổ của Toshio đang treo lủng lẳng trên trần nhà! Tôi đã vô cùng khiếp sợ.
+Dialogue: 0,0:29:26.90,0:29:31.20,Default,,0,0,0,,Sau đó những người kia đến,\Nvà tôi đã hoảng loạn bỏ chạy.
+Dialogue: 0,0:29:31.45,0:29:34.12,Default,,0,0,0,,Tôi không phải là kẻ sát nhân! Mọi người phải tin tôi!
+Dialogue: 0,0:29:34.41,0:29:36.74,Default,,0,0,0,,Chúng tôi sẽ sớm làm rõ chuyện đó thôi.
+Dialogue: 0,0:29:36.87,0:29:39.21,Default,,0,0,0,,Mọi người đang ở đâu?
+Dialogue: 0,0:29:39.41,0:29:42.08,Default,,0,0,0,,- Chúng tôi không sống cùng nhau.\N- Còn hai người nhà Yamauchi thì sao?!
+Dialogue: 0,0:29:42.29,0:29:46.38,Default,,0,0,0,,Họ thuê một cái ga-ra ở ngoài thị trấn.
+Dialogue: 0,0:29:59.06,0:30:00.52,Default,,0,0,0,,Nơi này là gì thế?
+Dialogue: 0,0:30:01.19,0:30:03.40,Default,,0,0,0,,Nó đã bị san phẳng trong chiến tranh.
+Dialogue: 0,0:30:03.65,0:30:06.36,Default,,0,0,0,,- Đây là cái ga-ra sao?\N- Phải.
+Dialogue: 0,0:30:43.56,0:30:45.48,Default,,0,0,0,,Nhạc cụ...
+Dialogue: 0,0:30:49.73,0:30:51.57,Default,,0,0,0,,Cậu có tìm thấy Koyuki không?
+Dialogue: 0,0:30:51.69,0:30:53.95,Default,,0,0,0,,Không. Mở cửa ra đi.
+Dialogue: 0,0:30:54.16,0:30:56.66,Default,,0,0,0,,- Cửa sao?\N- Phải, mở ra đi.
+Dialogue: 0,0:31:18.35,0:31:20.68,Default,,0,0,0,,Máu kìa!
+Dialogue: 0,0:31:33.11,0:31:37.87,Default,,0,0,0,,Thưa ngài, đó có phải là…
+Dialogue: 0,0:31:41.20,0:31:45.87,Default,,0,0,0,,Thi thể của Koyuki ở dưới\Ntấm bạt đó. Kéo tấm bạt ra đi.
+Dialogue: 0,0:31:46.62,0:31:51.05,Default,,0,0,0,,- Ý ngài là… một mình tôi sao?\N- Đúng vậy, làm đi.
+Dialogue: 0,0:32:03.64,0:32:06.60,Default,,0,0,0,,Đây chắc hẳn là nơi cái đầu bị cắt lìa.
+Dialogue: 0,0:32:07.98,0:32:11.48,Default,,0,0,0,,Được rồi, tôi hiểu ra rồi.\NChính là ở đây.
+Dialogue: 0,0:32:12.15,0:32:13.36,Default,,0,0,0,,Thưa sếp!
+Dialogue: 0,0:32:13.40,0:32:15.03,Default,,0,0,0,,- Gì thế?\N- Nhìn kìa!
+Dialogue: 0,0:32:17.82,0:32:22.41,Default,,0,0,0,,Một dấu chân đầy máu. Chắc chắn là…
+Dialogue: 0,0:32:22.66,0:32:24.58,Default,,0,0,0,,dấu chân của kẻ sát nhân!
+Dialogue: 0,0:32:24.83,0:32:27.41,Default,,0,0,0,,Trông chúng giống như giày bốt quân đội.
+Dialogue: 0,0:32:30.46,0:32:32.75,Default,,0,0,0,,Cậu có biết gì về chuyện này không?
+Dialogue: 0,0:32:32.96,0:32:34.13,Default,,0,0,0,,Sao hả?
+Dialogue: 0,0:32:35.84,0:32:40.39,Default,,0,0,0,,Có một người đàn ông khác đã đến\Ntìm Toshio và Koyuki,
+Dialogue: 0,0:32:40.43,0:32:43.35,Default,,0,0,0,,trước khi tôi đến ngôi nhà hoang\Ntrên Đồi Bệnh Viện.
+Dialogue: 0,0:32:43.39,0:32:47.02,Default,,0,0,0,,- Ai thế?\N- Tay trống, Sagawa.
+Dialogue: 0,0:32:51.44,0:32:55.48,Default,,0,0,0,,{\i1}Hiện Trường Điều Tra Vụ Án Mạng\NChuông Gió Đầu Người{\i0}
+Dialogue: 0,0:32:57.15,0:32:58.78,Default,,0,0,0,,Cái gì?
+Dialogue: 0,0:33:02.28,0:33:04.54,Default,,0,0,0,,Đó là buổi biểu diễn của nhóm {\i1}Angry Pirates{\i0}.
+Dialogue: 0,0:33:07.62,0:33:09.75,Default,,0,0,0,,Koyuki là ca sĩ.
+Dialogue: 0,0:33:11.67,0:33:15.42,Default,,0,0,0,,Cô ấy trông giống hệt Yukari Hogen.
+Dialogue: 0,0:33:17.63,0:33:21.72,Default,,0,0,0,,Sagawa. Tôi được biết anh đã\Nẩu đả với Toshio trong lúc...
+Dialogue: 0,0:33:21.93,0:33:23.51,Default,,0,0,0,,buổi biểu diễn vào ngày hôm kia.
+Dialogue: 0,0:33:23.68,0:33:26.64,Default,,0,0,0,,- Đúng vậy.\N- Và Toshio đã đấm vào mắt anh.
+Dialogue: 0,0:33:28.64,0:33:30.52,Default,,0,0,0,,Cuộc ẩu đả đó là về chuyện gì?
+Dialogue: 0,0:33:30.85,0:33:34.02,Default,,0,0,0,,Toshio nói cậu ta định kết hôn với Koyuki.
+Dialogue: 0,0:33:34.77,0:33:37.53,Default,,0,0,0,,Cậu ta đã đưa cô ấy đi ngay giữa buổi biểu diễn.
+Dialogue: 0,0:33:37.57,0:33:40.36,Default,,0,0,0,,Và anh có tình cảm với cô ấy?
+Dialogue: 0,0:33:44.07,0:33:48.00,Default,,0,0,0,,Đúng vậy. Tôi chắc rằng cô ấy yêu cậu ta\Nnhư một người anh trai,
+Dialogue: 0,0:33:48.16,0:33:51.04,Default,,0,0,0,,nhưng tôi chưa bao giờ nghĩ cô ấy sẽ\Nkết hôn với gã đó.
+Dialogue: 0,0:33:51.42,0:33:55.34,Default,,0,0,0,,Vậy ra anh đã tấn công họ ở nhà\Nxe trong một cơn ghen tuông sao?
+Dialogue: 0,0:33:55.67,0:33:59.47,Default,,0,0,0,,Dĩ nhiên là tôi đã rất tức giận khi đến\Nđó! Nhưng tôi không hề có ý định giết họ!
+Dialogue: 0,0:33:59.67,0:34:01.38,Default,,0,0,0,,Hãy hỏi các thành viên\Nkhác trong ban nhạc đi!
+Dialogue: 0,0:34:02.26,0:34:04.22,Default,,0,0,0,,Tôi đã lo lắng cho họ!
+Dialogue: 0,0:34:05.26,0:34:07.97,Default,,0,0,0,,Nhưng họ đã đi mất rồi khi tôi đến nơi.
+Dialogue: 0,0:34:08.02,0:34:11.64,Default,,0,0,0,,- Khắp nơi toàn là máu, nên tôi đã bỏ đi.\N- Nói dối!
+Dialogue: 0,0:34:12.06,0:34:16.27,Default,,0,0,0,,Anh đang giấu Koyuki. Cô ấy đang ở đâu?
+Dialogue: 0,0:34:16.44,0:34:19.24,Default,,0,0,0,,Tôi ước gì mình biết được.
+Dialogue: 0,0:34:20.07,0:34:21.82,Default,,0,0,0,,- Thanh tra!\N- Gì thế?
+Dialogue: 0,0:34:23.74,0:34:25.62,Default,,0,0,0,,Có chuyện gì vậy?
+Dialogue: 0,0:34:26.45,0:34:28.41,Default,,0,0,0,,Đã có kết quả từ phòng thí nghiệm.
+Dialogue: 0,0:34:28.66,0:34:31.71,Default,,0,0,0,,Tôi phát hiện ra đó thực sự là\Nmáu trên đế giày của Sagawa.
+Dialogue: 0,0:34:31.71,0:34:33.21,Default,,0,0,0,,Kết quả kiểm tra luminol dương tính?
+Dialogue: 0,0:34:33.46,0:34:38.67,Default,,0,0,0,,Đó là máu. Và theo báo cáo của\Npháp y về phần đầu…
+Dialogue: 0,0:34:38.67,0:34:40.51,Default,,0,0,0,,Cái gì đây?
+Dialogue: 0,0:34:40.71,0:34:44.80,Default,,0,0,0,,Nó đã bị cắt lìa khoảng hai tiếng sau khi chết.
+Dialogue: 0,0:34:44.84,0:34:50.43,Default,,0,0,0,,Vậy chắc là Toshio đã chết trong khoảng\N8:00 - 10:00 giờ tối hôm kia.
+Dialogue: 0,0:34:50.64,0:34:52.06,Default,,0,0,0,,10:00 giờ tối?
+Dialogue: 0,0:34:55.52,0:34:59.32,Default,,0,0,0,,Thời điểm đó trùng với lúc\NSagawa đang ở gara.
+Dialogue: 0,0:35:00.57,0:35:04.53,Default,,0,0,0,,Tôi tìm ra rồi!
+Dialogue: 0,0:35:04.78,0:35:08.87,Default,,0,0,0,,Hung thủ của chúng ta là Sagawa và Koyuki!\NĐộng não chút đi.
+Dialogue: 0,0:35:09.83,0:35:12.16,Default,,0,0,0,,Cả hai đều có động cơ...
+Dialogue: 0,0:35:12.58,0:35:15.88,Default,,0,0,0,,Koyuki bị ép buộc phải cưới Toshio,
+Dialogue: 0,0:35:16.33,0:35:20.30,Default,,0,0,0,,và Sagawa là tình địch\Ntranh giành tình cảm của cô ấy.
+Dialogue: 0,0:35:20.67,0:35:24.55,Default,,0,0,0,,Loại tội ác cẩu thả này là\Nkết cục quá đỗi quen thuộc của những mối tình tay ba.
+Dialogue: 0,0:35:24.55,0:35:27.72,Default,,0,0,0,,Chúng ta đã bắt giữ Sagawa rồi.\NHãy phát lệnh truy nã Koyuki.
+Dialogue: 0,0:35:29.10,0:35:30.81,Default,,0,0,0,,Ồ, cậu Kindaichi.
+Dialogue: 0,0:35:31.77,0:35:35.94,Default,,0,0,0,,- Có chuyện gì thế?\N- Tôi muốn gặp Sĩ quan Kano.
+Dialogue: 0,0:35:38.48,0:35:40.65,Default,,0,0,0,,Kano - ồ, cựu cảnh sát hình sự đó sao?
+Dialogue: 0,0:35:40.98,0:35:43.40,Default,,0,0,0,,Hiện giờ anh ấy ở Phòng Phòng chống Tội phạm.
+Dialogue: 0,0:35:43.49,0:35:44.86,Default,,0,0,0,,Cậu muốn gì?! 
+Dialogue: 0,0:35:45.36,0:35:49.41,Default,,0,0,0,,Ông ấy là sĩ quan phụ trách khi\Nngười phụ nữ đó treo cổ tự tử.
+Dialogue: 0,0:35:49.62,0:35:51.91,Default,,0,0,0,,Tôi chỉ muốn xem lại một vài chi tiết.
+Dialogue: 0,0:35:52.16,0:35:54.71,Default,,0,0,0,,Những chi tiết liên quan đến cuộc điều tra này à?
+Dialogue: 0,0:35:54.75,0:35:57.88,Default,,0,0,0,,Tôi vẫn chưa chắc chắn. Tạm biệt.
+Dialogue: 0,0:35:59.88,0:36:05.26,Default,,0,0,0,,Tôi nhìn thấy gã đó ở đâu đó trước đây rồi.\NCậu có biết anh ta không?
+Dialogue: 0,0:36:05.38,0:36:07.51,Default,,0,0,0,,Chưa từng gặp bao giờ.
+Dialogue: 0,0:36:09.68,0:36:11.26,Default,,0,0,0,,Lại nữa rồi!
+Dialogue: 0,0:36:16.27,0:36:18.27,Default,,0,0,0,,Họ lại bắt đầu rồi.
+Dialogue: 0,0:36:18.48,0:36:23.32,Default,,0,0,0,,Tôi đã yêu cầu sở cứu hỏa\Nđặt biển cấm đốt lửa trại ở đây,
+Dialogue: 0,0:36:23.73,0:36:26.20,Default,,0,0,0,,nhưng họ có thèm nghe đâu?
+Dialogue: 0,0:36:26.40,0:36:32.45,Default,,0,0,0,,Tôi biết mà, cậu tìm thấy tôi nhờ tra\Nmột tờ báo cũ.
+Dialogue: 0,0:36:32.66,0:36:36.21,Default,,0,0,0,,Đó là cuộc điều tra cuối cùng của tôi\Nvới tư cách là thám tử.
+Dialogue: 0,0:36:36.71,0:36:40.42,Default,,0,0,0,,Ông Kano, theo như tờ báo,
+Dialogue: 0,0:36:40.58,0:36:44.59,Default,,0,0,0,,phần đầu là của một người phụ nữ 33 tuổi\Ntên là Fuyuko Yamauchi.
+Dialogue: 0,0:36:44.63,0:36:47.68,Default,,0,0,0,,- Đúng vậy.\N- Phương thức tự sát là gì?
+Dialogue: 0,0:36:47.88,0:36:51.01,Default,,0,0,0,,Báo chí cho biết động cơ đang được điều\Ntra, nhưng không có thêm báo cáo nào khác.
+Dialogue: 0,0:36:51.05,0:36:53.89,Default,,0,0,0,,- Chúng tôi chưa bao giờ tìm ra.\N- Không có thư tuyệt mệnh sao? - Không.
+Dialogue: 0,0:36:54.72,0:36:57.43,Default,,0,0,0,,Cô ấy là người như thế nào?
+Dialogue: 0,0:36:57.48,0:37:03.69,Default,,0,0,0,,Cô ấy có mối liên hệ chặt chẽ\Nvới Ngôi nhà Hogen bỏ hoang.
+Dialogue: 0,0:37:03.90,0:37:10.16,Default,,0,0,0,,Tôi đã lần theo mọi manh mối trong vụ án.
+Dialogue: 0,0:37:11.87,0:37:17.87,Default,,0,0,0,,Cô ấy là nhân tình của giám\Nđốc bệnh viện, Tatsuya Hogen.
+Dialogue: 0,0:37:18.08,0:37:23.17,Default,,0,0,0,,Tatsuya đã chết trong một trận không kích\Nkhoảng một năm trước khi xảy ra vụ việc.
+Dialogue: 0,0:37:23.21,0:37:28.34,Default,,0,0,0,,- Và vợ của Tatsuya là Yayoi sao?\N- Đúng vậy, về mặt pháp lý.
+Dialogue: 0,0:37:29.59,0:37:32.22,Default,,0,0,0,,Fuyuko có con không?
+Dialogue: 0,0:37:32.26,0:37:35.06,Default,,0,0,0,,Có, một trai và một gái.
+Dialogue: 0,0:37:35.47,0:37:40.19,Default,,0,0,0,,Đứa con trai là Toshio\Nvà đứa con gái là Koyuki.
+Dialogue: 0,0:37:41.19,0:37:45.61,Default,,0,0,0,,Tôi nhớ chuyện đó như mới ngày hôm qua.
+Dialogue: 0,0:37:45.82,0:37:49.45,Default,,0,0,0,,Thật tàn nhẫn, thật đáng buồn.
+Dialogue: 0,0:37:52.07,0:38:00.08,Default,,0,0,0,,Hai đứa con của cô ấy đứng bên dưới\Nthi thể treo lơ lửng của cô ấy.
+Dialogue: 0,0:38:00.25,0:38:02.79,Default,,0,0,0,,{\i1}HOGEN{\i0}
+Dialogue: 0,0:38:03.79,0:38:06.63,Default,,0,0,0,,Việc hai đứa trẻ đó lại là con của Fuyuko...
+Dialogue: 0,0:38:08.17,0:38:11.05,Default,,0,0,0,,dường như là một trò đùa tàn nhẫn của số phận.
+Dialogue: 0,0:38:11.38,0:38:14.35,Default,,0,0,0,,Sau sự việc năm năm trước,
+Dialogue: 0,0:38:14.47,0:38:19.06,Default,,0,0,0,,ông đã cất công tìm kiếm những đứa con của cô ấy.
+Dialogue: 0,0:38:20.35,0:38:22.56,Default,,0,0,0,,Mẹ biết con nghĩ gì không?
+Dialogue: 0,0:38:23.15,0:38:27.65,Default,,0,0,0,,Hai người đó đã lên kế hoạch gửi cho\Nchúng ta những bức ảnh cưới của họ...
+Dialogue: 0,0:38:27.82,0:38:30.03,Default,,0,0,0,,và cả cái đầu bị cắt lìa nữa.
+Dialogue: 0,0:38:30.61,0:38:35.37,Default,,0,0,0,,- Tại sao?\N- Mẹ à, họ căm ghét gia đình Hogen.
+Dialogue: 0,0:38:39.91,0:38:41.33,Default,,0,0,0,,Vớ vẩn.
+Dialogue: 0,0:38:41.37,0:38:44.92,Default,,0,0,0,,Họ không ghét chúng ta.\NĐiều đó hoàn toàn vô lý.
+Dialogue: 0,0:38:45.96,0:38:51.38,Default,,0,0,0,,Ngày trước khi cô ấy treo cổ\Ntự tử, Fuyuko đã đến nhà Hogen.
+Dialogue: 0,0:38:52.68,0:39:00.47,Default,,0,0,0,,Chắc chắn đã có chuyện gì đó xảy ra,\Nnhưng ai mà biết được là chuyện gì chứ?
+Dialogue: 0,0:39:00.72,0:39:03.85,Default,,0,0,0,,Công việc của Fuyuko Yamauchi là gì?
+Dialogue: 0,0:39:04.06,0:39:07.65,Default,,0,0,0,,Cô ấy là vợ của một họa\Nsĩ đang chật vật kiếm sống.
+Dialogue: 0,0:39:08.02,0:39:10.40,Default,,0,0,0,,Chồng cô ấy có một đứa\Ncon từ cuộc hôn nhân trước.
+Dialogue: 0,0:39:10.90,0:39:12.15,Default,,0,0,0,,Đó là Toshio.
+Dialogue: 0,0:39:12.36,0:39:17.24,Default,,0,0,0,,Anh ta đột ngột qua đời, và\NFuyuko đã nuôi nấng cậu bé.
+Dialogue: 0,0:39:17.41,0:39:22.58,Default,,0,0,0,,Cô ấy đang làm phục vụ bàn ở một quán cà phê\Nkhi cô ấy gặp Takuya.
+Dialogue: 0,0:39:22.79,0:39:25.33,Default,,0,0,0,,Họ là bố mẹ của Koyuki.
+Dialogue: 0,0:39:25.37,0:39:28.13,Default,,0,0,0,,Đúng vậy. Trong khi đang làm bác sĩ,
+Dialogue: 0,0:39:28.34,0:39:31.76,Default,,0,0,0,,Takuya đã gặt hái được chút tiếng tăm\Nvới tư cách là một nhạc sĩ.
+Dialogue: 0,0:39:32.34,0:39:34.18,Default,,0,0,0,,Một nhà soạn nhạc sao?
+Dialogue: 0,0:39:34.38,0:39:39.81,Default,,0,0,0,,Yayoi là một người phụ nữ mạnh mẽ.\NBà ấy không có thời gian dành cho nghệ thuật.
+Dialogue: 0,0:39:40.01,0:39:45.35,Default,,0,0,0,,Tuy nhiên, ngay cả bây giờ bà ấy vẫn đang điều hành\Nbệnh viện khá tốt.
+Dialogue: 0,0:39:45.52,0:39:49.44,Default,,0,0,0,,Yayoi có biết về Fuyuko không?
+Dialogue: 0,0:39:50.02,0:39:52.03,Default,,0,0,0,,Có vẻ là vậy.
+Dialogue: 0,0:39:52.32,0:39:55.70,Default,,0,0,0,,Cảm ơn vì đã dành thời gian cho tôi.
+Dialogue: 0,0:39:55.91,0:40:02.50,Default,,0,0,0,,Không có gì, tôi chỉ đang giết thời gian\Ncho đến khi nghỉ hưu vào năm sau.
+Dialogue: 0,0:40:02.75,0:40:08.92,Default,,0,0,0,,Việc này giống một sở thích hơn\Nlà bất cứ điều gì khác.
+Dialogue: 0,0:40:11.59,0:40:16.38,Default,,0,0,0,,Này, đã có chuyện gì xảy ra ở\Nngôi nhà hoang nhà Hogen à?
+Dialogue: 0,0:40:16.47,0:40:19.80,Default,,0,0,0,,Đúng vậy, có một cái đầu bị chặt lìa\Ntreo ở đó.
+Dialogue: 0,0:40:20.51,0:40:23.39,Default,,0,0,0,,Yukari đã không về nhà ba ngày rồi,
+Dialogue: 0,0:40:23.43,0:40:27.44,Default,,0,0,0,,nên tôi đã rất ngạc nhiên khi thấy cô ấy\Nở nhà ngày hôm nay.
+Dialogue: 0,0:40:28.27,0:40:30.31,Default,,0,0,0,,Cô ấy đã ở đâu?
+Dialogue: 0,0:40:30.61,0:40:33.82,Default,,0,0,0,,Yukari đã ở trong nhà nghỉ của chúng tôi trên núi Hiei.
+Dialogue: 0,0:40:34.53,0:40:40.12,Default,,0,0,0,,Khi cảnh sát triệu tập chúng tôi, anh đã rời đi trước\Nvà cô ấy đã về đến nhà ngay sau đó.
+Dialogue: 0,0:40:40.37,0:40:45.04,Default,,0,0,0,,Một khi cô ấy đã quyết định,\Ncô ấy chẳng nghĩ đến điều gì ngoài bản thân mình.
+Dialogue: 0,0:40:45.25,0:40:47.92,Default,,0,0,0,,Cô ấy khá là ích kỷ.
+Dialogue: 0,0:40:48.12,0:40:51.92,Default,,0,0,0,,Thưa phu nhân. Là trưởng khoa nội.
+Dialogue: 0,0:40:56.22,0:40:58.38,Default,,0,0,0,,Mẹ! Mẹ!
+Dialogue: 0,0:40:58.93,0:41:02.85,Default,,0,0,0,,Con nghĩ dì Yayoi đã biết Yukari\Nđang ở nhà nghỉ.
+Dialogue: 0,0:41:03.22,0:41:04.81,Default,,0,0,0,,Con đang nói gì thế?
+Dialogue: 0,0:41:05.02,0:41:07.52,Default,,0,0,0,,Con nghĩ dì ấy không muốn con gặp Yukari.
+Dialogue: 0,0:41:07.73,0:41:11.27,Default,,0,0,0,,Dì Yayoi không muốn con trở thành\Nngười thừa kế của gia sản nhà Hogen,
+Dialogue: 0,0:41:11.48,0:41:14.32,Default,,0,0,0,,đó là lý do dì ấy không muốn\Ncon kết hôn với Yukari.
+Dialogue: 0,0:41:27.00,0:41:28.83,Default,,0,0,0,,Cậu Kindaichi?
+Dialogue: 0,0:41:33.13,0:41:35.96,Default,,0,0,0,,Tôi là họ hàng của nhà Hogen.
+Dialogue: 0,0:41:36.17,0:41:40.05,Default,,0,0,0,,Bà Yayoi muốn nói chuyện với cậu.
+Dialogue: 0,0:41:51.27,0:41:53.77,Default,,0,0,0,,Tôi cũng muốn nói chuyện với cậu.
+Dialogue: 0,0:41:54.36,0:41:57.23,Default,,0,0,0,,Chúng ta đã gặp nhau sáng nay.
+Dialogue: 0,0:41:57.44,0:42:00.53,Default,,0,0,0,,À, phải rồi. Thám tử tư.
+Dialogue: 0,0:42:02.95,0:42:08.20,Default,,0,0,0,,Tôi muốn cậu tìm Koyuki Yamauchi.
+Dialogue: 0,0:42:10.08,0:42:19.17,Default,,0,0,0,,Tôi tin là cô ấy vẫn còn sống.
+Dialogue: 0,0:42:20.93,0:42:27.97,Default,,0,0,0,,Toshio và Koyuki có\Nliên hệ với gia tộc Hogen.
+Dialogue: 0,0:42:28.02,0:42:30.98,Default,,0,0,0,,Tôi biết về Ngôi Nhà Treo Cổ.
+Dialogue: 0,0:42:32.35,0:42:34.23,Default,,0,0,0,,Tôi hiểu rồi.
+Dialogue: 0,0:42:34.98,0:42:39.99,Default,,0,0,0,,Chỉ nghĩ về chuyện đó thôi\Ncũng đủ khiến tôi rùng mình.
+Dialogue: 0,0:42:41.45,0:42:45.83,Default,,0,0,0,,Fuyuko đã đến gặp tôi ngay trước khi cô ấy qua đời.
+Dialogue: 0,0:42:46.33,0:42:51.46,Default,,0,0,0,,Lúc đó tôi đi vắng. Cô ấy\Nđã nói chuyện với Yukari.
+Dialogue: 0,0:42:51.71,0:42:53.33,Default,,0,0,0,,Yukari?
+Dialogue: 0,0:42:53.54,0:42:57.13,Default,,0,0,0,,{\i1}Cô ấy mới 17 tuổi.{\i0}
+Dialogue: 0,0:42:57.59,0:42:59.63,Default,,0,0,0,,Biến khỏi đây ngay!
+Dialogue: 0,0:43:02.42,0:43:07.76,Default,,0,0,0,,Sao cô lại nhìn tôi chằm\Nchằm như thế?! Nói gì đi chứ!
+Dialogue: 0,0:43:08.35,0:43:13.35,Default,,0,0,0,,Tôi xin lỗi.\NTôi đến để gặp Yayoi.
+Dialogue: 0,0:43:13.56,0:43:15.73,Default,,0,0,0,,Tuyệt đối không!
+Dialogue: 0,0:43:15.77,0:43:19.40,Default,,0,0,0,,Cô chỉ là người ngoài đối với gia đình này.
+Dialogue: 0,0:43:19.44,0:43:21.82,Default,,0,0,0,,Cô tự dưng đến nhà chúng tôi và nói cô\Nlà nhân tình của người cha quá cố của tôi.
+Dialogue: 0,0:43:21.86,0:43:25.70,Default,,0,0,0,,"Tôi là con gái của ông ấy", cô\Nnghĩ tôi sẽ cho cô vào nhà sao?!
+Dialogue: 0,0:43:27.41,0:43:33.16,Default,,0,0,0,,Tôi chưa từng ngờ rằng ông ấy\Nlại có người đàn bà khác bên ngoài.
+Dialogue: 0,0:43:34.12,0:43:38.04,Default,,0,0,0,,Tôi biết cô đang giận...
+Dialogue: 0,0:43:39.80,0:43:46.18,Default,,0,0,0,,nhưng tôi muốn nói chuyện với mẹ của cô.
+Dialogue: 0,0:43:48.01,0:43:51.02,Default,,0,0,0,,Tôi van xin cô...
+Dialogue: 0,0:43:51.31,0:43:55.69,Default,,0,0,0,,Làm ơn... Cho tôi gặp bà ấy!
+Dialogue: 0,0:43:56.06,0:43:59.36,Default,,0,0,0,,Cô đang túng quẫn rồi.\NCô muốn tiền, đúng không?
+Dialogue: 0,0:43:59.57,0:44:01.73,Default,,0,0,0,,- Không!\N- Đồ dối trá! - Không phải.
+Dialogue: 0,0:44:01.98,0:44:05.65,Default,,0,0,0,,Đồ ăn mày!\NCô còn tệ hơn cả một kẻ ăn mày.
+Dialogue: 0,0:44:05.86,0:44:09.87,Default,,0,0,0,,Cô đến đây và đưa ra những lời vu khống\Nvô căn cứ. Đây là tống tiền. Đồ bịp bợm!
+Dialogue: 0,0:44:11.29,0:44:17.00,Default,,0,0,0,,Tại sao hôm đó Fuyuko lại đến?\NBà có bao giờ tìm ra lý do chưa?
+Dialogue: 0,0:44:17.21,0:44:19.13,Default,,0,0,0,,Có chứ.
+Dialogue: 0,0:44:20.59,0:44:24.92,Default,,0,0,0,,Fuyuko chắc hẳn đã rất\Nngạc nhiên khi thấy Yukari và...
+Dialogue: 0,0:44:25.13,0:44:27.76,Default,,0,0,0,,con gái ruột của bà ấy\Ngiống nhau đến nhường nào.
+Dialogue: 0,0:44:29.76,0:44:34.02,Default,,0,0,0,,"Tôi xin lỗi vì sự náo loạn này."
+Dialogue: 0,0:44:34.27,0:44:42.36,Default,,0,0,0,,"Tôi, Koyuki Yamauchi, đã giết\Nanh trai tôi, Toshio Yamauchi."
+Dialogue: 0,0:44:44.28,0:44:50.03,Default,,0,0,0,,Lá thư này đã ở trong hộp\Nthư của cảnh sát sáng nay.
+Dialogue: 0,0:44:50.37,0:44:54.75,Default,,0,0,0,,Nó được gửi cho Đội\NĐiều tra Đồi Bệnh viện.
+Dialogue: 0,0:44:55.00,0:45:00.54,Default,,0,0,0,,Koyuki Yamauchi đã ký tên mình ở mặt sau.
+Dialogue: 0,0:45:00.75,0:45:04.84,Default,,0,0,0,,Sagawa và mọi thành viên khác\Ncủa nhóm {\i1}The Angry Pirates{\i0}...
+Dialogue: 0,0:45:04.88,0:45:08.97,Default,,0,0,0,,đều xác nhận rằng đó thực\Nsự là nét chữ của Koyuki.
+Dialogue: 0,0:45:09.59,0:45:14.89,Default,,0,0,0,,Dấu bưu điện đóng trên con tem cho thấy nó đã được gửi đi một ngày sau khi vụ việc xảy ra.
+Dialogue: 0,0:45:16.39,0:45:22.27,Default,,0,0,0,,Đây là lý do tại sao tôi yêu cầu tất cả các bạn\Nđến đây hôm nay.
+Dialogue: 0,0:45:22.27,0:45:24.65,Default,,0,0,0,,- Ờ...\N- Cái gì?
+Dialogue: 0,0:45:24.86,0:45:29.20,Default,,0,0,0,,Yayoi không thể tham dự\Ndo có cuộc họp ở bệnh viện.
+Dialogue: 0,0:45:30.20,0:45:33.91,Default,,0,0,0,,- Còn tay thám tử đó thì sao?\N- Tôi không biết địa chỉ của anh ta.
+Dialogue: 0,0:45:34.37,0:45:36.62,Default,,0,0,0,,Ôi, ai mà thèm quan tâm đến hắn chứ?
+Dialogue: 0,0:45:37.12,0:45:42.84,Default,,0,0,0,,Về động cơ của vụ giết người, nó viết rằng,
+Dialogue: 0,0:45:43.71,0:45:49.93,Default,,0,0,0,,\"Chúng tôi là anh em,\Nmặc dù không cùng huyết thống.
+Dialogue: 0,0:45:50.34,0:45:55.01,Default,,0,0,0,,\"Tình yêu mãnh liệt của anh ấy dành cho tôi\Nlà một sự bất ngờ,
+Dialogue: 0,0:45:55.22,0:45:59.48,Default,,0,0,0,,\"và mặc dù tôi đã đồng ý kết hôn với anh ấy,
+Dialogue: 0,0:45:59.69,0:46:03.65,Default,,0,0,0,,\"nhưng khi tình yêu của Toshio ngày càng\Ntrở nên mãnh liệt hơn,
+Dialogue: 0,0:46:04.15,0:46:09.86,Default,,0,0,0,,\"tôi chỉ có thể nhìn thấy sự đau khổ trong tương lai của chúng tôi.
+Dialogue: 0,0:46:10.07,0:46:14.16,Default,,0,0,0,,\"Tôi đã đề nghị chúng tôi nên chia tay,
+Dialogue: 0,0:46:14.49,0:46:18.45,Default,,0,0,0,,\"nhưng tôi không ngờ rằng anh ấy\Nlại phản ứng như vậy.
+Dialogue: 0,0:46:19.00,0:46:24.13,Default,,0,0,0,,\"Toshio nổi cơn lôi đình và không chịu để tôi đi.
+Dialogue: 0,0:46:25.25,0:46:30.76,Default,,0,0,0,,\"Khi anh ấy bình tĩnh lại,\Nchúng tôi bắt đầu tranh cãi.
+Dialogue: 0,0:46:31.01,0:46:35.55,Default,,0,0,0,,\"Tôi đã vô tình đâm anh ấy bằng\Nmột chiếc kéo.
+Dialogue: 0,0:46:35.81,0:46:39.98,Default,,0,0,0,,\"Trước khi tôi kịp nhận ra, Toshio đã đầy...
+Dialogue: 0,0:46:40.14,0:46:42.85,Default,,0,0,0,,\"máu và cận kề cái chết.
+Dialogue: 0,0:46:43.52,0:46:50.69,Default,,0,0,0,,"Trong hơi thở cuối cùng,\NToshio nói rằng tôi nên chặt đầu anh ấy,
+Dialogue: 0,0:46:50.69,0:46:58.74,Default,,0,0,0,,\"và treo nó trong nhà Hogen lên\Nchiếc đèn chùm, như một chiếc chuông gió.
+Dialogue: 0,0:46:59.25,0:47:04.33,Default,,0,0,0,,\"Với những lời trăng trối này,\Ntôi đã tìm cách trả thù ngôi nhà...
+Dialogue: 0,0:47:04.54,0:47:08.75,Default,,0,0,0,,\"đã dẫn đến cái chết của mẹ tôi.
+Dialogue: 0,0:47:08.96,0:47:14.51,Default,,0,0,0,,\"Bức ảnh cưới chụp trong ngôi nhà\Ncũng bắt nguồn từ động cơ tương tự.
+Dialogue: 0,0:47:14.72,0:47:19.31,Default,,0,0,0,,\"Tôi tin rằng Toshio đã muốn\Nyểm một lời nguyền lên gia đình Hogen.
+Dialogue: 0,0:47:19.56,0:47:23.48,Default,,0,0,0,,\"Tôi đã quyết định thực hiện\Nyêu cầu của anh ấy trong nhà để xe.
+Dialogue: 0,0:47:23.77,0:47:29.53,Default,,0,0,0,,"Một nghi lễ thiêng liêng. Tôi\Nsẽ đi theo Toshio về bên cạnh mẹ.
+Dialogue: 0,0:47:29.57,0:47:33.74,Default,,0,0,0,,\"Xin hãy coi tôi như một cô\Ngái bất hạnh và đừng đi tìm tôi."
+Dialogue: 0,0:47:33.86,0:47:38.08,Default,,0,0,0,,\"Tôi cầu xin hãy để tôi\Nđược yên giấc ngàn thu.
+Dialogue: 0,0:47:38.83,0:47:41.20,Default,,0,0,0,,\"Ký tên: Koyuki Yamauchi."
+Dialogue: 0,0:47:41.66,0:47:43.79,Default,,0,0,0,,Đó là tất cả những gì cô ấy viết.
+Dialogue: 0,0:47:44.62,0:47:47.84,Default,,0,0,0,,Điều này xóa bỏ mọi nghi\Nvấn về câu chuyện của Sagawa.
+Dialogue: 0,0:47:48.04,0:47:50.30,Default,,0,0,0,,Koyuki đã hành động một mình.
+Dialogue: 0,0:47:50.63,0:47:54.18,Default,,0,0,0,,- Nếu đúng là như thế...\N- Sao cơ?
+Dialogue: 0,0:47:54.26,0:47:56.80,Default,,0,0,0,,Ý anh là vụ án đã được giải quyết rồi sao?
+Dialogue: 0,0:47:56.89,0:48:01.97,Default,,0,0,0,,Đúng vậy, một khi tìm thấy thi thể\Ncủa Koyuki và phần thân của Toshio.
+Dialogue: 0,0:48:24.16,0:48:25.46,Default,,0,0,0,,Ai ở đó thế?
+Dialogue: 0,0:48:28.71,0:48:31.13,Default,,0,0,0,,Cái quái gì...
+Dialogue: 0,0:48:31.38,0:48:35.97,Default,,0,0,0,,Cậu Kindaichi, cậu làm tôi giật cả mình."
+Dialogue: 0,0:48:36.26,0:48:39.85,Default,,0,0,0,,- Chính anh mới là người làm {\i1}tôi{\i0} sợ đấy.\N- Anh đang làm gì ở đây thế?
+Dialogue: 0,0:48:40.10,0:48:42.85,Default,,0,0,0,,Tìm vài thứ. Còn anh thì sao?
+Dialogue: 0,0:48:43.10,0:48:46.19,Default,,0,0,0,,- Để điều tra.\N- Anh là thám tử tư sao?
+Dialogue: 0,0:48:46.81,0:48:48.94,Default,,0,0,0,,Xem cái này đi...
+Dialogue: 0,0:48:54.07,0:48:56.11,Default,,0,0,0,,Một cây kim tiêm mới tinh.
+Dialogue: 0,0:48:56.36,0:48:58.91,Default,,0,0,0,,- Anh tìm thấy nó ở đâu thế?\N- Ngay đằng kia thôi.
+Dialogue: 0,0:48:59.12,0:49:03.58,Default,,0,0,0,,Tôi nghĩ có thể có vật chứng ở đây,\Nnên tôi đã đến để xem thử.
+Dialogue: 0,0:49:03.79,0:49:05.87,Default,,0,0,0,,Khi tôi kiểm tra cây kim tiêm này\Nđể tìm dấu vết của thuốc,
+Dialogue: 0,0:49:06.08,0:49:08.87,Default,,0,0,0,,Tôi phát hiện ra cô dâu\Nđã không ở trong trạng thái tỉnh táo.
+Dialogue: 0,0:49:09.08,0:49:11.79,Default,,0,0,0,,Nghĩa là,\Nđó không phải là một đám cưới bình thường.
+Dialogue: 0,0:49:12.38,0:49:14.59,Default,,0,0,0,,Anh tận tâm thật đấy.
+Dialogue: 0,0:49:14.76,0:49:16.67,Default,,0,0,0,,Đối với tôi thì việc này rất thú vị.
+Dialogue: 0,0:49:17.84,0:49:19.89,Default,,0,0,0,,Và còn một điều nữa,
+Dialogue: 0,0:49:20.09,0:49:23.72,Default,,0,0,0,,Tôi không thể quên được ánh mắt của cô gái\Nđã đến studio vào đêm hôm đó.
+Dialogue: 0,0:49:24.93,0:49:27.98,Default,,0,0,0,,Koyuki đã gửi một bức thư tuyệt mệnh\Ncho cảnh sát.
+Dialogue: 0,0:49:28.81,0:49:32.61,Default,,0,0,0,,Cô ấy đã nhận hết mọi chuyện,\Nvà nói rằng cô ấy cũng định chết.
+Dialogue: 0,0:49:33.48,0:49:35.15,Default,,0,0,0,,Anh nghĩ thế nào về chuyện đó?
+Dialogue: 0,0:49:35.19,0:49:37.74,Default,,0,0,0,,Tôi nghĩ toàn bộ vụ này có gì đó rất mờ ám.
+Dialogue: 0,0:49:38.24,0:49:41.87,Default,,0,0,0,,Đó là lý do tôi đã tìm hiểu về\Ngia phả của nhà Hogen.
+Dialogue: 0,0:49:41.95,0:49:43.12,Default,,0,0,0,,Gia phả sao?
+Dialogue: 0,0:49:43.16,0:49:45.79,Default,,0,0,0,,Vượt xa những gì có được\Ntừ cuộc điều tra của cảnh sát.
+Dialogue: 0,0:49:46.00,0:49:49.12,Default,,0,0,0,,Tôi biết mình phải tìm ra\Ngia tộc Hogen là ai.
+Dialogue: 0,0:49:49.50,0:49:53.46,Default,,0,0,0,,Nhà Hogen là một dòng dõi ngự y\Nđến từ tỉnh Iwate.
+Dialogue: 0,0:49:53.67,0:49:56.21,Default,,0,0,0,,Họ chuyển đến đây vào năm 1868.
+Dialogue: 0,0:49:57.05,0:50:00.84,Default,,0,0,0,,Con trai trưởng của gia đình\Nvào thời điểm đó là Tetsuma.
+Dialogue: 0,0:50:00.89,0:50:03.60,Default,,0,0,0,,Ông ấy đã thành lập bệnh viện ở đây.
+Dialogue: 0,0:50:03.80,0:50:06.77,Default,,0,0,0,,Tetsuma có một người em gái cùng cha khác mẹ tên là Chizu do thói trăng hoa của người cha, cô ấy là một mỹ nhân thực sự.
+Dialogue: 0,0:50:06.85,0:50:10.06,Default,,0,0,0,,Cô ấy đã có một đứa con gái ngoài giá thú\Nvới một trong những bác sĩ.
+Dialogue: 0,0:50:10.10,0:50:13.86,Default,,0,0,0,,Cô bé đó chính là Yayoi.\NKhi nhân tình của Chizu qua đời,
+Dialogue: 0,0:50:14.02,0:50:18.11,Default,,0,0,0,,còn một người đàn ông khác, Mozo Igarashi, người đã yêu cô ấy say đắm.
+Dialogue: 0,0:50:18.49,0:50:21.45,Default,,0,0,0,,Chizu kết hôn với Mozo\Nvà tiếp tục nuôi nấng Yayoi.
+Dialogue: 0,0:50:21.66,0:50:27.95,Default,,0,0,0,,Khi Yayoi đến tuổi trưởng thành, cô kết hôn\Nvới con trai nuôi của Tetsuma Hogen là Takuya.
+Dialogue: 0,0:50:28.12,0:50:30.92,Default,,0,0,0,,Trong khi đó, Mozo Igarashi và Chizu\Nsinh được một cậu con trai tên là Taizo.
+Dialogue: 0,0:50:31.00,0:50:35.25,Default,,0,0,0,,Con trai của người hầu gái Mitsue Tanabe là Shigeru.
+Dialogue: 0,0:50:35.50,0:50:38.05,Default,,0,0,0,,Chuyện này bắt đầu hơi phức\Ntạp rồi đấy. Cậu có theo kịp không?
+Dialogue: 0,0:50:38.13,0:50:39.67,Default,,0,0,0,,Không hẳn.
+Dialogue: 0,0:50:39.72,0:50:44.18,Default,,0,0,0,,Ừ, chính tôi cũng thấy khá rối.\NĐó là lý do tôi đã làm một sơ đồ.
+Dialogue: 0,0:50:47.77,0:50:52.23,Default,,0,0,0,,Anh có thể thấy Chizu Hogen đã\Nmang theo con gái mình là Yayoi,
+Dialogue: 0,0:50:52.48,0:50:55.40,Default,,0,0,0,,và kết hôn với Mozo Igarashi.
+Dialogue: 0,0:50:56.36,0:51:02.66,Default,,0,0,0,,Yayoi sau đó đã kết hôn với người anh họ của mình\NTakuya Hogen.
+Dialogue: 0,0:51:03.32,0:51:05.70,Default,,0,0,0,,Con gái của họ là Yukari.
+Dialogue: 0,0:51:07.37,0:51:11.25,Default,,0,0,0,,Ra vậy...\NCậu lấy thông tin này ở đâu thế?
+Dialogue: 0,0:51:11.37,0:51:14.25,Default,,0,0,0,,Một nữ y tá ở Bệnh viện Hogen đã kể cho tôi nghe.
+Dialogue: 0,0:51:15.75,0:51:17.67,Default,,0,0,0,,Tìm ra chuyện này cũng khá dễ dàng,
+Dialogue: 0,0:51:18.09,0:51:22.30,Default,,0,0,0,,nhưng gia thế của mọi người\Nquả thực có thể rất rắc rối.
+Dialogue: 0,0:51:24.22,0:51:30.85,Default,,0,0,0,,Sơ đồ này cho thấy Takuya Hogen\Nđã có Toshio và Koyuki với Fuyuko.
+Dialogue: 0,0:51:31.60,0:51:35.73,Default,,0,0,0,,Bi kịch của họ là sản phẩm của\Nmột dòng dõi bất hạnh...
+Dialogue: 0,0:51:35.73,0:51:40.82,Default,,0,0,0,,và một sự ra đời không đúng lúc.\NHọ cũng là trẻ mồ côi trong chiến tranh.
+Dialogue: 0,0:51:41.44,0:51:43.74,Default,,0,0,0,,Tôi cũng vậy.
+Dialogue: 0,0:51:44.07,0:51:47.45,Default,,0,0,0,,Tôi đã lang thang hết việc này đến việc khác\Ncho đến khi Tokubei thuê tôi.
+Dialogue: 0,0:51:47.70,0:51:51.66,Default,,0,0,0,,- Thật sao?\N- Không có gì to tát cả.
+Dialogue: 0,0:51:52.33,0:51:55.25,Default,,0,0,0,,Cậu không sợ bị đuổi việc vì la cà\Nở đây với tôi sao?
+Dialogue: 0,0:51:55.50,0:51:57.63,Default,,0,0,0,,Tôi không quan tâm;\Nkiếm việc khác dễ thôi mà.
+Dialogue: 0,0:51:58.42,0:52:02.72,Default,,0,0,0,,Hơn nữa, tôi nghĩ tiệm chụp ảnh\Ncần tôi hơn là tôi cần họ.
+Dialogue: 0,0:52:02.88,0:52:06.39,Default,,0,0,0,,Thật sao. Naokichi đã kết hôn chưa?
+Dialogue: 0,0:52:07.30,0:52:11.22,Default,,0,0,0,,Anh ấy bị bắn xuyên hông trong chiến tranh.
+Dialogue: 0,0:52:11.35,0:52:13.56,Default,,0,0,0,,Tôi nghĩ anh ấy bị bất lực.
+Dialogue: 0,0:52:15.27,0:52:20.52,Default,,0,0,0,,Còn thư tuyệt mệnh của Koyuki:\Nhọ có tìm thấy dấu vân tay của cô ấy không?
+Dialogue: 0,0:52:20.69,0:52:23.99,Default,,0,0,0,,Tôi không biết.
+Dialogue: 0,0:52:24.70,0:52:26.16,Default,,0,0,0,,Tôi phải đi đây!
+Dialogue: 0,0:52:26.57,0:52:28.32,Default,,0,0,0,,Ông Kindaichi, ông đi đâu thế?
+Dialogue: 0,0:52:43.59,0:52:47.30,Default,,0,0,0,,Chúng tôi có rất nhiều kính ảnh của Bệnh viện Hogen.
+Dialogue: 0,0:52:47.38,0:52:50.43,Default,,0,0,0,,Họ là khách hàng thân thiết\Nsuốt ba thế hệ rồi.
+Dialogue: 0,0:52:51.47,0:52:56.14,Default,,0,0,0,,Hôm nọ tôi thấy anh nhìn vào bản thiết kế...
+Dialogue: 0,0:53:00.15,0:53:03.94,Default,,0,0,0,,Anh chẳng kể với tôi chuyện gì cả.
+Dialogue: 0,0:53:05.86,0:53:08.61,Default,,0,0,0,,Rốt cuộc anh đã đi đâu thế hả?!\NTôi đoán anh quên là chúng ta có buổi chụp ngoại cảnh rồi.
+Dialogue: 0,0:53:08.66,0:53:12.12,Default,,0,0,0,,- Xin lỗi.\N- Anh có việc hả?
+Dialogue: 0,0:53:12.95,0:53:15.41,Default,,0,0,0,,Vâng, một tiệc cưới lớn.
+Dialogue: 0,0:53:15.91,0:53:17.96,Default,,0,0,0,,Họ nói rằng...
+Dialogue: 0,0:53:18.21,0:53:20.13,Default,,0,0,0,,Này, chuẩn bị đi chứ!
+Dialogue: 0,0:53:21.59,0:53:24.13,Default,,0,0,0,,...họ cũng sẽ cần một trợ lý.
+Dialogue: 0,0:53:25.88,0:53:27.80,Default,,0,0,0,,Như con đang nói dở,
+Dialogue: 0,0:53:28.26,0:53:31.30,Default,,0,0,0,,Bố định xây một tòa nhà sao?
+Dialogue: 0,0:53:31.47,0:53:33.31,Default,,0,0,0,,Đúng vậy.
+Dialogue: 0,0:53:35.31,0:53:39.85,Default,,0,0,0,,Naokichi, đây không phải lúc\Nđể bám víu vào truyền thống nữa.
+Dialogue: 0,0:53:40.35,0:53:42.77,Default,,0,0,0,,Bố có những kế hoạch mới.
+Dialogue: 0,0:53:43.73,0:53:48.65,Default,,0,0,0,,Bố muốn cải tạo tòa nhà cũ\Nthành một tòa nhà tám tầng.
+Dialogue: 0,0:53:49.07,0:53:53.03,Default,,0,0,0,,Chúng ta sẽ có thể tổ chức\Ntoàn bộ các sự kiện tiệc cưới ở đó.
+Dialogue: 0,0:53:53.78,0:53:57.71,Default,,0,0,0,,Chúng ta sẽ có một sảnh đón khách lớn và nhà hàng ở tầng một.
+Dialogue: 0,0:53:57.75,0:54:00.88,Default,,0,0,0,,Ở tầng hai, chúng ta sẽ có các\Nphòng lễ cưới Thần đạo, Phật giáo...
+Dialogue: 0,0:54:00.92,0:54:04.13,Default,,0,0,0,,và Thiên Chúa giáo, cũng\Nnhư một tiệm làm đẹp.
+Dialogue: 0,0:54:04.21,0:54:09.05,Default,,0,0,0,,Dĩ nhiên, chúng ta cũng sẽ có\Nmột studio chụp ảnh hiện đại.
+Dialogue: 0,0:54:10.26,0:54:15.14,Default,,0,0,0,,Tôi thực sự muốn có cả sảnh tiệc cưới lớn và sảnh tiệc cưới nhỏ.
+Dialogue: 0,0:54:15.43,0:54:17.31,Default,,0,0,0,,Như thế thì tuyệt vời quá...
+Dialogue: 0,0:54:18.31,0:54:21.65,Default,,0,0,0,,Nhưng bố định lấy tiền ở đâu ra chứ?
+Dialogue: 0,0:54:21.73,0:54:24.73,Default,,0,0,0,,Anh lúc nào cũng lóng ngóng vẽ chuyện, nên tôi sẽ phải lo liệu mọi thứ thôi.
+Dialogue: 0,0:54:24.94,0:54:28.86,Default,,0,0,0,,- Cứ chờ mà xem.\N- Được rồi, Naokichi, em sẵn sàng rồi.
+Dialogue: 0,0:54:29.20,0:54:30.45,Default,,0,0,0,,Đi thôi.
+Dialogue: 0,0:54:34.24,0:54:36.20,Default,,0,0,0,,Anh đang nghếch cổ nhìn cái gì thế?
+Dialogue: 0,0:54:36.91,0:54:39.00,Default,,0,0,0,,- Anh định đi như thế kia thật à? - Ừ.
+Dialogue: 0,0:54:39.21,0:54:41.71,Default,,0,0,0,,Ở trong tòa nhà cũ này thì không sao, nhưng...
+Dialogue: 0,0:54:41.87,0:54:43.71,Default,,0,0,0,,Tôi phát chán khi nghe chuyện đó rồi!
+Dialogue: 0,0:54:56.18,0:54:59.93,Default,,0,0,0,,Có tìm thấy dấu vân tay của Koyuki\Ntrên bức thư tuyệt mệnh không?
+Dialogue: 0,0:55:00.02,0:55:03.02,Default,,0,0,0,,Tôi hiểu là vì gửi qua bưu điện\Nnên người khác đã chạm vào nó. Nhưng mà...
+Dialogue: 0,0:55:03.06,0:55:04.31,Default,,0,0,0,,Dấu vân tay ư?
+Dialogue: 0,0:55:04.52,0:55:07.98,Default,,0,0,0,,Nếu các cậu chưa quét tìm vân tay,\Nxin hãy làm ngay đi.
+Dialogue: 0,0:55:25.96,0:55:29.71,Default,,0,0,0,,Thưa sếp, chúng tôi hoàn toàn không tìm thấy dấu vân tay nào\Ntrên giấy viết thư cả!
+Dialogue: 0,0:55:29.92,0:55:31.34,Default,,0,0,0,,Cái gì cơ?!
+Dialogue: 0,0:55:36.93,0:55:40.22,Default,,0,0,0,,Có lẽ Koyuki đã viết bức thư đó\Nkhi đang đeo găng tay.
+Dialogue: 0,0:55:40.47,0:55:42.43,Default,,0,0,0,,Sao cô ấy phải làm thế làm gì chứ?
+Dialogue: 0,0:55:42.69,0:55:46.27,Default,,0,0,0,,Nhắc mới nhớ, hai bộ\Ndấu vân tay đã được tìm thấy ở nhà để xe.
+Dialogue: 0,0:55:46.48,0:55:48.86,Default,,0,0,0,,Một bộ được xác định là\Ncủa tay trống Sagawa,
+Dialogue: 0,0:55:50.36,0:55:52.40,Default,,0,0,0,,và cái còn lại thuộc về nhạc công kèn trumpet Toshio.
+Dialogue: 0,0:55:52.61,0:55:56.24,Default,,0,0,0,,Điều đó có nghĩa là dấu vân tay của Koyuki không hề có trên bất cứ thứ gì liên quan đến vụ án.
+Dialogue: 0,0:55:56.41,0:56:00.12,Default,,0,0,0,,Nhưng Koyuki đã sống ở nhà để\Nxe cho đến khi vụ án mạng xảy ra.
+Dialogue: 0,0:56:00.33,0:56:04.75,Default,,0,0,0,,Thật vô lý. Liệu cô ấy hay ai\Nđó khác đã lau sạch chúng?
+Dialogue: 0,0:56:42.12,0:56:45.41,Default,,0,0,0,,- Tôi cứ nghĩ mình chỉ có một mình.\N- Tôi chưa từng rời đi.
+Dialogue: 0,0:56:45.66,0:56:47.75,Default,,0,0,0,,Thật sao?
+Dialogue: 0,0:56:52.30,0:56:59.47,Default,,0,0,0,,Đã lâu rồi kể từ lần cuối cô\Nthắp nhang cho chồng mình.
+Dialogue: 0,0:57:05.06,0:57:07.44,Default,,0,0,0,,Nhân tiện, cậu Kindaichi đang ở đây.
+Dialogue: 0,0:57:22.79,0:57:24.66,Default,,0,0,0,,Xin lỗi vì đã để mọi người phải đợi.
+Dialogue: 0,0:57:25.12,0:57:28.21,Default,,0,0,0,,Ngôi nhà này có phải là một\Nphần của bệnh viện không?
+Dialogue: 0,0:57:28.58,0:57:32.71,Default,,0,0,0,,Bệnh viện đã bị phá hủy trong chiến tranh,
+Dialogue: 0,0:57:32.92,0:57:35.46,Default,,0,0,0,,nên chúng tôi đã xây lại bệnh viện\Nngay cạnh ngôi nhà.
+Dialogue: 0,0:57:36.26,0:57:40.93,Default,,0,0,0,,Tôi muốn hỏi bà về thư tuyệt mệnh của Koyuki.
+Dialogue: 0,0:57:41.14,0:57:43.68,Default,,0,0,0,,Chuyện đó thật sự là một bất ngờ.
+Dialogue: 0,0:57:44.77,0:57:49.52,Default,,0,0,0,,Koyuki và Yukari là chị em cùng cha khác mẹ,\Nvà tôi đã coi con bé như con gái mình.
+Dialogue: 0,0:57:49.77,0:57:53.23,Default,,0,0,0,,Tôi nghĩ chắc con bé ghét tôi lắm,
+Dialogue: 0,0:57:53.44,0:57:58.03,Default,,0,0,0,,vì mẹ nó qua đời\Nngay sau khi nó đến đây.
+Dialogue: 0,0:57:58.95,0:58:04.12,Default,,0,0,0,,Tôi nghĩ các bản nhạc của chồng bà\Ncó thể ở đây.
+Dialogue: 0,0:58:04.41,0:58:06.41,Default,,0,0,0,,Sao cậu lại hỏi vậy?
+Dialogue: 0,0:58:07.71,0:58:11.88,Default,,0,0,0,,Nó có liên quan gì đến Koyuki sao?
+Dialogue: 0,0:58:12.88,0:58:16.34,Default,,0,0,0,,Mảnh giấy ở hiện trường vụ án mạng\Ncó viết một bài hát trên đó.
+Dialogue: 0,0:58:16.55,0:58:19.63,Default,,0,0,0,,Tôi nghĩ nó có liên quan gì đó đến\NFuyuko và các con của cô ấy.
+Dialogue: 0,0:58:19.97,0:58:23.51,Default,,0,0,0,,Nên nếu còn bản nào khác, tôi muốn xem chúng.
+Dialogue: 0,0:58:24.14,0:58:28.52,Default,,0,0,0,,Tôi chưa từng quan tâm đến\Nâm nhạc của chồng mình.
+Dialogue: 0,0:58:28.73,0:58:33.23,Default,,0,0,0,,Tôi nghĩ các bản nhạc viết tay của ông ấy đã bị tiêu hủy trong chiến tranh.
+Dialogue: 0,0:58:36.23,0:58:40.07,Default,,0,0,0,,- Có cảnh sát đến.\N- Xin lỗi vì đã làm phiền.
+Dialogue: 0,0:58:40.11,0:58:42.66,Default,,0,0,0,,Thật may là gặp được anh ở đây.
+Dialogue: 0,0:58:43.03,0:58:46.12,Default,,0,0,0,,Không phải Tokubei Honjo đã thuê anh\Nđể điều tra sao?
+Dialogue: 0,0:58:46.16,0:58:49.29,Default,,0,0,0,,- Đúng vậy.\N- Để làm gì?
+Dialogue: 0,0:58:49.50,0:58:51.71,Default,,0,0,0,,Ông ấy đã gặp tai nạn tại một tòa nhà bỏ hoang.
+Dialogue: 0,0:58:51.79,0:58:54.17,Default,,0,0,0,,Tokubei Honjo đã bị sát hại!
+Dialogue: 0,0:59:06.93,0:59:09.60,Default,,0,0,0,,Ông ấy bị giết tại phòng chụp ảnh.
+Dialogue: 0,0:59:10.73,0:59:14.61,Default,,0,0,0,,- Khi nào?\N- Khoảng 1 giờ chiều hôm nay.
+Dialogue: 0,0:59:15.44,0:59:21.24,Default,,0,0,0,,{\i1}Naokichi và Mokutaro trở về nhà\Nvà thấy đèn đỏ trong phòng tối đang bật,{\i0}
+Dialogue: 0,0:59:21.49,0:59:25.07,Default,,0,0,0,,{\i1}mặc dù cửa đang mở.\NKhi họ nhìn vào bên trong,{\i0}
+Dialogue: 0,0:59:25.24,0:59:30.20,Default,,0,0,0,,{\i1}họ phát hiện Tokubei đã chết,\Nvới đầu úp trong chậu.{\i0}
+Dialogue: 0,0:59:30.37,0:59:35.96,Default,,0,0,0,,{\i1}Đầu ông ấy bị đập vỡ\Nbằng một khay đựng nước,{\i0}
+Dialogue: 0,0:59:36.17,0:59:39.05,Default,,0,0,0,,{\i1}và ông ấy đã bị ngạt nước.{\i0}
+Dialogue: 0,0:59:39.38,0:59:43.72,Default,,0,0,0,,Nguyên nhân trực tiếp dẫn đến tử vong là ngạt thở.
+Dialogue: 0,0:59:45.01,0:59:48.26,Default,,0,0,0,,Theo lời khai từ Naokichi và Mokutaro,
+Dialogue: 0,0:59:48.43,0:59:51.06,Default,,0,0,0,,họ đang chụp ảnh một tiệc cưới.
+Dialogue: 0,0:59:51.10,0:59:54.73,Default,,0,0,0,,Tuy nhiên, khi họ đến địa điểm được chỉ định,
+Dialogue: 0,0:59:54.73,0:59:58.90,Default,,0,0,0,,họ phát hiện ra rằng trên thực tế không có tiệc cưới nào được tổ chức.
+Dialogue: 0,0:59:59.19,1:00:01.61,Default,,0,0,0,,Vì vậy, chúng ta có thể kết luận rằng...
+Dialogue: 0,1:00:01.65,1:00:05.53,Default,,0,0,0,,kẻ thủ ác đã đặt lịch hẹn để hắn có thể thực hiện tội ác nham hiểm của mình.
+Dialogue: 0,1:00:05.66,1:00:06.99,Default,,0,0,0,,Ai đã đặt lịch hẹn?
+Dialogue: 0,1:00:07.37,1:00:09.45,Default,,0,0,0,,Rõ ràng đó là một người đàn ông.
+Dialogue: 0,1:00:10.58,1:00:16.42,Default,,0,0,0,,Tôi muốn hỏi bạn về mối quan hệ của bà\Nvới Tiệm ảnh Honjo?
+Dialogue: 0,1:00:16.83,1:00:21.76,Default,,0,0,0,,Tôi chỉ hỏi vì,\Nsau khi kẻ sát nhân kết liễu Tokubei,
+Dialogue: 0,1:00:21.96,1:00:25.26,Default,,0,0,0,,hắn đã lấy tất cả những tấm bản kính khô cũ\Nđược lưu trữ ở đó,
+Dialogue: 0,1:00:25.30,1:00:28.39,Default,,0,0,0,,và đập nát những tấm liên quan đến gia đình anh.
+Dialogue: 0,1:00:29.31,1:00:34.89,Default,,0,0,0,,Naokichi và Mokutaro nói rằng gia đình\NHogen từ trước đến nay luôn là khách hàng,
+Dialogue: 0,1:00:35.14,1:00:39.57,Default,,0,0,0,,nhưng ngoài điều này ra, họ không thể nói gì thêm.
+Dialogue: 0,1:00:41.32,1:00:47.20,Default,,0,0,0,,Ngoại trừ việc chúng tôi từng chụp\Nảnh tại hiệu ảnh Honjo,
+Dialogue: 0,1:00:47.41,1:00:51.08,Default,,0,0,0,,tôi không thể nghĩ ra điều gì khác.
+Dialogue: 0,1:00:51.24,1:00:53.16,Default,,0,0,0,,Tôi hiểu rồi.
+Dialogue: 0,1:00:54.16,1:00:58.54,Default,,0,0,0,,Tuy nhiên, tôi không thể tin rằng đây chỉ\Nđơn giản là một vụ trộm cắp.
+Dialogue: 0,1:01:07.97,1:01:10.55,Default,,0,0,0,,Có tiếng động lạ phát ra từ trần nhà.
+Dialogue: 0,1:01:12.77,1:01:15.23,Default,,0,0,0,,Chúng tôi dùng gác mái để làm kho chứa đồ.
+Dialogue: 0,1:01:15.39,1:01:19.19,Default,,0,0,0,,- Còn ai khác ở đây không?\N- Chắc là chuột thôi.
+Dialogue: 0,1:01:19.40,1:01:21.40,Default,,0,0,0,,- Sao cơ? À, phải rồi.\N- Thấy chưa?!
+Dialogue: 0,1:01:22.15,1:01:25.82,Default,,0,0,0,,Dù sao thì, tôi cần cậu điều tra\Ntòa nhà bỏ hoang đó.
+Dialogue: 0,1:01:27.07,1:01:32.83,Default,,0,0,0,,Cậu đến kiểm tra tòa nhà mà không đi cùng người quản lý sao, Kindaichi?
+Dialogue: 0,1:01:32.83,1:01:39.13,Default,,0,0,0,,- Đúng vậy. - Tôi chưa từng gặp, nhìn thấy, nói chuyện hay ăn uống với người đàn ông này trước đây.
+Dialogue: 0,1:01:39.25,1:01:42.04,Default,,0,0,0,,Đêm tôi đến thông báo cho Tokubei về\Nkết quả cuộc điều tra của tôi,
+Dialogue: 0,1:01:42.25,1:01:45.13,Default,,0,0,0,,chính là đêm mà\Nphần đầu bị chặt lìa được phát hiện.
+Dialogue: 0,1:01:45.59,1:01:48.18,Default,,0,0,0,,Có bằng chứng cho thấy tòa nhà\Nđã bị đột nhập và can thiệp.
+Dialogue: 0,1:01:50.26,1:01:51.72,Default,,0,0,0,,Có những lỗ đinh trên trần nhà.
+Dialogue: 0,1:01:52.72,1:01:55.77,Default,,0,0,0,,Cái bẫy thực ra khá đơn giản.
+Dialogue: 0,1:01:56.23,1:01:58.60,Default,,0,0,0,,Đó là một chiếc chuông gió khá nặng.
+Dialogue: 0,1:02:12.45,1:02:15.16,Default,,0,0,0,,Tôi cảm thấy như mình đã cứu mạng cậu ấy.
+Dialogue: 0,1:02:16.12,1:02:19.50,Default,,0,0,0,,Nếu tôi không gọi cậu ấy,
+Dialogue: 0,1:02:19.71,1:02:26.34,Default,,0,0,0,,chiếc chuông gió đã rơi thẳng vào người cậu ấy rồi.
+Dialogue: 0,1:02:26.96,1:02:31.80,Default,,0,0,0,,Đúng vậy. Và nếu cậu vào tòa nhà trước, cậu có thể đã chết rồi.
+Dialogue: 0,1:02:32.34,1:02:34.05,Default,,0,0,0,,Tôi chưa nghĩ đến chuyện đó.
+Dialogue: 0,1:02:34.14,1:02:36.43,Default,,0,0,0,,Này, chuyện gì đã xảy ra với chiếc chuông gió thế?
+Dialogue: 0,1:02:36.64,1:02:41.65,Default,,0,0,0,,Tôi không biết. Cả hai chúng tôi đều quá bất ngờ nên đã đi thẳng về nhà.
+Dialogue: 0,1:02:41.81,1:02:43.90,Default,,0,0,0,,Tội ác này đã được lên kế hoạch từ trước.
+Dialogue: 0,1:02:45.23,1:02:50.91,Default,,0,0,0,,Tại sao hung thủ lại biết Tokubei sẽ\Nvào tòa nhà này vào ngày hôm đó?
+Dialogue: 0,1:02:51.11,1:02:55.03,Default,,0,0,0,,Đúng vậy. Cả Naokichi lẫn Mokutaro đều không biết.
+Dialogue: 0,1:02:55.70,1:02:59.79,Default,,0,0,0,,- Cậu có nói với ai rằng Tokubei sẽ đến không?\N- Không.
+Dialogue: 0,1:03:00.08,1:03:01.54,Default,,0,0,0,,Ai là chủ tòa nhà này?
+Dialogue: 0,1:03:01.75,1:03:05.75,Default,,0,0,0,,Tôi nghe nói nó thuộc Ban\NPhúc lợi của Bệnh viện Hogen.
+Dialogue: 0,1:03:07.92,1:03:10.34,Default,,0,0,0,,Có chuyện gì xảy ra với Tokubei à?
+Dialogue: 0,1:03:10.59,1:03:13.47,Default,,0,0,0,,- Ông ấy đã bị sát hại!\N- Ồ.
+Dialogue: 0,1:03:38.79,1:03:40.50,Default,,0,0,0,,Koyuki.
+Dialogue: 0,1:03:54.01,1:03:56.76,Default,,0,0,0,,Tôi không thấy cuốn sách nào thú vị cả.
+Dialogue: 0,1:03:57.56,1:04:00.02,Default,,0,0,0,,Chúng cũng không được xếp\Ntheo một thứ tự cụ thể nào.
+Dialogue: 0,1:04:01.06,1:04:04.15,Default,,0,0,0,,Sách kỹ thuật và văn\Nhọc bị để lẫn lộn với nhau.
+Dialogue: 0,1:04:04.35,1:04:06.61,Default,,0,0,0,,Có lẽ chúng có thể được\Nsắp xếp theo chiều cao.
+Dialogue: 0,1:04:07.44,1:04:09.69,Default,,0,0,0,,Cửa hàng cũng tối nữa.
+Dialogue: 0,1:04:10.57,1:04:15.61,Default,,0,0,0,,Có lẽ vậy, nhưng các tiệm sách\Ncũ không kiếm được nhiều tiền đâu.
+Dialogue: 0,1:04:15.87,1:04:19.16,Default,,0,0,0,,Họ kinh doanh văn hóa mà.
+Dialogue: 0,1:04:19.33,1:04:24.08,Default,,0,0,0,,Cửa hàng này thậm chí còn không có những tựa sách phổ biến nhất. Đúng là một cửa hàng tồi tàn!
+Dialogue: 0,1:04:24.54,1:04:27.29,Default,,0,0,0,,Này, ăn nói cho cẩn thận đấy.
+Dialogue: 0,1:04:28.17,1:04:30.80,Default,,0,0,0,,Đây là cửa hàng của tôi.
+Dialogue: 0,1:04:32.01,1:04:34.55,Default,,0,0,0,,Tôi vô cùng xin lỗi.
+Dialogue: 0,1:04:35.47,1:04:37.97,Default,,0,0,0,,Tôi là chủ cửa hàng này.
+Dialogue: 0,1:04:38.93,1:04:44.52,Default,,0,0,0,,Tôi nghe nói hiệu sách của ông là nơi tốt\Nnhất để tìm những cuốn sách cũ về vùng này.
+Dialogue: 0,1:04:44.73,1:04:48.31,Default,,0,0,0,,Ông có cuốn sách bài hát\Nnào của Takuya Hogen không?
+Dialogue: 0,1:04:48.52,1:04:53.24,Default,,0,0,0,,Cậu đang hỏi tìm một cuốn sách duy nhất. Cậu nghĩ tôi biết hết mọi cuốn sách trong cửa hàng này sao?
+Dialogue: 0,1:04:54.32,1:04:56.45,Default,,0,0,0,,Ông có biết Bệnh viện Hogen không?
+Dialogue: 0,1:04:56.82,1:05:00.62,Default,,0,0,0,,Biết chứ, đó là bệnh\Nviện tốt nhất trong vùng.
+Dialogue: 0,1:05:00.70,1:05:03.33,Default,,0,0,0,,Tôi đang tìm một cuốn sách gồm các bài\Nhát được viết bởi cựu giám đốc bệnh viện.
+Dialogue: 0,1:05:03.58,1:05:06.79,Default,,0,0,0,,Một cuốn sách bài hát...
+Dialogue: 0,1:05:07.54,1:05:17.38,Default,,0,0,0,,{\i1}Tàn tích của một tòa lâu đài cổ, những\Nđám mây trắng và một lữ khách u sầu...{\i0}
+Dialogue: 0,1:05:17.68,1:05:20.89,Default,,0,0,0,,Tôi thích những bài hát cũ; chúng có nhịp điệu.
+Dialogue: 0,1:05:21.14,1:05:25.73,Default,,0,0,0,,\"Tôi đã làm việc cật lực, nhưng\Ncuộc sống của tôi vẫn thật dễ chịu."
+Dialogue: 0,1:05:26.39,1:05:30.65,Default,,0,0,0,,\"Tôi nhìn chăm chú vào bàn\Ntay mình," Takuboku Ishikawa.
+Dialogue: 0,1:05:30.94,1:05:33.28,Default,,0,0,0,,Tôi hiểu rất rõ cảm giác của ông ấy.
+Dialogue: 0,1:05:34.28,1:05:39.07,Default,,0,0,0,,Âm nhạc ngày nay không có hương\Nvị hay cảm xúc. Tôi không thích nó.
+Dialogue: 0,1:05:39.53,1:05:42.20,Default,,0,0,0,,Không, ý tôi muốn nói là…
+Dialogue: 0,1:05:42.54,1:05:43.95,Default,,0,0,0,,{\i1}Anh Kindaichi.{\i0}
+Dialogue: 0,1:05:46.41,1:05:48.79,Default,,0,0,0,,Thật bất ngờ khi gặp cô ở đây.
+Dialogue: 0,1:05:50.79,1:05:53.00,Default,,0,0,0,,Sao anh vẫn còn ở Nhật Bản?
+Dialogue: 0,1:05:55.34,1:05:57.38,Default,,0,0,0,,Ông cụ vừa nói...
+Dialogue: 0,1:05:57.63,1:06:01.85,Default,,0,0,0,,hôm nọ rằng có lẽ giờ này\Nanh đang đi thuyền trên Thái Bình Dương rồi.
+Dialogue: 0,1:06:02.01,1:06:05.85,Default,,0,0,0,,Ồ, chuyện đó...
+Dialogue: 0,1:06:06.60,1:06:10.48,Default,,0,0,0,,Này, anh đã tìm thấy cuốn sách chưa?
+Dialogue: 0,1:06:10.65,1:06:12.11,Default,,0,0,0,,Vẫn chưa.
+Dialogue: 0,1:06:12.31,1:06:15.44,Default,,0,0,0,,Kindaichi, cảnh sát không nghĩ rằng...
+Dialogue: 0,1:06:15.65,1:06:18.74,Default,,0,0,0,,cái chết của Tokubei và\Nvụ sát hại Toshio có liên quan với nhau.
+Dialogue: 0,1:06:18.78,1:06:21.37,Default,,0,0,0,,- Thật sao?\N- Tôi không tin chuyện đó.
+Dialogue: 0,1:06:21.53,1:06:26.04,Default,,0,0,0,,Các tấm kính ảnh của gia đình Hogen đã bị đập vỡ. Chắc chắn nó phải có liên quan đến nhà Hogen.
+Dialogue: 0,1:06:26.20,1:06:30.50,Default,,0,0,0,,Anh đang điều tra vụ án chiếc đầu lìa\Nchuông gió phải không, Kindaichi?
+Dialogue: 0,1:06:30.71,1:06:32.79,Default,,0,0,0,,Có thể nói là như vậy.
+Dialogue: 0,1:06:33.00,1:06:35.50,Default,,0,0,0,,- Cô ấy là ai thế?\N- Cô ấy là sinh viên ngành dược.
+Dialogue: 0,1:06:35.71,1:06:38.17,Default,,0,0,0,,Tôi mới gặp anh Kindaichi gần đây.\NTôi tên là Sata.
+Dialogue: 0,1:06:38.38,1:06:40.18,Default,,0,0,0,,- Cô Sata?\N- Đây là Mokutaro.
+Dialogue: 0,1:06:40.22,1:06:43.10,Default,,0,0,0,,- Cô là trợ lý của anh Kindaichi à?\N- Không, không phải như vậy đâu.
+Dialogue: 0,1:06:43.30,1:06:44.93,Default,,0,0,0,,Có chứ, rất giống là đằng khác.
+Dialogue: 0,1:06:45.72,1:06:48.73,Default,,0,0,0,,Tôi không muốn dính dáng đến\Nbất kỳ cuộc điều tra nào,
+Dialogue: 0,1:06:48.89,1:06:52.65,Default,,0,0,0,,nhưng tôi cảm giác như mình đang bị\Nlôi kéo vào một vụ vậy.
+Dialogue: 0,1:06:53.02,1:06:56.07,Default,,0,0,0,,Ông lão đã viết một cuốn tiểu thuyết trinh thám với kiểu nhân vật thám tử đó.
+Dialogue: 0,1:06:56.11,1:06:59.99,Default,,0,0,0,,- Đó đâu phải là thám tử tư.\N- Dù vậy, đó vẫn là một cuốn sách hay.
+Dialogue: 0,1:07:00.03,1:07:06.24,Default,,0,0,0,,Tôi đã quá tập trung vào mối nguy hiểm từ\Nmột kẻ nhầm Yukari thành Koyuki,
+Dialogue: 0,1:07:06.29,1:07:08.54,Default,,0,0,0,,và trong lúc đó, Tokubei đã bị giết.
+Dialogue: 0,1:07:08.54,1:07:13.00,Default,,0,0,0,,Cậu có nghĩ tôi đang gặp nguy hiểm không?
+Dialogue: 0,1:07:13.25,1:07:14.92,Default,,0,0,0,,Có thể đấy.
+Dialogue: 0,1:07:15.13,1:07:18.46,Default,,0,0,0,,Chúng ta cũng phải cân nhắc đến sự an toàn\Ncủa {\i1}Angry Pirates{\i0}.
+Dialogue: 0,1:07:18.51,1:07:20.84,Default,,0,0,0,,Vậy tại sao có kẻ lại giết Tokubei?
+Dialogue: 0,1:07:21.05,1:07:23.09,Default,,0,0,0,,Khi nhìn thấy bức ảnh cưới,\Nông ấy đã nghĩ đó là Yukari.
+Dialogue: 0,1:07:23.18,1:07:26.14,Default,,0,0,0,,Tôi nghĩ Tokubei bị giết vì một lý do khác,
+Dialogue: 0,1:07:26.47,1:07:29.73,Default,,0,0,0,,và chúng ta có thể tìm ra lý do đó tại\NTiệm ảnh Honjo.
+Dialogue: 0,1:07:29.93,1:07:32.27,Default,,0,0,0,,- Bản thân tiệm ảnh đó bị nghi ngờ sao?\N- Đúng vậy.
+Dialogue: 0,1:07:32.35,1:07:34.27,Default,,0,0,0,,Chuyện này có liên quan đến những bức ảnh không?
+Dialogue: 0,1:07:34.48,1:07:38.73,Default,,0,0,0,,Báo chí đưa tin rằng cảnh sát\Nđã tuyên bố khép lại vụ án đầu người bị chặt.
+Dialogue: 0,1:07:38.86,1:07:41.74,Default,,0,0,0,,Nhưng thi thể của Koyuki và phần thân của Toshio vẫn chưa được tìm thấy.
+Dialogue: 0,1:07:41.82,1:07:44.66,Default,,0,0,0,,Thế thì với tôi vụ án dường như vẫn chưa kết thúc.
+Dialogue: 0,1:07:45.07,1:07:50.50,Default,,0,0,0,,90% cơ thể con người có thể bị\Nphá hủy bởi hóa chất;
+Dialogue: 0,1:07:50.75,1:07:57.04,Default,,0,0,0,,da và nội tạng sẽ bị hòa\Ntan trong axit sunfuric.
+Dialogue: 0,1:07:57.09,1:08:04.01,Default,,0,0,0,,Xương đặt trong {\i1}nước cường toan{\i0}\Ncó thể dễ dàng bị hóa thành bột.
+Dialogue: 0,1:08:04.22,1:08:08.81,Default,,0,0,0,,Đó là lý do tôi nghĩ thủ phạm đã\Nhòa tan các thi thể bằng hóa chất.
+Dialogue: 0,1:08:11.18,1:08:13.39,Default,,0,0,0,,Đó là một giả thuyết khá hay đấy.
+Dialogue: 0,1:08:13.60,1:08:15.19,Default,,0,0,0,,{\i1}Này, anh kia.{\i0}
+Dialogue: 0,1:08:15.40,1:08:20.65,Default,,0,0,0,,Đây không phải quán rượu\Nđâu! Tôi còn phải buôn bán nữa.
+Dialogue: 0,1:08:20.86,1:08:23.07,Default,,0,0,0,,Anh tìm thấy tập nhạc chưa?
+Dialogue: 0,1:08:23.40,1:08:24.70,Default,,0,0,0,,Ơ, chào em yêu.
+Dialogue: 0,1:08:24.91,1:08:28.24,Default,,0,0,0,,Ông lại đọc hàng bán nữa đấy\Nà? Tôi còn phải buôn bán nữa đấy!
+Dialogue: 0,1:08:29.99,1:08:34.71,Default,,0,0,0,,Chờ một chút... {\i1}Khúc hát\NChuông gió{\i0} của Takuya Hogen.
+Dialogue: 0,1:08:34.75,1:08:39.00,Default,,0,0,0,,Hóa ra tôi vẫn luôn đọc nó! Này,\Ntôi tìm thấy cuốn sách của anh rồi.
+Dialogue: 0,1:08:40.21,1:08:42.38,Default,,0,0,0,,Tôi phải nói là việc làm ăn khá khẩm đấy.
+Dialogue: 0,1:08:44.84,1:08:49.01,Default,,0,0,0,,Tôi muốn gặp anh ngay lập tức.\NCó thứ này tôi cần cho anh xem.
+Dialogue: 0,1:08:49.22,1:08:52.81,Default,,0,0,0,,Tôi không thể nói qua điện thoại được.
+Dialogue: 0,1:08:53.35,1:08:57.10,Default,,0,0,0,,Anh có thể coi đó là lời trăn trối của cha tôi.
+Dialogue: 0,1:08:57.61,1:09:02.28,Default,,0,0,0,,Nó sẽ giúp ích cho anh cũng như cho tôi vậy.
+Dialogue: 0,1:09:02.49,1:09:05.45,Default,,0,0,0,,Thật vớ vẩn.\NTôi không thể tuân theo.
+Dialogue: 0,1:09:05.65,1:09:09.87,Default,,0,0,0,,Anh có biết mình đang làm gì không\Nthế? Đây rõ ràng là một hành vi phạm tội.
+Dialogue: 0,1:09:09.91,1:09:12.08,Default,,0,0,0,,Tôi muốn nói chuyện\Nvới anh càng sớm càng tốt.
+Dialogue: 0,1:09:12.29,1:09:16.12,Default,,0,0,0,,Có một người liên quan\Nmà chúng ta không ngờ tới.
+Dialogue: 0,1:09:17.17,1:09:20.84,Default,,0,0,0,,Anh đang ở đâu?
+Dialogue: 0,1:09:21.09,1:09:23.26,Default,,0,0,0,,Tôi không có gì để cho anh xem cả.
+Dialogue: 0,1:09:23.46,1:09:27.30,Default,,0,0,0,,Nhưng sẽ rất rắc rối cho\Nanh nếu tôi biết chuyện.
+Dialogue: 0,1:09:27.76,1:09:31.85,Default,,0,0,0,,Tôi nghĩ đó là một yêu cầu hoàn toàn hợp lý.
+Dialogue: 0,1:09:32.18,1:09:34.10,Default,,0,0,0,,Ở đây không có ai tên như vậy cả.
+Dialogue: 0,1:09:34.31,1:09:36.39,Default,,0,0,0,,Anh có chắc là mình không nhầm lẫn chứ?
+Dialogue: 0,1:09:36.64,1:09:37.94,Default,,0,0,0,,Tôi đang nói chuyện với ai thế?
+Dialogue: 0,1:09:37.98,1:09:40.11,Default,,0,0,0,,Tôi không thể nói cho\Nanh biết. Không đời nào.
+Dialogue: 0,1:09:40.31,1:09:43.94,Default,,0,0,0,,Tôi hiểu hoàn cảnh hiện tại, nhưng\Ntôi không thể chịu trách nhiệm.
+Dialogue: 0,1:09:44.15,1:09:46.78,Default,,0,0,0,,Ừ, tại sao chứ?
+Dialogue: 0,1:09:47.57,1:09:49.78,Default,,0,0,0,,Ừ, sao lại thế?
+Dialogue: 0,1:09:52.24,1:09:54.70,Default,,0,0,0,,Anh đang cố tống tiền một\Nngười thi hành pháp luật sao?
+Dialogue: 0,1:10:31.62,1:10:34.24,Default,,0,0,0,,Có phải anh là Shigeru Yoshizawa không?
+Dialogue: 0,1:10:38.29,1:10:41.79,Default,,0,0,0,,Tôi không có ý định nghe cậu\Nbôi nhọ danh tiếng của Yukari đâu.
+Dialogue: 0,1:10:42.33,1:10:46.46,Default,,0,0,0,,Vậy tại sao anh lại đồng ý đến?
+Dialogue: 0,1:10:47.59,1:10:49.26,Default,,0,0,0,,Lý do duy nhất anh chấp nhận đến...
+Dialogue: 0,1:10:49.43,1:10:53.10,Default,,0,0,0,,là vì anh biết tôi không hề nói dối khi\Nbảo rằng cô gái đó không phải là Yukari.
+Dialogue: 0,1:10:53.14,1:10:55.60,Default,,0,0,0,,- cậu đang chơi trò bịp bợm đấy.\N- Tôi còn thật thà hơn anh nhiều.
+Dialogue: 0,1:10:55.81,1:10:57.60,Default,,0,0,0,,Tôi sẽ không để bị cô tống tiền đâu!
+Dialogue: 0,1:10:58.89,1:11:02.77,Default,,0,0,0,,Chỉ cần hé răng thêm một lời nữa\Nvà... kết cục của cậu sẽ tồi tệ lắm đấy!
+Dialogue: 0,1:11:48.32,1:11:50.03,Default,,0,0,0,,Koyuki...
+Dialogue: 0,1:11:52.24,1:11:56.58,Default,,0,0,0,,Ở đây không có ai cả, vậy tôi có thể gọi cô là Koyuki.
+Dialogue: 0,1:11:59.91,1:12:01.21,Default,,0,0,0,,Lại đây nào.
+Dialogue: 0,1:12:17.01,1:12:18.56,Default,,0,0,0,,Hãy cẩn thận...
+Dialogue: 0,1:12:19.47,1:12:24.56,Default,,0,0,0,,Cho dù ai nói gì đi nữa,\Ncô vẫn phải giả làm Yukari.
+Dialogue: 0,1:12:28.02,1:12:30.48,Default,,0,0,0,,Tôi không thể chịu đựng\Nnổi chuyện này nữa rồi.
+Dialogue: 0,1:12:31.69,1:12:34.07,Default,,0,0,0,,Tôi sợ rằng có điều gì đó\Nkinh khủng sắp sửa xảy ra.
+Dialogue: 0,1:12:34.28,1:12:39.87,Default,,0,0,0,,Tôi định để lại ngôi nhà\Nnày cho cô thay vì Yukari.
+Dialogue: 0,1:12:41.20,1:12:43.83,Default,,0,0,0,,Hãy quên Shigeru đi.
+Dialogue: 0,1:12:45.33,1:12:50.13,Default,,0,0,0,,Việc cô giống hệt Yukari...
+Dialogue: 0,1:12:50.34,1:12:54.97,Default,,0,0,0,,là điều duy nhất giữ cho\Nkế hoạch này không bị đổ bể.
+Dialogue: 0,1:12:56.55,1:13:01.60,Default,,0,0,0,,Chuyện này chỉ khả thi vì cô là bản\Nsao giống hệt như đúc của Yukari.
+Dialogue: 0,1:13:02.77,1:13:08.27,Default,,0,0,0,,Mẹ cô đã muốn tôi gặp cô.
+Dialogue: 0,1:13:09.44,1:13:12.65,Default,,0,0,0,,Đó chính là lời nguyền của bà ấy.
+Dialogue: 0,1:13:12.69,1:13:17.62,Default,,0,0,0,,Cô trông quá giống Yukari để ông\Nấy có thể giới thiệu hai ta với nhau.
+Dialogue: 0,1:13:18.07,1:13:23.08,Default,,0,0,0,,Tôi đã hiểu ra điều đó khi\Ncuối cùng cũng gặp được cô.
+Dialogue: 0,1:13:24.25,1:13:27.63,Default,,0,0,0,,Mẹ tôi - Tôi xin lỗi.
+Dialogue: 0,1:13:27.83,1:13:29.75,Default,,0,0,0,,Hãy quên chuyện đó đi.
+Dialogue: 0,1:13:31.38,1:13:36.68,Default,,0,0,0,,Mặc dù Toshio không phải là người\Ncó quan hệ máu mủ với Fuyuko…
+Dialogue: 0,1:13:37.18,1:13:44.14,Default,,0,0,0,,Anh ấy đối xử tốt với mẹ hơn tôi nhiều.
+Dialogue: 0,1:13:44.98,1:13:51.11,Default,,0,0,0,,Bà ấy luôn tin rằng cha tôi sẽ trở về mỗi khi chuông gió reo.{\i0}
+Dialogue: 0,1:13:51.32,1:13:54.90,Default,,0,0,0,,Bà ấy vẫn treo chiếc chuông gió đó, ngay cả trong mùa đông.
+Dialogue: 0,1:14:14.26,1:14:17.34,Default,,0,0,0,,Cô có thể quên được Toshio sao?
+Dialogue: 0,1:14:19.18,1:14:24.77,Default,,0,0,0,,Toshio đã thành lập ban\Nnhạc jazz ngay sau khi...
+Dialogue: 0,1:14:24.97,1:14:28.89,Default,,0,0,0,,Fuyuko qua đời và cô\Nrời bỏ nơi này, phải không?
+Dialogue: 0,1:14:29.06,1:14:30.27,Default,,0,0,0,,Phải.
+Dialogue: 0,1:14:33.36,1:14:36.07,Default,,0,0,0,,Chúng tôi cần phải ăn.
+Dialogue: 0,1:14:38.32,1:14:41.78,Default,,0,0,0,,Và anh ấy luôn yêu thích âm nhạc.
+Dialogue: 0,1:14:43.66,1:14:49.17,Default,,0,0,0,,Anh ấy luôn nói rằng đầu óc mình\Ntrống rỗng mỗi khi thổi trumpet.
+Dialogue: 0,1:14:50.75,1:14:53.84,Default,,0,0,0,,{\i1}Chúng tôi đã đi khắp\Ncác căn cứ quân sự Mỹ.{\i0}
+Dialogue: 0,1:14:55.00,1:14:57.84,Default,,0,0,0,,{\i1}Đó là một cuộc sống gian khổ.{\i0}
+Dialogue: 0,1:14:58.05,1:15:01.93,Default,,0,0,0,,{\i1}Tôi chưa từng nghĩ mình sẽ làm ca sĩ,{\i0}
+Dialogue: 0,1:15:02.09,1:15:07.60,Default,,0,0,0,,{\i1}nhưng tôi phải trang trải cuộc sống.{\i0}
+Dialogue: 0,1:16:32.72,1:16:33.97,Default,,0,0,0,,Đằng này!
+Dialogue: 0,1:16:37.51,1:16:39.60,Default,,0,0,0,,Xin lỗi vì đã đến muộn.
+Dialogue: 0,1:16:42.27,1:16:46.40,Default,,0,0,0,,Tôi muốn nói với anh,\Ngần đây Naokichi có biểu hiện rất lạ.
+Dialogue: 0,1:16:46.65,1:16:49.44,Default,,0,0,0,,Cậu ấy cứ đi chạy việc vặt suốt và việc đó chẳng liên quan gì đến công việc cả.
+Dialogue: 0,1:16:49.48,1:16:52.40,Default,,0,0,0,,Cậu ấy có nói chuyện với ai qua điện thoại không?
+Dialogue: 0,1:16:52.61,1:16:54.70,Default,,0,0,0,,- Tôi không chắc.\N- Tôi hiểu rồi.
+Dialogue: 0,1:16:55.37,1:16:59.08,Default,,0,0,0,,Hơi sớm để ăn tối,\Nnhưng sao anh không tham gia cùng tôi nhỉ?
+Dialogue: 0,1:16:59.29,1:17:01.12,Default,,0,0,0,,- Tôi sẽ trả.\N- Không cần đâu.
+Dialogue: 0,1:17:01.29,1:17:03.79,Default,,0,0,0,,Đừng lo, tôi có thể tính vào chi phí\Ncủa thám tử tư.
+Dialogue: 0,1:17:04.00,1:17:07.79,Default,,0,0,0,,- Như vậy nghĩa là tôi là một khoản chi tiêu\Ncần thiết sao? - Cũng giống như tôi thôi.
+Dialogue: 0,1:17:08.05,1:17:10.38,Default,,0,0,0,,- Xin lỗi!\N- Gì thế?
+Dialogue: 0,1:17:10.42,1:17:15.22,Default,,0,0,0,,- Cháo trứng và súp miso.\N- Một cháo trứng và súp đặc!
+Dialogue: 0,1:17:16.60,1:17:17.76,Default,,0,0,0,,Mokutaro...
+Dialogue: 0,1:17:18.72,1:17:22.85,Default,,0,0,0,,Takuya Hogen gọi tập bài hát này là,\N{\i1}Ngôi nhà chuông gió.{\i0}
+Dialogue: 0,1:17:23.31,1:17:26.98,Default,,0,0,0,,Tất cả các bài hát đều liên quan\Nđến gia đình Yamauchi.
+Dialogue: 0,1:17:27.02,1:17:29.65,Default,,0,0,0,,Đây quả là một mỏ vàng thông tin.
+Dialogue: 0,1:17:29.86,1:17:32.86,Default,,0,0,0,,Nhưng nó thì có liên quan gì đến cuộc điều tra chứ?
+Dialogue: 0,1:17:33.07,1:17:39.08,Default,,0,0,0,,Cuốn sách này cho thấy Fuyuko đã bất hạnh thế nào\Nkhi phải chia lìa khỏi Toshio và Koyuki.
+Dialogue: 0,1:17:39.12,1:17:41.66,Default,,0,0,0,,Trong cuốn sách có những bài hát\Nnhắc đến Koyuki sao?
+Dialogue: 0,1:17:41.87,1:17:43.37,Default,,0,0,0,,Đúng vậy, có vài bài.
+Dialogue: 0,1:17:43.79,1:17:49.09,Default,,0,0,0,,Không thể tự mình chăm sóc con gái, Takuya đã giao phó tương lai của Koyuki cho Toshio.
+Dialogue: 0,1:17:49.80,1:17:53.92,Default,,0,0,0,,Với mối quan hệ của họ,
+Dialogue: 0,1:17:54.22,1:17:56.51,Default,,0,0,0,,Thật khó tin rằng...
+Dialogue: 0,1:17:56.55,1:18:01.27,Default,,0,0,0,,Koyuki thực sự đã giết Toshio,\Nnhư lời nhắn đã viết.
+Dialogue: 0,1:18:01.47,1:18:02.93,Default,,0,0,0,,Vậy ai có thể đã giết ông ấy?
+Dialogue: 0,1:18:04.48,1:18:08.98,Default,,0,0,0,,Chắc chắn phải có ai khác ở đó.
+Dialogue: 0,1:18:10.61,1:18:12.99,Default,,0,0,0,,Cơm trứng của cậu đây.
+Dialogue: 0,1:18:13.44,1:18:15.74,Default,,0,0,0,,- Ăn đi.\N- Vậy tôi không khách sáo đâu.
+Dialogue: 0,1:18:16.86,1:18:21.99,Default,,0,0,0,,Anh có nghĩ một cô gái trẻ có khả năng\Nchặt đầu một người đàn ông...
+Dialogue: 0,1:18:22.12,1:18:24.83,Default,,0,0,0,,và treo nó lên một chiếc đèn chùm không?
+Dialogue: 0,1:18:25.04,1:18:28.33,Default,,0,0,0,,Cô ta cũng sẽ phải kéo\Ncái xác không đầu đi đâu đó.
+Dialogue: 0,1:18:28.58,1:18:32.13,Default,,0,0,0,,Giống như người mẹ có đứa con\Nbị kẹt dưới gầm xe,
+Dialogue: 0,1:18:33.01,1:18:37.43,Default,,0,0,0,,con người ta có thể làm được đủ mọi chuyện\Nkhi họ bị dồn vào thế bí.
+Dialogue: 0,1:18:37.68,1:18:39.60,Default,,0,0,0,,Tôi không nghĩ vậy.
+Dialogue: 0,1:18:41.93,1:18:44.68,Default,,0,0,0,,{\i1}The Angry Pirates{\i0} thế nào rồi?
+Dialogue: 0,1:18:44.93,1:18:50.15,Default,,0,0,0,,Tôi vẫn luôn theo dõi chúng sát sao,\Nnhưng tôi nghĩ chúng sắp rời thị trấn rồi.
+Dialogue: 0,1:18:50.31,1:18:52.19,Default,,0,0,0,,Ba người bọn họ đã nói như vậy khi\Ntôi vừa mới nói chuyện với họ xong.
+Dialogue: 0,1:18:52.32,1:18:54.53,Default,,0,0,0,,Khoan đã, tôi tưởng vẫn\Ncòn bốn thành viên nữa chứ.
+Dialogue: 0,1:18:54.57,1:18:57.78,Default,,0,0,0,,Yoshizawa không có ở đó. Có\Nmột cuộc điện thoại từ một cô gái.
+Dialogue: 0,1:18:58.03,1:19:00.57,Default,,0,0,0,,Cậu ta đã đến căn gara bỏ hoang\Nmà Toshio từng ở, hay đại loại thế.
+Dialogue: 0,1:19:00.78,1:19:03.83,Default,,0,0,0,,Anh biết chuyện này từ khi nào?
+Dialogue: 0,1:19:35.40,1:19:38.36,Default,,0,0,0,,Cái gì!? Lại nữa sao!?
+Dialogue: 0,1:19:38.82,1:19:42.24,Default,,0,0,0,,Thế là người thứ ba rồi!
+Dialogue: 0,1:19:42.95,1:19:45.24,Default,,0,0,0,,Đừng có xin lỗi, đồ đần này!
+Dialogue: 0,1:19:45.45,1:19:47.08,Default,,0,0,0,,Chuyện xảy ra ở đâu?
+Dialogue: 0,1:19:48.66,1:19:50.50,Default,,0,0,0,,Vẫn là căn gara đó sao?!
+Dialogue: 0,1:19:50.96,1:19:53.25,Default,,0,0,0,,Cậu ta đến con ruồi còn không dám hại!
+Dialogue: 0,1:19:53.88,1:19:56.13,Default,,0,0,0,,Cho tôi gặp cậu ta!
+Dialogue: 0,1:19:56.42,1:20:01.51,Default,,0,0,0,,Tôi sẽ làm vậy, tôi sẽ làm vậy. Xin hãy bình tĩnh.\NCậu ấy đang bị tạm giữ như một nghi phạm.
+Dialogue: 0,1:20:01.55,1:20:06.35,Default,,0,0,0,,Shigeru đã rời nhà sau khi nhận được một cuộc điện thoại lúc 4 giờ 30 chiều, đúng không?
+Dialogue: 0,1:20:06.43,1:20:08.64,Default,,0,0,0,,Đúng vậy, nó không nói dối đâu.
+Dialogue: 0,1:20:08.85,1:20:12.06,Default,,0,0,0,,Và nó có nói với bà là nó sẽ đi\Nđến nhà để xe không?
+Dialogue: 0,1:20:12.31,1:20:13.86,Default,,0,0,0,,Tôi đã không hỏi nó đi đâu.
+Dialogue: 0,1:20:14.15,1:20:17.69,Default,,0,0,0,,Bando, không phải nhóm {\i1}The Angry Pirates{\i0} đã nói rằng...
+Dialogue: 0,1:20:18.07,1:20:23.20,Default,,0,0,0,,- Yoshizawa đã đi gặp Shigeru?\N- Đúng vậy.
+Dialogue: 0,1:20:23.62,1:20:27.74,Default,,0,0,0,,- Họ có nói tại sao không?\N- Hình như cậu ta không nói.
+Dialogue: 0,1:20:27.95,1:20:32.00,Default,,0,0,0,,Nhưng họ có nói rằng Yoshizawa đã gặp\NShigeru vào hai hoặc ba dịp khác.
+Dialogue: 0,1:20:32.21,1:20:35.54,Default,,0,0,0,,Tôi hiểu rồi...\NTôi biết rồi!
+Dialogue: 0,1:20:35.79,1:20:38.38,Default,,0,0,0,,Shigeru chính là kẻ thủ ác.
+Dialogue: 0,1:20:38.59,1:20:41.84,Default,,0,0,0,,Sao ông dám!
+Dialogue: 0,1:20:45.51,1:20:47.81,Default,,0,0,0,,Ngừng khóc lóc đi!
+Dialogue: 0,1:20:49.56,1:20:53.40,Default,,0,0,0,,Con trai bà được tìm thấy tại hiện trường vụ án mạng.
+Dialogue: 0,1:20:53.44,1:20:57.65,Default,,0,0,0,,Mọi bằng chứng đều chỉ ra nó là\Nkẻ sát nhân. Đây là những gì đã xảy ra:
+Dialogue: 0,1:20:57.69,1:21:01.40,Default,,0,0,0,,Yoshizawa đã gọi điện cho Shigeru để gặp mặt.
+Dialogue: 0,1:21:01.61,1:21:04.70,Default,,0,0,0,,Yoshizawa đã đe dọa Shigeru tại nhà để xe.
+Dialogue: 0,1:21:04.74,1:21:08.49,Default,,0,0,0,,Vì không thể đáp ứng các yêu cầu của Yoshizawa,
+Dialogue: 0,1:21:08.70,1:21:11.83,Default,,0,0,0,,Shigeru đã quẫn trí và giết chết Yoshizawa bằng chính cây đàn guitar của cậu ta.
+Dialogue: 0,1:21:12.04,1:21:13.83,Default,,0,0,0,,Yoshizawa đã đe dọa sẽ làm gì?
+Dialogue: 0,1:21:13.87,1:21:16.84,Default,,0,0,0,,Ồ, phải rồi. Để tôi xem nào…
+Dialogue: 0,1:21:17.88,1:21:23.34,Default,,0,0,0,,Yoshizawa đã định cáo buộc Yukari Hogen\Nthực chất là Koyuki Yamauchi.
+Dialogue: 0,1:21:24.38,1:21:25.76,Default,,0,0,0,,Nên Shigeru…
+Dialogue: 0,1:21:26.01,1:21:29.26,Default,,0,0,0,,Ngươi đang lảm nhảm cái gì thế?
+Dialogue: 0,1:21:29.47,1:21:34.23,Default,,0,0,0,,Cô bé đó {\i1}chính là{\i0} Yukari. Cả người mẹ lẫn\Nbản thân cô bé đều đã xác nhận điều này.
+Dialogue: 0,1:21:35.69,1:21:37.90,Default,,0,0,0,,Lời đe dọa đó có liên quan đến\Nkế sinh nhai của Yoshizawa.
+Dialogue: 0,1:21:37.94,1:21:43.24,Default,,0,0,0,,Hai thành viên của {\i1}The Angry Pirates{\i0} đã không còn nữa vì gia đình Hogen,
+Dialogue: 0,1:21:43.45,1:21:46.66,Default,,0,0,0,,và điều này đã ảnh hưởng đến\Nkhả năng kiếm tiền của họ.
+Dialogue: 0,1:21:46.82,1:21:50.74,Default,,0,0,0,,Yoshizawa muốn nhận bồi thường\Ncho việc này từ Shigeru.
+Dialogue: 0,1:21:50.95,1:21:57.83,Default,,0,0,0,,{\i1}Con người ta sẽ làm mọi cách\Nđể sinh tồn trong thế giới này.{\i0}
+Dialogue: 0,1:22:08.63,1:22:10.63,Default,,0,0,0,,Tôi lại làm hỏng chuyện rồi.
+Dialogue: 0,1:22:11.21,1:22:15.22,Default,,0,0,0,,Không, tôi nghĩ thực ra cậu đã đúng.
+Dialogue: 0,1:22:16.89,1:22:21.10,Default,,0,0,0,,Yoshizawa thực sự đã nghĩ rằng Yukari là Koyuki.
+Dialogue: 0,1:22:23.85,1:22:26.73,Default,,0,0,0,,Tôi nghĩ Shigeru đã bị gài bẫy.
+Dialogue: 0,1:22:28.82,1:22:31.15,Default,,0,0,0,,Điều đó sẽ khiến hung thủ\Nthực sự trở nên khá đáng gờm.
+Dialogue: 0,1:22:33.74,1:22:35.78,Default,,0,0,0,,Tôi thấy tội nghiệp cho hung thủ thực sự.
+Dialogue: 0,1:22:36.11,1:22:39.91,Default,,0,0,0,,Kindaichi, có vẻ cậu hay đồng\Ncảm với những kẻ phạm tội.
+Dialogue: 0,1:22:41.08,1:22:43.00,Default,,0,0,0,,Lúc nào cậu cũng thế này sao?
+Dialogue: 0,1:22:43.20,1:22:47.79,Default,,0,0,0,,Vào thời điểm này trong năm, quê\Nnhà tôi chắc chắn đã phủ đầy tuyết trắng.
+Dialogue: 0,1:22:48.63,1:22:51.42,Default,,0,0,0,,Cậu đến từ Tohoku à?
+Dialogue: 0,1:22:51.88,1:22:53.47,Default,,0,0,0,,Gia đình tôi nghèo lắm.
+Dialogue: 0,1:22:54.55,1:22:57.30,Default,,0,0,0,,Tôi đã sang Mỹ làm việc\Nnhư một người rửa bát.
+Dialogue: 0,1:22:59.30,1:23:02.93,Default,,0,0,0,,Tôi đã bị chia cắt khỏi cha mẹ\Nkhi tôi vẫn còn nhỏ.
+Dialogue: 0,1:23:03.56,1:23:06.52,Default,,0,0,0,,Giống hệt như tôi.
+Dialogue: 0,1:23:08.23,1:23:13.69,Default,,0,0,0,,Tôi có cảm giác rằng tên tội phạm\Ntrong vụ án này rất giống tôi.
+Dialogue: 0,1:23:15.95,1:23:17.74,Default,,0,0,0,,Mokutaro.
+Dialogue: 0,1:23:17.91,1:23:23.08,Default,,0,0,0,,- Tôi sẽ đến phía nam Tohoku.\N- Tại sao?
+Dialogue: 0,1:23:23.12,1:23:26.54,Default,,0,0,0,,Tôi muốn tìm hiểu về chuông gió\Nđược sản xuất ở đó.
+Dialogue: 0,1:23:26.75,1:23:29.58,Default,,0,0,0,,Tôi nghĩ nó nắm giữ chìa khóa\Nđể phá vụ án này.
+Dialogue: 0,1:23:29.79,1:23:33.13,Default,,0,0,0,,- Khi nào cậu đi?\N- Càng sớm càng tốt.
+Dialogue: 0,1:23:33.38,1:23:37.63,Default,,0,0,0,,Có một việc tôi muốn anh làm trong lúc tôi đi vắng.
+Dialogue: 0,1:23:37.80,1:23:39.34,Default,,0,0,0,,Việc gì thế?
+Dialogue: 0,1:23:40.64,1:23:44.27,Default,,0,0,0,,Đừng lo, tôi có thể lo liệu\Nbất cứ việc gì cậu muốn.
+Dialogue: 0,1:23:55.28,1:23:58.82,Default,,0,0,0,,- Cô ổn chứ?\N- Đừng lo.
+Dialogue: 0,1:23:58.95,1:24:03.03,Default,,0,0,0,,Tôi nghe nói sau khi Sannosuke\Nnghe điện thoại hộ bà,
+Dialogue: 0,1:24:03.24,1:24:06.29,Default,,0,0,0,,Bà lập tức phải đi nằm ngay.
+Dialogue: 0,1:24:06.50,1:24:08.46,Default,,0,0,0,,Ai đã gọi thế?
+Dialogue: 0,1:24:08.71,1:24:11.46,Default,,0,0,0,,Không có gì để cô phải lo lắng đâu.
+Dialogue: 0,1:24:12.54,1:24:14.59,Default,,0,0,0,,Tôi muốn biết.
+Dialogue: 0,1:24:17.09,1:24:19.22,Default,,0,0,0,,Tokubei đã bị sát hại.
+Dialogue: 0,1:24:21.89,1:24:23.60,Default,,0,0,0,,Cả Yoshizawa nữa.
+Dialogue: 0,1:24:24.51,1:24:27.10,Default,,0,0,0,,Shigeru vẫn đang bị bắt giữ.
+Dialogue: 0,1:24:27.48,1:24:29.73,Default,,0,0,0,,Mọi chuyện đều liên quan đến tôi.
+Dialogue: 0,1:24:30.44,1:24:32.56,Default,,0,0,0,,Tôi đang giải quyết chuyện đó.
+Dialogue: 0,1:24:32.94,1:24:37.32,Default,,0,0,0,,Yoshizawa đã biết cô chính là Koyuki.
+Dialogue: 0,1:24:37.61,1:24:42.53,Default,,0,0,0,,Khi Yoshizawa gọi tên cô\Nở trên phố, có ai ở xung quanh không?
+Dialogue: 0,1:24:42.78,1:24:44.91,Default,,0,0,0,,Tôi không biết.
+Dialogue: 0,1:24:46.87,1:24:52.50,Default,,0,0,0,,Có thể có người đã biết và\Nđang lên kế hoạch cho việc gì đó.
+Dialogue: 0,1:25:03.89,1:25:05.14,Default,,0,0,0,,Cái gì đây?
+Dialogue: 0,1:25:05.89,1:25:07.72,Default,,0,0,0,,Mẹ tôi đã đưa nó cho tôi.
+Dialogue: 0,1:25:10.69,1:25:17.44,Default,,0,0,0,,{\i1}Fuyuko,\Nsinh ngày 17 tháng 12 năm 1913,\NJinzaburo{\i0}
+Dialogue: 0,1:25:21.20,1:25:23.41,Default,,0,0,0,,Tôi chưa từng ngờ tới!
+Dialogue: 0,1:25:25.45,1:25:29.66,Default,,0,0,0,,Lý do mà Fuyuko đến thăm là...
+Dialogue: 0,1:25:34.00,1:25:35.88,Default,,0,0,0,,Fuyuko!
+Dialogue: 0,1:25:38.63,1:25:41.42,Default,,0,0,0,,- Bà đã làm gì chứ?!\N- Để tôi yên!
+Dialogue: 0,1:25:51.77,1:25:58.23,Default,,0,0,0,,{\i1}Thành phố Mizusawa, Tỉnh Iwate{\i0}
+Dialogue: 0,1:26:29.06,1:26:34.56,Default,,0,0,0,,{\i1}Thành phố Kitakami, Tỉnh Iwate{\i0}
+Dialogue: 0,1:27:17.48,1:27:19.11,Default,,0,0,0,,Của cậu đây.
+Dialogue: 0,1:27:20.36,1:27:24.07,Default,,0,0,0,,Tất cả chỗ này đều là về Fuyuko Yamauchi sao?
+Dialogue: 0,1:27:24.28,1:27:25.74,Default,,0,0,0,,Dĩ nhiên là không rồi.
+Dialogue: 0,1:27:25.90,1:27:29.87,Default,,0,0,0,,Rất nhiều thứ tôi vừa lấy ra vì nó\Ngợi lại những kỷ niệm.
+Dialogue: 0,1:27:30.16,1:27:31.95,Default,,0,0,0,,Đây này, hãy nhìn cái này xem.
+Dialogue: 0,1:27:32.16,1:27:37.92,Default,,0,0,0,,Viên trung sĩ khăng khăng rằng\Nđó là một vụ tai nạn,
+Dialogue: 0,1:27:38.00,1:27:42.09,Default,,0,0,0,,nhưng tôi nghi ngờ đó là tự tử.\NHóa ra tôi đã đúng.
+Dialogue: 0,1:27:42.30,1:27:46.63,Default,,0,0,0,,Cậu có nhớ gia đình 13 thành viên\Nđã cùng nhau tự tử không?
+Dialogue: 0,1:27:46.80,1:27:50.18,Default,,0,0,0,,- Không.\N- Cậu không nhớ sao?
+Dialogue: 0,1:27:52.72,1:27:58.81,Default,,0,0,0,,Tôi luôn là thám tử bị mắc kẹt với việc\Nđiều tra các vụ tự tử.
+Dialogue: 0,1:28:00.40,1:28:02.98,Default,,0,0,0,,Đây rồi: Fuyuko Yamauchi.
+Dialogue: 0,1:28:03.82,1:28:05.86,Default,,0,0,0,,Ồ, phải rồi, cậu nói đúng.
+Dialogue: 0,1:28:06.07,1:28:11.20,Default,,0,0,0,,Cậu Kindaichi muốn tôi xác nhận rằng...
+Dialogue: 0,1:28:11.45,1:28:16.79,Default,,0,0,0,,cô ấy có một nốt\Nruồi ở bên phải cằm.
+Dialogue: 0,1:28:16.91,1:28:18.00,Default,,0,0,0,,Đúng vậy.
+Dialogue: 0,1:28:19.37,1:28:24.71,Default,,0,0,0,,Tôi không nhớ chuyện đó.
+Dialogue: 0,1:28:26.13,1:28:28.97,Default,,0,0,0,,Mối quan hệ của cậu với ông Kindaichi là gì?
+Dialogue: 0,1:28:29.18,1:28:31.39,Default,,0,0,0,,Cậu ấy nhờ tôi kiểm tra việc này.
+Dialogue: 0,1:28:31.97,1:28:35.27,Default,,0,0,0,,Cậu có thích làm trợ lý thám tử tư không?
+Dialogue: 0,1:28:35.47,1:28:37.48,Default,,0,0,0,,Đó là một công việc vất vả.
+Dialogue: 0,1:28:37.52,1:28:41.77,Default,,0,0,0,,Cậu có định tự mình trở thành\Nthám tử tư vào một ngày nào đó không?
+Dialogue: 0,1:28:42.11,1:28:45.61,Default,,0,0,0,,Không, tôi không giống cậu ấy.
+Dialogue: 0,1:28:47.24,1:28:51.20,Default,,0,0,0,,Nhìn này! Fuyuko Yamauchi.
+Dialogue: 0,1:28:52.32,1:28:55.24,Default,,0,0,0,,Ồ, chúng ta tìm thấy rồi!
+Dialogue: 0,1:28:55.29,1:28:57.08,Default,,0,0,0,,Cậu có định ghi lại chuyện này không?
+Dialogue: 0,1:28:59.58,1:29:04.50,Default,,0,0,0,,Cô ấy có một nốt ruồi cách khoảng 2cm phía dưới môi bên phải,
+Dialogue: 0,1:29:04.71,1:29:08.09,Default,,0,0,0,,khoảng bằng một hạt gạo lớn.
+Dialogue: 0,1:29:10.13,1:29:12.26,Default,,0,0,0,,Đây là chữ viết tay của tôi!
+Dialogue: 0,1:29:13.05,1:29:17.81,Default,,0,0,0,,Tôi có thể tiếp tục sống là vì tôi có Shigeru.
+Dialogue: 0,1:29:18.93,1:29:23.56,Default,,0,0,0,,Nếu không, tôi đã không\Ncòn lý do gì để sống.
+Dialogue: 0,1:29:23.69,1:29:28.36,Default,,0,0,0,,Mọi chứng cứ chúng tôi có đều\Nchỉ ra con trai bà chính là thủ phạm.
+Dialogue: 0,1:29:29.03,1:29:31.74,Default,,0,0,0,,- Cậu ấy nói đúng.\N- Xin bà hãy kiên nhẫn trong thời gian này.
+Dialogue: 0,1:29:31.99,1:29:33.57,Default,,0,0,0,,Nếu ông là một người mẹ, ông sẽ hiểu thôi!
+Dialogue: 0,1:29:33.87,1:29:35.95,Default,,0,0,0,,Đồ ngu, đừng nhẫn tâm như thế!
+Dialogue: 0,1:29:40.79,1:29:43.50,Default,,0,0,0,,Bà Tanabe, đúng là người tôi muốn gặp.
+Dialogue: 0,1:29:43.88,1:29:45.79,Default,,0,0,0,,Có chuyện ta cần phải hỏi.
+Dialogue: 0,1:29:46.00,1:29:48.88,Default,,0,0,0,,- Cậu làm gì ở đây thế?\N- Cậu Kindaichi bảo tôi làm vậy.
+Dialogue: 0,1:29:48.88,1:29:52.76,Default,,0,0,0,,- Gã cớm đó sao?\N- Việc này rất quan trọng để làm sáng tỏ cả ba vụ án mạng.
+Dialogue: 0,1:29:53.30,1:29:57.31,Default,,0,0,0,,To mồm thật! Thế rốt cuộc gã đó đang ở đâu chứ?
+Dialogue: 0,1:29:57.35,1:29:59.56,Default,,0,0,0,,Sáng hôm sau khi đầu của Toshio\Nđược tìm thấy,
+Dialogue: 0,1:29:59.77,1:30:02.23,Default,,0,0,0,,Tôi đã nhìn thấy Yukari ở ngôi nhà hoang\Nnhà Hogen.
+Dialogue: 0,1:30:02.56,1:30:06.90,Default,,0,0,0,,Cậu và Shigeru có vẻ mặt rất\Nkhả nghi. Tại sao thế?
+Dialogue: 0,1:30:07.19,1:30:11.36,Default,,0,0,0,,Chúng tôi không biết là Yukari đã trở về nhà.
+Dialogue: 0,1:30:15.03,1:30:16.74,Default,,0,0,0,,Cô ấy đã ở đâu chứ?
+Dialogue: 0,1:30:16.95,1:30:18.87,Default,,0,0,0,,Nhà nghỉ trên núi Hiei.\NCô ấy không nói là mình sẽ đi đâu.
+Dialogue: 0,1:30:18.99,1:30:20.83,Default,,0,0,0,,- Cô ấy đã đi trong bao nhiêu ngày?\N- Ba ngày.
+Dialogue: 0,1:30:21.00,1:30:23.25,Default,,0,0,0,,Ý anh là gì thế?
+Dialogue: 0,1:30:23.33,1:30:28.46,Default,,0,0,0,,Thưa thanh tra, nhóm {\i1}The Angry Pirates{\i0} đã đến thị trấn\Nba ngày trước khi vụ án mạng xảy ra.
+Dialogue: 0,1:30:28.75,1:30:32.09,Default,,0,0,0,,Đúng bằng số ngày mà\NYukari rời khỏi thị trấn.
+Dialogue: 0,1:30:34.09,1:30:38.56,Default,,0,0,0,,Sao trước đây bà không nói chuyện này cho chúng tôi biết?
+Dialogue: 0,1:30:38.85,1:30:42.27,Default,,0,0,0,,Yayoi bảo tôi phải giữ bí mật chuyện này.
+Dialogue: 0,1:30:42.81,1:30:44.27,Default,,0,0,0,,Tại sao chứ?
+Dialogue: 0,1:31:45.54,1:31:47.54,Default,,0,0,0,,Mẹ thấy trong người thế nào rồi ạ?
+Dialogue: 0,1:31:50.04,1:31:51.92,Default,,0,0,0,,Mẹ đúng là một gánh nặng mà.
+Dialogue: 0,1:31:52.38,1:31:54.63,Default,,0,0,0,,Mẹ à, lại thế nữa rồi.
+Dialogue: 0,1:31:55.55,1:31:58.97,Default,,0,0,0,,Chuyện đó đã từ lâu lắm rồi.
+Dialogue: 0,1:32:12.40,1:32:14.57,Default,,0,0,0,,Chú Mozo.
+Dialogue: 0,1:32:14.82,1:32:19.66,Default,,0,0,0,,- Xin hãy đối xử tốt với mẹ cháu.\N- Yayoi.
+Dialogue: 0,1:32:23.08,1:32:25.41,Default,,0,0,0,,Mẹ đã sai rồi...
+Dialogue: 0,1:32:25.45,1:32:31.21,Default,,0,0,0,,việc đưa con rời khỏi gia tộc\NHogen để làm người nhà Igarashi.
+Dialogue: 0,1:32:31.42,1:32:33.96,Default,,0,0,0,,Con đã bảo mẹ hãy quên chuyện đó đi.
+Dialogue: 0,1:32:34.55,1:32:37.13,Default,,0,0,0,,Con không còn quan tâm nữa.
+Dialogue: 0,1:32:53.69,1:32:57.82,Default,,0,0,0,,Thưa cha, con đã hứa với một\Nquý ông là con sẽ kết hôn với anh ấy.
+Dialogue: 0,1:32:57.94,1:32:59.28,Default,,0,0,0,,Ta biết.
+Dialogue: 0,1:32:59.32,1:33:05.49,Default,,0,0,0,,Con không thể kết hôn với anh họ Takuya Hogen.
+Dialogue: 0,1:33:06.45,1:33:08.25,Default,,0,0,0,,Con...
+Dialogue: 0,1:33:08.41,1:33:12.46,Default,,0,0,0,,Ông nghĩ ông có thể dùng\Nchuyện đó để kiểm soát ta sao.
+Dialogue: 0,1:33:12.83,1:33:16.21,Default,,0,0,0,,Xin hãy tha thứ cho con bé, Mozo.
+Dialogue: 0,1:33:16.42,1:33:19.67,Default,,0,0,0,,Phụ nữ hạnh phúc nhất là khi\Nđược một người đàn ông che chở.
+Dialogue: 0,1:33:19.88,1:33:22.89,Default,,0,0,0,,- Hãy để quyết định này cho ta.\N- Con không chịu!
+Dialogue: 0,1:33:22.97,1:33:25.06,Default,,0,0,0,,Con không làm ta thay đổi ý định được đâu.
+Dialogue: 0,1:33:25.56,1:33:27.14,Default,,0,0,0,,Xin ông mà!
+Dialogue: 0,1:33:29.27,1:33:35.44,Default,,0,0,0,,Ta đã bảo là không! Tốt nhất là\Nhãy nghe lời ta đấy, đồ đàn bà!
+Dialogue: 0,1:33:43.20,1:33:47.83,Default,,0,0,0,,Mẹ sẽ không bao giờ quên ngày hôm đó.
+Dialogue: 0,1:33:50.25,1:33:55.63,Default,,0,0,0,,Đó chỉ là một tai nạn. Chỉ thế thôi.
+Dialogue: 0,1:33:55.79,1:33:59.80,Default,,0,0,0,,Không ai biết về chuyện đó cả.
+Dialogue: 0,1:34:00.30,1:34:04.09,Default,,0,0,0,,Mẹ đã trở thành một gánh\Nnặng cho con đến thế này.
+Dialogue: 0,1:34:04.68,1:34:08.81,Default,,0,0,0,,Tất cả là vì gia tộc Hogen.
+Dialogue: 0,1:34:13.94,1:34:18.27,Default,,0,0,0,,Cậu Kindaichi, Naokichi\Nđã bị thương rất nặng.
+Dialogue: 0,1:34:20.19,1:34:21.90,Default,,0,0,0,,Có phải cậu đi thẳng từ\Nnhà ga đến đây không?
+Dialogue: 0,1:34:21.95,1:34:25.95,Default,,0,0,0,,Tôi đã rất ngạc nhiên. Cảm\Nơn vì đã gọi. Anh ấy thế nào rồi?
+Dialogue: 0,1:34:26.62,1:34:28.66,Default,,0,0,0,,Anh ấy vẫn đang hôn mê.
+Dialogue: 0,1:34:28.70,1:34:33.08,Default,,0,0,0,,Lần này tôi thực sự đã làm hỏng bét\Nmọi chuyện rồi. Cậu đã tin tưởng tôi.
+Dialogue: 0,1:34:34.04,1:34:39.17,Default,,0,0,0,,Đèn... đỏ...
+Dialogue: 0,1:34:46.30,1:34:49.39,Default,,0,0,0,,Anh ấy đã lẩm bẩm gì đó.
+Dialogue: 0,1:34:51.35,1:34:55.98,Default,,0,0,0,,Khi họ đưa cậu ấy vào, cậu ấy đã nói,\N\"Đèn đỏ." Anh ấy cứ lặp đi lặp lại điều đó.
+Dialogue: 0,1:34:58.73,1:35:00.15,Default,,0,0,0,,\"Đèn đỏ" sao?
+Dialogue: 0,1:35:26.26,1:35:28.30,Default,,0,0,0,,Tôi là Kindaichi.
+Dialogue: 0,1:35:28.76,1:35:31.43,Default,,0,0,0,,Đây chẳng phải là mộ\Ncủa Toshio Yamauchi sao?
+Dialogue: 0,1:35:36.27,1:35:40.86,Default,,0,0,0,,Toshio không có người thân nào\Ncả, nên Yayoi đã nhận xác cậu ấy...
+Dialogue: 0,1:35:41.11,1:35:44.57,Default,,0,0,0,,và tổ chức một đám tang tử tế cho cậu\Nấy. Tôi nghe chuyện đó từ phía cảnh sát.
+Dialogue: 0,1:35:47.95,1:35:52.83,Default,,0,0,0,,Tôi không thể nghĩ ra lý do gì mà\NYukari lại đi viếng mộ của Toshio cả.
+Dialogue: 0,1:35:54.37,1:35:57.42,Default,,0,0,0,,Cô là Koyuki Yamauchi, phải không?
+Dialogue: 0,1:35:59.58,1:36:03.63,Default,,0,0,0,,Tôi không nghĩ bức thư tuyệt mệnh\Ngiả mạo đó là ý tưởng của cô đâu.
+Dialogue: 0,1:36:03.71,1:36:06.38,Default,,0,0,0,,- Không phải tất cả đều là dối trá đâu!\N- Cô đang che giấu thông tin quan trọng đấy.
+Dialogue: 0,1:36:06.55,1:36:08.55,Default,,0,0,0,,Tôi nghĩ cô cũng muốn\Nbiết sự thật mà đúng không.
+Dialogue: 0,1:36:08.76,1:36:11.64,Default,,0,0,0,,Xin hãy kể cho tôi\Nnghe chuyện gì đã xảy ra.
+Dialogue: 0,1:36:29.99,1:36:33.37,Default,,0,0,0,,Có những dấu hiệu cho thấy\Nbộ phận giữ chiếc đèn chùm...
+Dialogue: 0,1:36:33.70,1:36:38.87,Default,,0,0,0,,ở Biệt thự Treo Cổ đã bị dàn\Ndựng để dễ dàng rơi xuống.
+Dialogue: 0,1:36:39.67,1:36:41.75,Default,,0,0,0,,Vậy chuyện này đã được lên kế hoạch sao?
+Dialogue: 0,1:36:42.21,1:36:44.38,Default,,0,0,0,,Tình hình Naokichi thế nào rồi?
+Dialogue: 0,1:36:44.63,1:36:47.13,Default,,0,0,0,,Có vẻ như cậu ấy sẽ qua khỏi.
+Dialogue: 0,1:36:48.51,1:36:50.55,Default,,0,0,0,,Cậu Kindaichi yêu cầu ông\Nđến nhà Hogen ngay lập tức.
+Dialogue: 0,1:36:50.76,1:36:52.18,Default,,0,0,0,,Cậu ấy muốn giải thích chi tiết về vụ án.
+Dialogue: 0,1:36:52.39,1:36:55.68,Default,,0,0,0,,Tôi còn có những việc tốt hơn để làm, và tôi không thích bị sai bảo bởi tên thám tử tư hạng bét đó.
+Dialogue: 0,1:36:55.89,1:36:57.64,Default,,0,0,0,,Tôi không đi.
+Dialogue: 0,1:36:57.85,1:37:01.15,Default,,0,0,0,,- Yukari thực chất chính là Koyuki!\N- Cái gì?!
+Dialogue: 0,1:37:01.35,1:37:03.65,Default,,0,0,0,,Chính cô ấy đã nói như vậy.
+Dialogue: 0,1:37:05.65,1:37:08.95,Default,,0,0,0,,Nếu điều đó là sự thật, thì Yukari đang mất tích.
+Dialogue: 0,1:37:09.15,1:37:10.45,Default,,0,0,0,,Ồ, phải rồi.
+Dialogue: 0,1:37:10.61,1:37:13.95,Default,,0,0,0,,Chúng ta không thể loại trừ\Nkhả năng Yukari chính là hung thủ.
+Dialogue: 0,1:37:14.20,1:37:18.20,Default,,0,0,0,,Tôi tự hỏi tại sao Yayoi lại bảo vệ cô ấy.
+Dialogue: 0,1:37:18.25,1:37:20.75,Default,,0,0,0,,- Đó là con gái bà ấy.\N- Tôi biết điều đó.
+Dialogue: 0,1:37:20.79,1:37:22.58,Default,,0,0,0,,- Ông sai rồi.\N- Tại sao?
+Dialogue: 0,1:37:22.79,1:37:25.67,Default,,0,0,0,,- Mọi chuyện phức tạp hơn thế một chút.\N- Cậu đang nói cái gì vậy?
+Dialogue: 0,1:37:25.88,1:37:28.13,Default,,0,0,0,,- Tôi đang bảo là ông không hiểu đâu.\N- Đau đấy nhé.
+Dialogue: 0,1:37:28.38,1:37:32.14,Default,,0,0,0,,Thôi ngay trò tán gẫu nhảm nhí khó\Nchịu đó đi! Chúng ta phải đến nhà Hogen.
+Dialogue: 0,1:37:42.44,1:37:45.65,Default,,0,0,0,,Cậu ở đây từ bao giờ thế?
+Dialogue: 0,1:37:46.69,1:37:50.15,Default,,0,0,0,,Không có ai ở đây, nên tôi tự tiện vào.
+Dialogue: 0,1:37:53.11,1:37:54.91,Default,,0,0,0,,Cậu muốn gì?
+Dialogue: 0,1:37:55.24,1:37:59.54,Default,,0,0,0,,Tôi đã đến vùng nam Tohoku.
+Dialogue: 0,1:38:00.41,1:38:06.38,Default,,0,0,0,,Sau khi đầu của Toshio được tìm thấy treo lơ lửng trên trần nhà, Tokubei đã bị giết,
+Dialogue: 0,1:38:06.59,1:38:10.22,Default,,0,0,0,,Yoshizawa đã bị giết.\NĐó là một chuỗi những vụ án mạng liên hoàn.
+Dialogue: 0,1:38:10.42,1:38:13.59,Default,,0,0,0,,Dù không có mối liên hệ rõ ràng nào\Ngiữa ba vụ án này,
+Dialogue: 0,1:38:13.80,1:38:16.81,Default,,0,0,0,,chúng đều có chung một gốc rễ.
+Dialogue: 0,1:38:17.01,1:38:21.94,Default,,0,0,0,,Cậu Kindaichi, tôi hy vọng cậu nhớ\Nrằng tôi đã thuê cậu tìm Koyuki.
+Dialogue: 0,1:38:22.10,1:38:23.94,Default,,0,0,0,,Điều đó cũng rất quan trọng.
+Dialogue: 0,1:38:24.48,1:38:28.82,Default,,0,0,0,,Yayoi, có ai đó đang sống trên\Ngác mái nhà bà, đúng không?
+Dialogue: 0,1:38:30.36,1:38:33.03,Default,,0,0,0,,Tại sao bà lại giấu chuyện đó?
+Dialogue: 0,1:38:36.07,1:38:37.62,Default,,0,0,0,,Chẳng phải đó là Chizu sao?
+Dialogue: 0,1:38:38.03,1:38:43.00,Default,,0,0,0,,Việc tôi chăm sóc mẹ mình theo cách tôi\Ncho là phù hợp thì có gì đáng ngờ sao?
+Dialogue: 0,1:38:49.80,1:38:53.05,Default,,0,0,0,,Khi tôi đến vùng nam Tohoku,
+Dialogue: 0,1:38:53.22,1:38:57.47,Default,,0,0,0,,đó là vì tôi đã có được\Ntập sách bài hát này.
+Dialogue: 0,1:38:57.80,1:39:00.35,Default,,0,0,0,,Bà chưa bao giờ đọc nó, đúng không?
+Dialogue: 0,1:39:00.39,1:39:03.64,Default,,0,0,0,,Tôi đã nói với cậu chuyện đó rồi mà.
+Dialogue: 0,1:39:04.73,1:39:08.65,Default,,0,0,0,,\"Tôi đã ghé thăm thị trấn\NKawaaoki Kitakami,
+Dialogue: 0,1:39:08.69,1:39:12.32,Default,,0,0,0,,\"và đã không nói với mẹ,\Nvì nỗi ngờ vực về những ngày đã qua."
+Dialogue: 0,1:39:12.57,1:39:15.86,Default,,0,0,0,,Đó là một phần trong bài hát mà chồng cô\NTakuya đã viết.
+Dialogue: 0,1:39:17.03,1:39:21.75,Default,,0,0,0,,Takuya là đứa con ngoài giá thú bí mật của\Nthế hệ nhà Hogen đầu tiên,
+Dialogue: 0,1:39:21.75,1:39:24.87,Default,,0,0,0,,- Tetsuma Hogen, đúng không?\N- Sao cậu biết được chuyện đó?
+Dialogue: 0,1:39:24.91,1:39:27.79,Default,,0,0,0,,Vợ của Takuma mất sớm.\NÔng ấy không có người thừa kế,
+Dialogue: 0,1:39:27.79,1:39:32.13,Default,,0,0,0,,nên ông ấy muốn đưa Takuya\Nlên làm người thừa kế chính thức của Bệnh viện Hogen.
+Dialogue: 0,1:39:32.17,1:39:35.43,Default,,0,0,0,,nhưng gia tộc Hogen rất danh giá,\Nvà quan niệm đạo đức...
+Dialogue: 0,1:39:35.68,1:39:38.72,Default,,0,0,0,,không chấp nhận việc để con của một kỹ nữ làm người thừa kế chính thức.
+Dialogue: 0,1:39:38.93,1:39:44.23,Default,,0,0,0,,Nhưng Mozo Igarashi đã không để điều đó\Ncản đường mình.
+Dialogue: 0,1:39:45.60,1:39:50.65,Default,,0,0,0,,Mozo đã cướp Takuya khỏi tay người mẹ,\Nđuổi bà ấy ra khỏi vùng đất này,
+Dialogue: 0,1:39:50.82,1:39:54.07,Default,,0,0,0,,và khiến cả khu phố quay lưng lại với bà ấy.
+Dialogue: 0,1:39:55.53,1:40:01.28,Default,,0,0,0,,Takuya đã viết bài hát này khi\Nanh ấy đến thăm Kitami nhiều năm sau đó,
+Dialogue: 0,1:40:01.45,1:40:05.91,Default,,0,0,0,,và đau đớn khôn nguôi về\Nngười mẹ bị xua đuổi của mình.
+Dialogue: 0,1:40:08.71,1:40:12.42,Default,,0,0,0,,Tên bà ấy là Sumi Miyasaka.
+Dialogue: 0,1:40:12.46,1:40:16.05,Default,,0,0,0,,Tôi biết chứ, tôi đã gặp bà ấy rồi!
+Dialogue: 0,1:40:16.09,1:40:19.76,Default,,0,0,0,,Cái gì?! Tôi nghe nói bà ấy đã qua đời rồi.
+Dialogue: 0,1:40:20.93,1:40:26.69,Default,,0,0,0,,Sumi đã sống rất kín tiếng vì\Nnghĩ cho con trai bà, Takuya.
+Dialogue: 0,1:40:26.89,1:40:30.27,Default,,0,0,0,,Bà ấy đã di chuyển rất nhiều nơi,
+Dialogue: 0,1:40:30.48,1:40:34.98,Default,,0,0,0,,nhưng tôi đã tìm thấy tên bà ấy trong một cuốn sổ cái cũ\Ntại tòa thị chính thành phố Kitakami.
+Dialogue: 0,1:40:35.65,1:40:41.03,Default,,0,0,0,,Tôi cá là tìm tôi không dễ dàng gì.
+Dialogue: 0,1:40:41.24,1:40:46.12,Default,,0,0,0,,Tôi đã trải qua vài đời chồng.
+Dialogue: 0,1:40:46.50,1:40:52.13,Default,,0,0,0,,Mozo Igarashi cũng đến từ\Nphía nam Tohoku.
+Dialogue: 0,1:40:53.09,1:40:57.92,Default,,0,0,0,,Gia tộc Hogen nợ...
+Dialogue: 0,1:40:57.97,1:41:06.06,Default,,0,0,0,,một món nợ lớn với tôi vì Takuya.
+Dialogue: 0,1:41:06.68,1:41:10.48,Default,,0,0,0,,Chizu là người em gái...
+Dialogue: 0,1:41:10.77,1:41:19.28,Default,,0,0,0,,cùng cha của Tetsuma\Nnhưng khác mẹ.
+Dialogue: 0,1:41:19.74,1:41:27.29,Default,,0,0,0,,Họ đã yêu nhau, nhưng kết hôn sẽ là loạn luân.
+Dialogue: 0,1:41:27.45,1:41:31.08,Default,,0,0,0,,Họ có một đứa con ngoài giá thú, Yayoi.
+Dialogue: 0,1:41:31.46,1:41:38.01,Default,,0,0,0,,Mozo muốn lấy Chizu làm vợ.
+Dialogue: 0,1:41:38.21,1:41:45.97,Default,,0,0,0,,Ông ta đã van xin Tetsuma\Ncho phép cuộc hôn nhân đó.
+Dialogue: 0,1:41:46.81,1:41:51.90,Default,,0,0,0,,Đó là thời kỳ khó khăn đối với một\Nngười phụ nữ khi phải tự mình nuôi con.
+Dialogue: 0,1:41:52.98,1:41:58.23,Default,,0,0,0,,Và quyết định của {\i1}Trai trưởng{\i0} là tuyệt đối.
+Dialogue: 0,1:41:58.53,1:42:04.49,Default,,0,0,0,,Mẹ tôi giống như một con rối.
+Dialogue: 0,1:42:04.62,1:42:13.38,Default,,0,0,0,,Tôi đã rất sốc khi nghe tin\NYayoi đã kết hôn với Takuya.
+Dialogue: 0,1:42:14.00,1:42:19.42,Default,,0,0,0,,Dù sao thì họ cũng là anh em họ mà.
+Dialogue: 0,1:42:19.63,1:42:24.97,Default,,0,0,0,,nhưng cuộc hôn nhân của họ đã khiến Mozo...
+Dialogue: 0,1:42:24.97,1:42:33.27,Default,,0,0,0,,trở thành một thành viên thân cận hơn của gia đình Hogen,
+Dialogue: 0,1:42:33.52,1:42:41.65,Default,,0,0,0,,và chắc chắn ông ta muốn điều hành\NBệnh viện Hogen.
+Dialogue: 0,1:42:42.11,1:42:52.21,Default,,0,0,0,,Tham vọng khôn cùng của Mozo đôi khi thật đáng sợ.
+Dialogue: 0,1:42:53.75,1:42:59.50,Default,,0,0,0,,Cậu nghĩ Takuya và Yayoi\Nlà một cặp đôi như thế nào?
+Dialogue: 0,1:43:00.30,1:43:05.76,Default,,0,0,0,,Tất nhiên, tôi đã không còn làm mẹ\Ncủa Takuya từ lâu rồi,
+Dialogue: 0,1:43:05.97,1:43:10.31,Default,,0,0,0,,nên tôi nghĩ chuyện đó không còn quan trọng\Nvới tôi nữa. Cái gì cơ?
+Dialogue: 0,1:43:10.56,1:43:14.98,Default,,0,0,0,,Có điều gì đó viết về tôi trong cuốn sách.
+Dialogue: 0,1:43:17.06,1:43:22.15,Default,,0,0,0,,Tôi xin lỗi, nhưng mắt tôi nhìn không rõ lắm.
+Dialogue: 0,1:43:22.15,1:43:25.24,Default,,0,0,0,,Thực ra, tôi mù chữ.
+Dialogue: 0,1:43:25.45,1:43:28.07,Default,,0,0,0,,Tôi không biết chữ.
+Dialogue: 0,1:43:30.08,1:43:38.42,Default,,0,0,0,,Tôi không hề biết Mozo Igarashi\Nlại là mối đe dọa lớn đối với bà như vậy.
+Dialogue: 0,1:43:38.67,1:43:41.30,Default,,0,0,0,,- Ông ta đã chết từ lâu rồi.\N- Bà sai rồi.
+Dialogue: 0,1:43:41.46,1:43:44.22,Default,,0,0,0,,Bà vẫn chưa thoát khỏi ông ta đâu.
+Dialogue: 0,1:43:45.59,1:43:50.85,Default,,0,0,0,,Tôi đã tìm thấy một bức ảnh.
+Dialogue: 0,1:43:51.35,1:43:53.27,Default,,0,0,0,,Tôi không hiểu cậu đang nói gì cả.
+Dialogue: 0,1:43:53.48,1:43:57.23,Default,,0,0,0,,Các vụ giết người đều liên quan\Nđến bức ảnh đó.
+Dialogue: 0,1:43:59.52,1:44:02.69,Default,,0,0,0,,Hung thủ… chính là bà.
+Dialogue: 0,1:44:08.16,1:44:10.45,Default,,0,0,0,,Tôi đang giữ bức ảnh.
+Dialogue: 0,1:44:24.71,1:44:29.39,Default,,0,0,0,,Tấm kính âm bản của bức ảnh ở bên trong.
+Dialogue: 0,1:44:36.18,1:44:41.23,Default,,0,0,0,,Cậu đã thấy nó rồi sao?
+Dialogue: 0,1:44:44.28,1:44:45.82,Default,,0,0,0,,Phải.
+Dialogue: 0,1:44:59.75,1:45:02.92,Default,,0,0,0,,Honjo, mau lấy bức ảnh đi!
+Dialogue: 0,1:45:20.94,1:45:28.57,Default,,0,0,0,,Tôi là người duy nhất đã thấy bức ảnh.
+Dialogue: 0,1:45:30.78,1:45:33.78,Default,,0,0,0,,Một mảnh giấy đính kèm xác định niên đại của tấm kính khô là ngày 1 tháng 1 năm 1913,
+Dialogue: 0,1:45:33.99,1:45:36.95,Default,,0,0,0,,và xác định Monjuro Honjo là nhiếp ảnh gia.
+Dialogue: 0,1:45:37.25,1:45:43.08,Default,,0,0,0,,Đó là bà 15 năm trước, trước khi bà kết hôn với Takuya
+Dialogue: 0,1:45:43.34,1:45:47.05,Default,,0,0,0,,Bà đã mang thai và hạ sinh một bé gái vào mùa đông.
+Dialogue: 0,1:45:47.09,1:45:49.76,Default,,0,0,0,,Đó là Fuyuko, và cô ấy đã treo cổ tự tử\Ntrong Ngôi nhà Treo cổ.
+Dialogue: 0,1:45:49.92,1:45:51.26,Default,,0,0,0,,Làm sao cậu biết điều này?
+Dialogue: 0,1:45:53.22,1:45:57.27,Default,,0,0,0,,Tôi cứ nghĩ là đến giờ bà đã\Nhiểu ra điều đó rồi chứ.
+Dialogue: 0,1:45:58.22,1:46:03.36,Default,,0,0,0,,Koyuki đã kể với tôi khi bà nhặt lên\Nchiếc chuông gió của Fuyuko.
+Dialogue: 0,1:46:04.69,1:46:10.95,Default,,0,0,0,,bà ấy dường như không biết gì về chuyện đó.
+Dialogue: 0,1:46:15.53,1:46:24.25,Default,,0,0,0,,Sự thật quá tồi tệ để kể cho Koyuki nghe.
+Dialogue: 0,1:46:25.25,1:46:28.96,Default,,0,0,0,,Có những ghi chép trong cuốn sổ bài hát\Ncủa Takuya nói rằng,
+Dialogue: 0,1:46:29.21,1:46:34.01,Default,,0,0,0,,"Có một chiếc chuông gió của một người phụ nữ nọ mà bên trong có khắc dòng chữ,
+Dialogue: 0,1:46:34.26,1:46:40.56,Default,,0,0,0,,"{\i1}Fuyuko, sinh ngày 17 tháng 12 năm 1913, Jinzaburo{\i0}"
+Dialogue: 0,1:46:40.73,1:46:43.98,Default,,0,0,0,,"Điều này đã lay động tôi từ tận sâu thẳm tâm hồn mình."
+Dialogue: 0,1:46:44.60,1:46:51.19,Default,,0,0,0,,Yayoi, chiếc chuông gió của Koyuki cũng có\Ndòng chữ khắc y hệt như vậy, phải không?
+Dialogue: 0,1:46:52.61,1:46:57.58,Default,,0,0,0,,Khi tôi ghé thăm Mizusawa,\Ntôi đã đến gặp Jinzaburo.
+Dialogue: 0,1:46:58.24,1:47:01.12,Default,,0,0,0,,Xin lỗi vì lại bắt anh phải đến đây.
+Dialogue: 0,1:47:01.33,1:47:03.54,Default,,0,0,0,,Jinzaburo là bố tôi.
+Dialogue: 0,1:47:03.79,1:47:08.17,Default,,0,0,0,,- Mẹ bà từng là bà đỡ à?\N- Đúng vậy.
+Dialogue: 0,1:47:09.55,1:47:16.43,Default,,0,0,0,,Bố tôi luôn tặng cho người mẹ\Nmột chiếc chuông gió để làm kỷ niệm.
+Dialogue: 0,1:47:16.64,1:47:22.06,Default,,0,0,0,,Cả hai đều đã mất từ lâu rồi,\Nnên tôi e là anh đã đến đây vô ích.
+Dialogue: 0,1:47:22.31,1:47:24.64,Default,,0,0,0,,Lần trước khi tôi đến,
+Dialogue: 0,1:47:24.64,1:47:27.98,Default,,0,0,0,,Bà đã nói mẹ bà có giữ lại ghi chép về\Ntất cả những đứa trẻ mà bà đã đỡ đẻ.
+Dialogue: 0,1:47:28.02,1:47:32.65,Default,,0,0,0,,Ừ, tôi tìm thấy rồi. Tôi đã phải lục tung cả nhà\Nlên mới tìm thấy nó đấy. Nó ở đằng kia kìa.
+Dialogue: 0,1:47:32.86,1:47:33.95,Default,,0,0,0,,Cảm ơn.
+Dialogue: 0,1:47:34.11,1:47:37.53,Default,,0,0,0,,Bố đã đúc khuôn nướng những chiếc chuông gió đó - chúng là hàng cực phẩm đấy.
+Dialogue: 0,1:47:37.74,1:47:40.79,Default,,0,0,0,,Chúng tôi rất tự hào khi khắc\Ntên mình lên chúng.
+Dialogue: 0,1:47:40.83,1:47:44.96,Default,,0,0,0,,- Nó ở đâu? - Cái gì cơ?\N- Cuốn sổ ghi chép. - Đằng kia.
+Dialogue: 0,1:47:52.80,1:47:55.05,Default,,0,0,0,,Từ năm 1910.
+Dialogue: 0,1:47:56.80,1:48:01.31,Default,,0,0,0,,Bố chưa bao giờ đúc khuôn cát\Ncho những chiếc chuông gió cả.
+Dialogue: 0,1:48:02.89,1:48:08.73,Default,,0,0,0,,Điều đó luôn khiến các thương nhân khó chịu vì chúng không thể được sản xuất hàng loạt.
+Dialogue: 0,1:48:12.15,1:48:15.36,Default,,0,0,0,,Có chuyện gì thế?
+Dialogue: 0,1:48:18.11,1:48:26.00,Default,,0,0,0,,{\i1}Fuyuko, sinh ngày 17 tháng 12 năm 1913,\Ncon của Yayoi{\i0}
+Dialogue: 0,1:48:27.67,1:48:31.13,Default,,0,0,0,,Tôi đã lập tức đem đứa bé cho làm con nuôi.
+Dialogue: 0,1:48:34.71,1:48:37.30,Default,,0,0,0,,Mọi chuyện thế là chấm dứt.
+Dialogue: 0,1:48:38.80,1:48:43.64,Default,,0,0,0,,Tôi được biết chính cha mẹ\Nnuôi đã đặt tên nó là Fuyuko.
+Dialogue: 0,1:48:43.68,1:48:46.73,Default,,0,0,0,,Bà không hề biết gì sao.
+Dialogue: 0,1:48:48.90,1:48:54.28,Default,,0,0,0,,Yayoi, con gái của bà đỡ đẻ đã kể với tôi...
+Dialogue: 0,1:48:55.11,1:48:58.24,Default,,0,0,0,,rằng một người phụ nữ mang theo chuông gió...
+Dialogue: 0,1:48:58.45,1:49:01.24,Default,,0,0,0,,đã đến xưởng đúc 5 năm trước.
+Dialogue: 0,1:49:01.32,1:49:03.33,Default,,0,0,0,,Cô ấy có một nốt ruồi ở bên phải\Ncằm.
+Dialogue: 0,1:49:03.41,1:49:07.00,Default,,0,0,0,,Cái gì? 5 năm trước sao?
+Dialogue: 0,1:49:07.75,1:49:11.58,Default,,0,0,0,,Mẹ tôi đang ốm, cô không thể gặp bà ấy đâu.
+Dialogue: 0,1:49:11.58,1:49:15.13,Default,,0,0,0,,- Cô cần gì ạ?\N- Xin lỗi vì đã làm phiền.
+Dialogue: 0,1:49:15.30,1:49:20.18,Default,,0,0,0,,Nhà tôi đã bị trúng bom nên tôi\Nphải chuyển đến một thị trấn khác.
+Dialogue: 0,1:49:20.26,1:49:22.39,Default,,0,0,0,,Đó là lý do tôi quay lại đây.
+Dialogue: 0,1:49:22.47,1:49:25.85,Default,,0,0,0,,Tôi đến vì tôi băn khoăn\Nvề chiếc chuông gió.
+Dialogue: 0,1:49:25.89,1:49:28.81,Default,,0,0,0,,Đây là chuông gió của cô.
+Dialogue: 0,1:49:29.02,1:49:35.19,Default,,0,0,0,,- Fuyuko, tôi nghĩ mẹ của cô tên là Yayoi.\N- Cái gì?!
+Dialogue: 0,1:49:43.98,1:49:45.99,Default,,0,0,0,,5 năm trước...
+Dialogue: 0,1:49:46.24,1:49:49.70,Default,,0,0,0,,Đó là lúc con bé ấy đến đây.
+Dialogue: 0,1:49:51.53,1:49:54.58,Default,,0,0,0,,Để xin lỗi, tôi đoán vậy.
+Dialogue: 0,1:50:01.17,1:50:04.21,Default,,0,0,0,,Đó chắc chắn là sự trùng hợp khi...
+Dialogue: 0,1:50:04.42,1:50:09.93,Default,,0,0,0,,Con bé biết mình đã ngủ với chính bố chồng của mình.
+Dialogue: 0,1:50:11.97,1:50:14.18,Default,,0,0,0,,Fuyuko...
+Dialogue: 0,1:50:14.35,1:50:19.77,Default,,0,0,0,,Tha thứ cho mẹ.\NTha thứ cho mẹ!
+Dialogue: 0,1:50:38.45,1:50:42.92,Default,,0,0,0,,- Koyuki.\N- Bà… bà là bà của cháu!
+Dialogue: 0,1:50:47.88,1:50:51.43,Default,,0,0,0,,Yayoi, nếu tôi…
+Dialogue: 0,1:50:54.39,1:50:58.47,Default,,0,0,0,,nhanh hơn một chút….
+Dialogue: 0,1:50:58.68,1:51:00.56,Default,,0,0,0,,Cậu Kindaichi.
+Dialogue: 0,1:51:02.19,1:51:06.11,Default,,0,0,0,,Tôi đã biết rồi.
+Dialogue: 0,1:51:07.65,1:51:10.90,Default,,0,0,0,,Tôi là mẹ của Yukari.
+Dialogue: 0,1:51:11.74,1:51:17.66,Default,,0,0,0,,Tôi đã đau khổ khi mất con bé.
+Dialogue: 0,1:51:19.79,1:51:25.75,Default,,0,0,0,,Nhưng rồi tôi đã gặp Koyuki vào đêm đó.
+Dialogue: 0,1:51:26.00,1:51:29.17,Default,,0,0,0,,Con bé đã nói với tôi,
+Dialogue: 0,1:51:29.38,1:51:33.51,Default,,0,0,0,,và tôi biết chính xác mình phải làm gì.
+Dialogue: 0,1:51:44.77,1:51:49.65,Default,,0,0,0,,Chúng tôi chưa bao giờ ngờ rằng Koyuki\Nlại đang mạo danh Yukari.
+Dialogue: 0,1:51:49.86,1:51:54.82,Default,,0,0,0,,Đó là lý do tại sao Yoshizawa\Nlại tống tiền Shigeru.
+Dialogue: 0,1:51:55.36,1:52:00.20,Default,,0,0,0,,Và đó là lúc Shigeru phát hiện ra\NKoyuki thực chất là ai.
+Dialogue: 0,1:52:00.54,1:52:04.42,Default,,0,0,0,,Shigeru sau đó lại tống tiền Yayoi.
+Dialogue: 0,1:52:04.42,1:52:07.96,Default,,0,0,0,,Shigeru chưa từng nói điều gì như vậy\Nkhi bị thẩm vấn! Đúng không?
+Dialogue: 0,1:52:08.17,1:52:11.55,Default,,0,0,0,,Tôi đã chết lặng khi\NMokutaro nói với tôi rằng...
+Dialogue: 0,1:52:11.76,1:52:15.55,Default,,0,0,0,,người đã gọi điện dụ Yoshizawa đến\Ncó giọng của một người phụ nữ.
+Dialogue: 0,1:52:15.80,1:52:19.43,Default,,0,0,0,,Đó là Yayoi.
+Dialogue: 0,1:52:19.47,1:52:24.52,Default,,0,0,0,,Cái gì?! Vậy thì Yayoi…!?
+Dialogue: 0,1:52:33.28,1:52:36.66,Default,,0,0,0,,Tôi đã gọi điện đúng như cô yêu cầu, Yayoi.
+Dialogue: 0,1:52:36.86,1:52:40.20,Default,,0,0,0,,Shigeru nói anh ta sẽ đến đây.
+Dialogue: 0,1:52:40.41,1:52:42.62,Default,,0,0,0,,Cậu không hề nhắc đến tên tôi, đúng không?
+Dialogue: 0,1:52:42.66,1:52:46.08,Default,,0,0,0,,Tất nhiên là không rồi.\NNhưng tôi phải thừa nhận rằng,
+Dialogue: 0,1:52:46.37,1:52:50.63,Default,,0,0,0,,tôi không ngờ lại nhận được cuộc gọi từ cô\Nvề chuyện này.
+Dialogue: 0,1:52:51.67,1:52:56.05,Default,,0,0,0,,Nếu cô sẵn sàng đáp ứng các yêu cầu của tôi,
+Dialogue: 0,1:52:56.26,1:52:59.64,Default,,0,0,0,,tôi thực sự không quan tâm liệu\NShigeru có liên quan hay không.
+Dialogue: 0,1:52:59.85,1:53:01.81,Default,,0,0,0,,Còn tôi thì…
+Dialogue: 0,1:53:33.46,1:53:36.97,Default,,0,0,0,,Và Shigeru đã xuất hiện sau đó.
+Dialogue: 0,1:53:37.22,1:53:39.30,Default,,0,0,0,,Vậy còn Tokubei thì sao?
+Dialogue: 0,1:53:39.47,1:53:42.72,Default,,0,0,0,,- Hắn đã tống tiền Yayoi.\N- Tống tiền sao?
+Dialogue: 0,1:53:42.93,1:53:45.85,Default,,0,0,0,,- Tokubei đã biết bí mật của Yayoi.\N- Bí mật gì?
+Dialogue: 0,1:53:45.93,1:53:52.94,Default,,0,0,0,,Bức ảnh... trên tấm kính ảnh này.
+Dialogue: 0,1:53:53.65,1:53:57.78,Default,,0,0,0,,- Bức ảnh gì?\N- Tôi không thể nói.
+Dialogue: 0,1:53:58.91,1:54:05.83,Default,,0,0,0,,Nhưng, là một người phụ nữ, tôi nghĩ Yayoi sẽ không bao giờ muốn bất kỳ ai nhìn thấy nó.
+Dialogue: 0,1:54:06.04,1:54:10.04,Default,,0,0,0,,Cha của Tokubei đã chụp bức\Nảnh đó và giữ nó tại Tiệm ảnh Honjo.
+Dialogue: 0,1:54:10.04,1:54:14.21,Default,,0,0,0,,- Tấm kính ảnh ở đâu?\N- Trong phòng tối.
+Dialogue: 0,1:54:14.25,1:54:18.51,Default,,0,0,0,,- Sao lại ở đó?\N- Nơi cất giấu tốt nhất chính là ngay trước mắt.
+Dialogue: 0,1:54:20.05,1:54:24.18,Default,,0,0,0,,Khi nào hắn bắt đầu tống tiền cô?
+Dialogue: 0,1:54:24.68,1:54:26.43,Default,,0,0,0,,Ngay sau chiến tranh.
+Dialogue: 0,1:54:26.47,1:54:31.19,Default,,0,0,0,,Yayoi, nếu cô có tấm kính ảnh,
+Dialogue: 0,1:54:31.40,1:54:35.78,Default,,0,0,0,,cô có thể tạo ra bao nhiêu bản sao tùy thích.
+Dialogue: 0,1:54:35.82,1:54:41.49,Default,,0,0,0,,Tokubei muốn cải tạo lại hiệu ảnh lỗi thời của mình.
+Dialogue: 0,1:54:41.57,1:54:45.74,Default,,0,0,0,,Vậy chiếc chuông gió trong tòa nhà bỏ hoang rơi trúng Naokichi cũng là do Yayoi sao?
+Dialogue: 0,1:54:46.74,1:54:52.79,Default,,0,0,0,,Đó có lẽ là phản hồi của cô ta đối với mức giá cắt cổ của Tokubei.
+Dialogue: 0,1:54:53.17,1:54:56.25,Default,,0,0,0,,Vào ngày Tokubei bị giết trong phòng tối, Naokichi và tôi...
+Dialogue: 0,1:54:56.46,1:54:59.01,Default,,0,0,0,,đã bị dụ ra ngoài bởi một cuộc điện thoại từ một chàng trai trẻ.
+Dialogue: 0,1:54:59.05,1:55:02.05,Default,,0,0,0,,Đó có lẽ là phu kéo xe của cô ta, Sannosuke.
+Dialogue: 0,1:55:02.26,1:55:04.51,Default,,0,0,0,,Không, anh ta không liên quan gì đến chuyện này cả.
+Dialogue: 0,1:55:22.07,1:55:24.74,Default,,0,0,0,,Naokichi đáng lẽ sẽ được thừa kế hiệu ảnh khi Tokubei qua đời,
+Dialogue: 0,1:55:24.95,1:55:27.54,Default,,0,0,0,,nên hắn ta có thể đã cố tống tiền Yayoi.
+Dialogue: 0,1:55:27.79,1:55:30.46,Default,,0,0,0,,Hắn ta là người sắp xếp các tấm kính ảnh,
+Dialogue: 0,1:55:30.66,1:55:33.17,Default,,0,0,0,,nên chắc chắn hắn đã biết về tấm kính bí mật đó.
+Dialogue: 0,1:55:33.42,1:55:36.96,Default,,0,0,0,,Tôi hiểu rồi. Vậy nên Yayoi đã mời Naokichi đến...
+Dialogue: 0,1:55:37.17,1:55:40.80,Default,,0,0,0,,Ngôi Nhà Treo Cổ để giải quyết dứt điểm chuyện này một lần và mãi mãi.
+Dialogue: 0,1:55:40.84,1:55:45.09,Default,,0,0,0,,Người ta nói rằng một khi đã bị tống tiền, bạn sẽ không bao giờ quên được cảm giác đó.
+Dialogue: 0,1:55:45.26,1:55:47.60,Default,,0,0,0,,Tiền bạc là thứ duy nhất quan trọng.
+Dialogue: 0,1:55:48.01,1:55:50.18,Default,,0,0,0,,Trong mọi vụ án.
+Dialogue: 0,1:55:50.60,1:55:54.77,Default,,0,0,0,,Vậy những vụ giết người đó có\Nliên quan gì đến cái đầu bị cắt rời?
+Dialogue: 0,1:55:54.90,1:55:58.48,Default,,0,0,0,,Đó không phải là một vụ giết người.
+Dialogue: 0,1:55:59.36,1:56:03.53,Default,,0,0,0,,Yayoi có thể dễ dàng kể\Ncho anh chi tiết của vụ án.
+Dialogue: 0,1:56:03.61,1:56:07.12,Default,,0,0,0,,Đủ rồi đấy! Ý anh là cô\Nấy cũng làm việc này sao?
+Dialogue: 0,1:56:07.33,1:56:11.37,Default,,0,0,0,,Nghe này, cô ấy xuất hiện sau khi chúng\Ntôi đã điều tra hiện trường vụ án mạng.
+Dialogue: 0,1:56:11.62,1:56:19.59,Default,,0,0,0,,Cô ấy đã đi vào căn phòng\Nkiểu Tây mà không nói với ai cả.
+Dialogue: 0,1:56:24.97,1:56:30.72,Default,,0,0,0,,Anh đã theo dõi Yayoi từ trước rồi sao?
+Dialogue: 0,1:56:30.93,1:56:33.89,Default,,0,0,0,,Đầu của Toshio đã bị...
+Dialogue: 0,1:56:34.10,1:56:39.65,Default,,0,0,0,,treo lên như chuông\Ngió bởi Yayoi và Koyuki.
+Dialogue: 0,1:56:42.36,1:56:48.62,Default,,0,0,0,,Nguyện vọng của Toshio được viết trong thư tuyệt mệnh của Koyuki là hoàn toàn chính xác.
+Dialogue: 0,1:56:48.99,1:56:54.58,Default,,0,0,0,,Tuy nhiên, Koyuki không giết Toshio.
+Dialogue: 0,1:56:54.96,1:57:00.63,Default,,0,0,0,,Tôi đã bảo Koyuki viết bức thư đó.
+Dialogue: 0,1:57:02.26,1:57:06.93,Default,,0,0,0,,Bằng cách đó, cô ấy có thể sống với danh nghĩa Yukari.
+Dialogue: 0,1:57:07.18,1:57:10.39,Default,,0,0,0,,Vậy chuyện gì đã xảy ra với Yukari?
+Dialogue: 0,1:57:12.47,1:57:14.39,Default,,0,0,0,,Con bé đã chết.
+Dialogue: 0,1:57:16.35,1:57:19.65,Default,,0,0,0,,Vậy thì, ai đã giết Toshio?
+Dialogue: 0,1:57:22.28,1:57:27.57,Default,,0,0,0,,Koyuki... xin hãy giải thích đi.
+Dialogue: 0,1:57:32.74,1:57:34.37,Default,,0,0,0,,Anh trai tôi, Toshio.
+Dialogue: 0,1:57:47.22,1:57:49.14,Default,,0,0,0,,Em có ngại mưa không?
+Dialogue: 0,1:57:57.77,1:57:59.98,Default,,0,0,0,,Không, ai đó sẽ nhìn thấy chúng ta mất.
+Dialogue: 0,1:58:00.15,1:58:01.65,Default,,0,0,0,,Đừng lo.
+Dialogue: 0,1:58:02.40,1:58:04.36,Default,,0,0,0,,Dừng lại đi.
+Dialogue: 0,1:58:41.15,1:58:46.40,Default,,0,0,0,,Này, Anh nghe nói em và Toshio từng sống ở thị trấn tiếp theo mà chúng ta sắp biểu diễn.
+Dialogue: 0,1:58:46.61,1:58:48.36,Default,,0,0,0,,Đúng vậy.
+Dialogue: 0,1:58:48.69,1:58:51.91,Default,,0,0,0,,Anh đang nghĩ đến việc rời ban nhạc.
+Dialogue: 0,1:58:52.03,1:58:53.49,Default,,0,0,0,,Tại sao?
+Dialogue: 0,1:58:53.95,1:58:56.83,Default,,0,0,0,,Dù có làm công việc gì, anh vẫn muốn chăm lo cho em.
+Dialogue: 0,1:58:58.29,1:59:01.71,Default,,0,0,0,,Anh muốn em đi cùng anh.
+Dialogue: 0,1:59:02.83,1:59:04.34,Default,,0,0,0,,Koyuki!
+Dialogue: 0,1:59:15.72,1:59:19.52,Default,,0,0,0,,- Gì cơ?\N- Em đã nói chuyện gì với Sagawa thế?
+Dialogue: 0,1:59:20.35,1:59:23.56,Default,,0,0,0,,- Không có gì. - Koyuki...
+Dialogue: 0,1:59:27.48,1:59:29.40,Default,,0,0,0,,cưới anh đi.
+Dialogue: 0,1:59:30.78,1:59:34.87,Default,,0,0,0,,Chúng ta đã bên nhau từ khi còn nhỏ,
+Dialogue: 0,1:59:36.08,1:59:40.04,Default,,0,0,0,,chuyện yêu đương của em với Sagawa chỉ là thoáng qua thôi. Anh biết hết rồi.
+Dialogue: 0,1:59:40.25,1:59:43.33,Default,,0,0,0,,- Sao anh không chịu nghe thế hả?!\N- Anh có nghe mà.
+Dialogue: 0,1:59:43.33,1:59:44.83,Default,,0,0,0,,Anh không hề!
+Dialogue: 0,1:59:45.42,1:59:51.13,Default,,0,0,0,,Em đã bảo Anh hãy quên chuyện trả thù đi...
+Dialogue: 0,1:59:51.26,1:59:54.26,Default,,0,0,0,,Anh không bao giờ rút lại quyết định.
+Dialogue: 0,1:59:54.64,1:59:58.10,Default,,0,0,0,,Anh sẽ dụ Yukari ra ngoài ngay\Nkhi chúng ta vào đến thị trấn.
+Dialogue: 0,2:00:01.27,2:00:03.52,Default,,0,0,0,,Em không muốn quay lại đó đâu.
+Dialogue: 0,2:00:03.73,2:00:09.11,Default,,0,0,0,,Mọi chuyện anh làm đều là vì em.
+Dialogue: 0,2:00:09.36,2:00:12.65,Default,,0,0,0,,- Không, không phải thế!\N- Anh nghiêm túc đấy! Cưới anh đi! - Không!
+Dialogue: 0,2:00:20.75,2:00:23.04,Default,,0,0,0,,Anh không hề yêu em, Toshio.
+Dialogue: 0,2:00:25.54,2:00:27.84,Default,,0,0,0,,Anh cần em yêu anh.
+Dialogue: 0,2:00:27.88,2:00:33.17,Default,,0,0,0,,Thả em ra!\NEm sẽ hét lên đấy!
+Dialogue: 0,2:00:34.38,2:00:38.47,Default,,0,0,0,,Chúng ta đang ở xa\Nthị trấn rồi. Bỏ cuộc đi.
+Dialogue: 0,2:00:39.64,2:00:43.27,Default,,0,0,0,,Tôi đi theo là vì anh bảo anh\Nmuốn tôi gặp em gái mình!
+Dialogue: 0,2:00:43.56,2:00:45.19,Default,,0,0,0,,Anh đã nói dối!
+Dialogue: 0,2:00:47.02,2:00:52.78,Default,,0,0,0,,Không phải vì tôi coi đứa con gái của\Nnhân tình của bố tôi là chị em gì đâu!
+Dialogue: 0,2:00:53.03,2:00:54.11,Default,,0,0,0,,Im miệng đi!
+Dialogue: 0,2:00:57.41,2:00:59.49,Default,,0,0,0,,Anh muốn gì ở tôi chứ?
+Dialogue: 0,2:01:01.74,2:01:03.96,Default,,0,0,0,,Mẹ tôi sẽ trả bất cứ giá nào anh yêu cầu!
+Dialogue: 0,2:01:04.21,2:01:07.96,Default,,0,0,0,,Làm ơn!
+Dialogue: 0,2:01:12.34,2:01:16.09,Default,,0,0,0,,Cứu với! Cứu với!
+Dialogue: 0,2:01:19.01,2:01:20.60,Default,,0,0,0,,Đó là em gái của cô.
+Dialogue: 0,2:01:21.14,2:01:25.85,Default,,0,0,0,,Ngay từ đầu cậu có biết là cậu trông\Ngần như giống hệt em gái mình không?
+Dialogue: 0,2:01:26.06,2:01:32.90,Default,,0,0,0,,Không. Tôi chắc là cô đã ngạc\Nnhiên trước sự giống nhau đó.
+Dialogue: 0,2:01:41.74,2:01:44.58,Default,,0,0,0,,- Là cô sao.\N- Cô làm tôi nổi da gà đấy.
+Dialogue: 0,2:01:44.87,2:01:50.08,Default,,0,0,0,,Thật bất ngờ đúng không? Khi tôi\Ngặp cô ấy lần đầu, tôi cứ nghĩ cô ấy là em.
+Dialogue: 0,2:01:55.84,2:01:59.26,Default,,0,0,0,,- Toshio, thả cô ấy ra đi.\N- Đã quá muộn cho việc đó rồi.
+Dialogue: 0,2:01:59.47,2:02:01.80,Default,,0,0,0,,Mẹ của chúng ta sẽ không\Nmuốn chuyện này đâu.
+Dialogue: 0,2:02:02.72,2:02:06.10,Default,,0,0,0,,Cứ như thể gia tộc Hogen đã sát\Nhại bà ấy bằng chính đôi tay của họ.
+Dialogue: 0,2:02:07.06,2:02:09.15,Default,,0,0,0,,Chúng ta đã lập lời thề trước\Nthi thể treo lơ lửng của mẹ!
+Dialogue: 0,2:02:09.23,2:02:13.48,Default,,0,0,0,,Tôi thì có liên quan gì đến người đàn bà\Nđã treo cổ tự tử trong Ngôi nhà đó chứ?
+Dialogue: 0,2:02:14.36,2:02:20.82,Default,,0,0,0,,Chị đã không muốn gặp em thế này.
+Dialogue: 0,2:02:20.95,2:02:23.87,Default,,0,0,0,,Koyuki! Lên gác đi.
+Dialogue: 0,2:02:23.91,2:02:27.83,Default,,0,0,0,,Phải, dù sao tôi cũng\Nchẳng muốn cô cứu tôi đâu.
+Dialogue: 0,2:02:28.08,2:02:31.83,Default,,0,0,0,,Đứa con gái của một gia đình đã\Nlàm ô uế thanh danh của cha tôi.
+Dialogue: 0,2:03:23.05,2:03:28.39,Default,,0,0,0,,Này, thợ chụp ảnh đến chưa?
+Dialogue: 0,2:03:28.47,2:03:30.14,Default,,0,0,0,,Em đã bảo anh ta đến.
+Dialogue: 0,2:03:31.19,2:03:33.44,Default,,0,0,0,,Vứt ống tiêm đi.
+Dialogue: 0,2:03:35.48,2:03:38.44,Default,,0,0,0,,- Có ai ở phía trước không?\N- Không.
+Dialogue: 0,2:03:41.20,2:03:43.57,Default,,0,0,0,,Đừng quên treo chuông gió đấy.
+Dialogue: 0,2:03:52.50,2:03:55.17,Default,,0,0,0,,Anh ta nói họ sẽ rửa xong\Nảnh trong vòng ba ngày nữa.
+Dialogue: 0,2:04:29.33,2:04:32.46,Default,,0,0,0,,Chúng ta sẽ đưa Yukari về nhà\Nkhi thuốc hết tác dụng, đúng không?
+Dialogue: 0,2:04:32.66,2:04:34.04,Default,,0,0,0,,Chắc chắn rồi.
+Dialogue: 0,2:04:34.25,2:04:36.92,Default,,0,0,0,,Chúng ta cần thay quần áo cho cô ấy.
+Dialogue: 0,2:04:37.63,2:04:41.01,Default,,0,0,0,,- Để em đi lấy.\N- Koyuki!
+Dialogue: 0,2:04:41.26,2:04:46.64,Default,,0,0,0,,- Em định kết hôn với Sagawa à?\N- Em...
+Dialogue: 0,2:04:47.80,2:04:52.64,Default,,0,0,0,,Em sẽ ở bên anh cho đến khi anh kết hôn.
+Dialogue: 0,2:05:12.04,2:05:14.12,Default,,0,0,0,,- Này!\N- Tránh xa ra!
+Dialogue: 0,2:05:15.92,2:05:19.96,Default,,0,0,0,,Tại sao tôi lại ăn mặc thế\Nnày?! Anh đã làm gì tôi thế?!
+Dialogue: 0,2:05:20.17,2:05:22.30,Default,,0,0,0,,- Tôi đã chụp ảnh cô rồi.\N- Ảnh của tôi sao?
+Dialogue: 0,2:05:22.51,2:05:24.38,Default,,0,0,0,,Tôi định gửi nó đến nhà cô.
+Dialogue: 0,2:05:24.59,2:05:27.14,Default,,0,0,0,,Anh định tống tiền tôi sao!
+Dialogue: 0,2:05:27.34,2:05:29.97,Default,,0,0,0,,Đây không phải tống tiền...
+Dialogue: 0,2:05:31.01,2:05:33.39,Default,,0,0,0,,- mà là trả thù.\N- Đồ khốn!
+Dialogue: 0,2:05:33.60,2:05:35.69,Default,,0,0,0,,Tôi sẽ gọi cảnh sát!
+Dialogue: 0,2:05:38.35,2:05:42.53,Default,,0,0,0,,- Cô không đi đâu được cả.\N- Tôi sẽ về nhà.
+Dialogue: 0,2:05:59.71,2:06:01.42,Default,,0,0,0,,Koyuki!
+Dialogue: 0,2:06:07.09,2:06:08.93,Default,,0,0,0,,Cô ấy chết rồi.
+Dialogue: 0,2:06:14.85,2:06:17.48,Default,,0,0,0,,Anh đã giết cô ấy.
+Dialogue: 0,2:06:21.98,2:06:25.99,Default,,0,0,0,,Yukari... Yukari!
+Dialogue: 0,2:07:00.44,2:07:03.06,Default,,0,0,0,,Toshio!
+Dialogue: 0,2:07:06.07,2:07:12.82,Default,,0,0,0,,Koyuki... làm giúp anh một việc...
+Dialogue: 0,2:07:13.03,2:07:14.87,Default,,0,0,0,,Đừng đi!
+Dialogue: 0,2:07:15.08,2:07:17.58,Default,,0,0,0,,Hãy chặt đầu anh đi.
+Dialogue: 0,2:07:17.79,2:07:23.67,Default,,0,0,0,,Và treo nó trong Căn Nhà Treo Cổ.
+Dialogue: 0,2:07:24.79,2:07:28.13,Default,,0,0,0,,Treo bài hát của bố lên đó.
+Dialogue: 0,2:07:28.97,2:07:33.55,Default,,0,0,0,,Gửi bức ảnh cho nhà Hogen.
+Dialogue: 0,2:07:33.76,2:07:37.77,Default,,0,0,0,,Anh có biết mình đang nói gì không?!
+Dialogue: 0,2:07:39.60,2:07:42.90,Default,,0,0,0,,Anh muốn họ biết Anh cảm thấy thế nào.
+Dialogue: 0,2:07:45.02,2:07:48.78,Default,,0,0,0,,Và người mẹ quá cố kính yêu\Ncủa chúng ta đã cảm thấy thế nào.
+Dialogue: 0,2:07:52.16,2:07:57.49,Default,,0,0,0,,Đó là điều cuối cùng anh có thể làm cho em.
+Dialogue: 0,2:08:00.04,2:08:02.62,Default,,0,0,0,,Toshio!
+Dialogue: 0,2:08:09.84,2:08:14.09,Default,,0,0,0,,Tại sao cô lại gọi điện cho nhà Hogen?
+Dialogue: 0,2:08:16.39,2:08:20.10,Default,,0,0,0,,Cô ấy không thể tự mình làm việc đó được.
+Dialogue: 0,2:08:22.14,2:08:26.44,Default,,0,0,0,,Có ai đó đã giúp cô ấy...
+Dialogue: 0,2:08:27.36,2:08:32.32,Default,,0,0,0,,Một người nào đó ngoài Yayoi.
+Dialogue: 0,2:08:35.41,2:08:42.58,Default,,0,0,0,,Koyuki đã gọi điện sau 10 giờ tối.
+Dialogue: 0,2:08:42.66,2:08:47.08,Default,,0,0,0,,Cái gì?! Còn Yukari thì sao?!
+Dialogue: 0,2:08:52.26,2:08:59.97,Default,,0,0,0,,Tôi chỉ biết chuyện cô ấy đã\Nchết ba ngày sau khi việc đó xảy ra.
+Dialogue: 0,2:09:02.98,2:09:09.02,Default,,0,0,0,,Tôi thậm chí còn không thể tiếp\Nnhận nổi những gì Koyuki đã nói.
+Dialogue: 0,2:09:09.23,2:09:14.32,Default,,0,0,0,,Cô là một Hogen, tại sao cô lại cùng\Nchung lòng thèm khát trả thù của Toshio?
+Dialogue: 0,2:09:14.49,2:09:20.99,Default,,0,0,0,,Bởi vì Koyuki và Yayoi...
+Dialogue: 0,2:09:21.20,2:09:23.79,Default,,0,0,0,,có rất nhiều điểm chung.
+Dialogue: 0,2:09:26.04,2:09:29.13,Default,,0,0,0,,Tôi thấy thương cho Koyuki.
+Dialogue: 0,2:09:31.25,2:09:37.26,Default,,0,0,0,,Tôi bảo cô ấy đi vào bằng\Ncửa sau, để không ai chú ý.
+Dialogue: 0,2:09:39.68,2:09:45.48,Default,,0,0,0,,{\i1}Đó là lần đầu tiên tôi gặp Koyuki.{\i0}
+Dialogue: 0,2:09:49.23,2:09:51.90,Default,,0,0,0,,Con không phải là Yukari sao?
+Dialogue: 0,2:09:53.61,2:09:58.36,Default,,0,0,0,,Con đang làm cái gì thế? Đừng giỡn nữa.
+Dialogue: 0,2:09:58.57,2:10:00.24,Default,,0,0,0,,Không...
+Dialogue: 0,2:10:00.58,2:10:05.08,Default,,0,0,0,,Tôi là Koyuki Yamauchi.
+Dialogue: 0,2:10:07.79,2:10:13.05,Default,,0,0,0,,Hãy giúp tôi; anh trai\Ntôi có một di nguyện.
+Dialogue: 0,2:10:13.25,2:10:16.13,Default,,0,0,0,,Tôi không quan tâm chuyện\Ngì sẽ xảy ra với mình nữa.
+Dialogue: 0,2:10:16.30,2:10:19.47,Default,,0,0,0,,Làm ơn!
+Dialogue: 0,2:10:21.22,2:10:23.26,Default,,0,0,0,,Làm ơn!
+Dialogue: 0,2:11:46.06,2:11:48.32,Default,,0,0,0,,Koyuki...
+Dialogue: 0,2:11:51.03,2:11:59.12,Default,,0,0,0,,Chắc hẳn con đã cảm thấy như thể mình đang bước đi trên vỏ trứng suốt nhiều năm qua.
+Dialogue: 0,2:12:02.79,2:12:10.55,Default,,0,0,0,,Và mấy ngày vừa qua thật\Ntồi tệ biết bao đối với con.
+Dialogue: 0,2:12:10.80,2:12:14.17,Default,,0,0,0,,Con không trách mẹ đâu, mẹ.
+Dialogue: 0,2:12:16.59,2:12:20.43,Default,,0,0,0,,Con là Yukari.
+Dialogue: 0,2:12:22.56,2:12:24.60,Default,,0,0,0,,Yukari.
+Dialogue: 0,2:12:27.44,2:12:29.82,Default,,0,0,0,,Cảm ơn con.
+Dialogue: 0,2:12:34.40,2:12:39.03,Default,,0,0,0,,Cô đã vứt xác của\NYukari và Toshio ở đâu?
+Dialogue: 0,2:12:39.28,2:12:43.70,Default,,0,0,0,,Yukari thích biển.
+Dialogue: 0,2:12:44.46,2:12:50.67,Default,,0,0,0,,Tôi đã chôn cất họ ở bờ\Nbiển tại thành phố Matsubara.
+Dialogue: 0,2:12:55.17,2:12:58.43,Default,,0,0,0,,Bà chủ đã qua đời.
+Dialogue: 0,2:13:00.39,2:13:03.06,Default,,0,0,0,,Còn ai liên quan nữa không?!
+Dialogue: 0,2:13:07.48,2:13:09.56,Default,,0,0,0,,Đi đâu thế?!
+Dialogue: 0,2:13:11.82,2:13:13.44,Default,,0,0,0,,Ở đây này!
+Dialogue: 0,2:13:34.21,2:13:40.59,Default,,0,0,0,,Koyuki... đây là mẹ của Yayoi.
+Dialogue: 0,2:13:40.80,2:13:44.06,Default,,0,0,0,,Bà ấy đã nằm liệt giường\Nmột thời gian dài rồi.
+Dialogue: 0,2:13:46.73,2:13:50.56,Default,,0,0,0,,Bà ấy ở đây một mình sao?
+Dialogue: 0,2:13:50.73,2:13:55.90,Default,,0,0,0,,Vâng... Ai cũng chỉ có một mình thôi.
+Dialogue: 0,2:13:56.11,2:13:59.03,Default,,0,0,0,,- Yayoi đâu rồi?\N- Cái gì?
+Dialogue: 0,2:13:59.74,2:14:02.12,Default,,0,0,0,,Đừng hòng qua mắt tôi!
+Dialogue: 0,2:14:08.50,2:14:10.33,Default,,0,0,0,,Cô ấy biến mất rồi!
+Dialogue: 0,2:14:11.46,2:14:15.25,Default,,0,0,0,,Chết tiệt! Tìm cô ấy mau!
+Dialogue: 0,2:14:19.63,2:14:21.89,Default,,0,0,0,,Mẹ ơi!
+Dialogue: 0,2:14:30.81,2:14:34.27,Default,,0,0,0,,- Tôi biết bà ấy...\N- Koyuki!
+Dialogue: 0,2:14:36.73,2:14:39.03,Default,,0,0,0,,Hãy để cảnh sát tìm bà ấy.
+Dialogue: 0,2:14:41.95,2:14:44.95,Default,,0,0,0,,Tôi chắc chắn là cô ấy\Nđã đi cùng chúng ta mà!
+Dialogue: 0,2:14:45.12,2:14:47.70,Default,,0,0,0,,Cậu còn mải gãi mông nên\Nmới không chú ý đấy thôi!
+Dialogue: 0,2:14:47.91,2:14:51.04,Default,,0,0,0,,Thưa ông, tấm kính ảnh là bằng\Nchứng vật chất vô cùng quan trọng.
+Dialogue: 0,2:14:52.88,2:14:55.79,Default,,0,0,0,,Tôi không biết gì về\Ntấm kính ảnh nào cả.
+Dialogue: 0,2:15:29.50,2:15:33.62,Default,,0,0,0,,Sannosuke...
+Dialogue: 0,2:15:33.79,2:15:37.46,Default,,0,0,0,,không có cậu thì tôi\Nbiết phải làm sao đây?
+Dialogue: 0,2:15:37.88,2:15:39.92,Default,,0,0,0,,Không có gì đâu, thưa phu nhân.
+Dialogue: 0,2:15:40.09,2:15:46.80,Default,,0,0,0,,Tòa nhà trống không, những\Ncuộc điện thoại cậu gọi cho tôi...
+Dialogue: 0,2:15:47.01,2:15:53.02,Default,,0,0,0,,Cậu đã chôn cất Yukari và Toshio giúp tôi.
+Dialogue: 0,2:15:53.19,2:15:56.86,Default,,0,0,0,,Gia tộc Hogen rồi sẽ ra sao?
+Dialogue: 0,2:15:57.40,2:16:01.28,Default,,0,0,0,,Koyuki có thể lo liệu được.
+Dialogue: 0,2:16:04.49,2:16:09.83,Default,,0,0,0,,Chúng ta sắp đến Bệnh viện Hogen rồi.
+Dialogue: 0,2:16:11.91,2:16:16.33,Default,,0,0,0,,Fuyuko đang đợi.
+Dialogue: 0,2:16:21.71,2:16:24.76,Default,,0,0,0,,Thưa phu nhân, chúng ta đến nơi rồi.
+Dialogue: 0,2:17:47.84,2:17:51.64,Default,,0,0,0,,Tôi bắt đầu tự hỏi liệu cậu Kindaichi có\Nthực sự định quay về từ Mỹ hay không nữa.
+Dialogue: 0,2:17:51.89,2:17:56.39,Default,,0,0,0,,Anh ấy đã gửi cho chúng ta một lá thư\Ntừ San Francisco khoảng ba tháng trước.
+Dialogue: 0,2:17:57.43,2:17:59.60,Default,,0,0,0,,Cậu ấy hơi bi quan.
+Dialogue: 0,2:17:59.77,2:18:03.27,Default,,0,0,0,,Tôi nghĩ đó chỉ là diễn thôi.
+Dialogue: 0,2:18:03.44,2:18:06.36,Default,,0,0,0,,Tôi nghĩ thực ra anh ấy là người lạc quan.
+Dialogue: 0,2:18:08.57,2:18:14.91,Default,,0,0,0,,Nhân tiện, cô có việc gì cho tôi\Nkhông? Tôi sẽ làm bất cứ việc gì.
+Dialogue: 0,2:18:15.12,2:18:16.79,Default,,0,0,0,,Tôi tưởng cậu có việc ở\Nstudio chụp ảnh rồi chứ.
+Dialogue: 0,2:18:17.00,2:18:19.83,Default,,0,0,0,,Nó đóng cửa ngay khi tôi nghỉ việc.
+Dialogue: 0,2:18:21.00,2:18:23.59,Default,,0,0,0,,Tôi tự hỏi chuyện gì sẽ\Nxảy ra với gia đình Hogen?
+Dialogue: 0,2:18:23.79,2:18:26.30,Default,,0,0,0,,Những điều cũ qua đi.
+Dialogue: 0,2:18:26.55,2:18:30.01,Default,,0,0,0,,Đó là lúc những điều mới ra đời.
+Dialogue: 0,2:18:34.81,2:18:37.81,Default,,0,0,0,,- Xin chào.\N- Rất vui được gặp cậu.
+Dialogue: 0,2:18:38.02,2:18:39.81,Default,,0,0,0,,Lại là trà English Breakfast à?
+Dialogue: 0,2:18:41.31,2:18:52.20,Default,,0,0,0,,
