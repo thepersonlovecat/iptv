@@ -1,0 +1,6 @@
+#EXTINF:-1 tvg-name="NBA TV" group-title="NBA",官方NBA 频道
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1acd2d7afd8cb34099cb832862e3c08d:b85491a27c2852323ac704a07cf7b779
+https://lpnba.akamaized.net/live/q/hls-wvpr/NBATVI/index.m3u8
