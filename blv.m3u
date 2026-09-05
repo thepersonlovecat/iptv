@@ -5,12 +5,6 @@ https://eqr2hdarxfliv.vcdn.cloud/1788580570_hd/1788580570_hd@720p.m3u8
 #EXTINF:-1 group-title="Giờ Vàng - Ngoại hạng Anh" tvg-name="[Giờ Vàng] Newcastle United vs AFC Bournemouth | BLV: Ben (Mobile)",[Giờ Vàng] Newcastle United vs AFC Bournemouth | BLV: Ben (Mobile)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://eqr2hdarxfliv.vcdn.cloud/1788580570_hd/1788580570_hd@720p.m3u8
-#EXTINF:-1 group-title="Giờ Vàng - FIBA Women Basketball World Cup" tvg-name="[Giờ Vàng] Nigeria (W) vs Hungary (W) | BLV: Tôm (PC HD)",[Giờ Vàng] Nigeria (W) vs Hungary (W) | BLV: Tôm (PC HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://eqr2hdarxfliv.vcdn.cloud/1788594688_hd/1788594688_hd@720p.m3u8
-#EXTINF:-1 group-title="Giờ Vàng - FIBA Women Basketball World Cup" tvg-name="[Giờ Vàng] Nigeria (W) vs Hungary (W) | BLV: Tôm (Mobile)",[Giờ Vàng] Nigeria (W) vs Hungary (W) | BLV: Tôm (Mobile)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://eqr2hdarxfliv.vcdn.cloud/1788594688_hd/1788594688_hd@720p.m3u8
 #EXTINF:-1 group-title="Giờ Vàng - V-League" tvg-name="[Giờ Vàng] Hải Phòng vs Ninh Bình FC | BLV: Mason (PC HD)",[Giờ Vàng] Hải Phòng vs Ninh Bình FC | BLV: Mason (PC HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://eqr2hdarxfliv.vcdn.cloud/1788594727_hd/1788594727_hd@720p.m3u8
@@ -37,364 +31,184 @@ https://eqr2hdarxfliv.vcdn.cloud/1788595644_hd/1788595644_hd@720p.m3u8
 https://eqr2hdarxfliv.vcdn.cloud/1788595644_hd/1788595644_hd@720p.m3u8
 #EXTINF:-1 group-title="SoCoLive - GER D2" tvg-name="[SoCoLive] Holstein Kiel vs 1. FC Nürnberg | BLV: XUÂN TÓC ĐỎ (HLS HD)",[SoCoLive] Holstein Kiel vs 1. FC Nürnberg | BLV: XUÂN TÓC ĐỎ (HLS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=38cbafcc7a2c0fc3c3348f7d008ad54c&txTime=6a9c5bea
-#EXTINF:-1 group-title="SoCoLive - GER D2" tvg-name="[SoCoLive] Holstein Kiel vs 1. FC Nürnberg | BLV: XUÂN TÓC ĐỎ (HLS SD)",[SoCoLive] Holstein Kiel vs 1. FC Nürnberg | BLV: XUÂN TÓC ĐỎ (HLS SD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-610518_lsd.m3u8?txSecret=a15a4a91eff83731e8f7b0dbbcc637c9&txTime=6a9c5bea
+https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=465512f89e2b0c7b48dd8a3445a97f6a&txTime=6a9c5e42
 #EXTINF:-1 group-title="SoCoLive - GER D2" tvg-name="[SoCoLive] Holstein Kiel vs 1. FC Nürnberg | BLV: XUÂN TÓC ĐỎ (FLV HD)",[SoCoLive] Holstein Kiel vs 1. FC Nürnberg | BLV: XUÂN TÓC ĐỎ (FLV HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-610518_lhd.flv?txSecret=38cbafcc7a2c0fc3c3348f7d008ad54c&txTime=6a9c5bea
-#EXTINF:-1 group-title="SoCoLive - GER D2" tvg-name="[SoCoLive] Holstein Kiel vs 1. FC Nürnberg | BLV: XUÂN TÓC ĐỎ (FLV SD)",[SoCoLive] Holstein Kiel vs 1. FC Nürnberg | BLV: XUÂN TÓC ĐỎ (FLV SD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-610518_lsd.flv?txSecret=a15a4a91eff83731e8f7b0dbbcc637c9&txTime=6a9c5bea
+https://pull.niur.live/live/stream-610518_lhd.flv?txSecret=465512f89e2b0c7b48dd8a3445a97f6a&txTime=6a9c5e42
 #EXTINF:-1 group-title="SoCoLive - GER D2" tvg-name="[SoCoLive] Holstein Kiel vs 1. FC Nürnberg | BLV: ĐỖ TÚ TÀI (HLS HD)",[SoCoLive] Holstein Kiel vs 1. FC Nürnberg | BLV: ĐỖ TÚ TÀI (HLS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1788614042-0-0-a10849528cb9d3e78744331d95bd463b
-#EXTINF:-1 group-title="SoCoLive - GER D2" tvg-name="[SoCoLive] Holstein Kiel vs 1. FC Nürnberg | BLV: ĐỖ TÚ TÀI (HLS SD)",[SoCoLive] Holstein Kiel vs 1. FC Nürnberg | BLV: ĐỖ TÚ TÀI (HLS SD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1788614042-0-0-1dd09ec4b4c47be0150ddead209af97b
+https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1788614642-0-0-b5096690e8a6c31fb6af8e331a255a11
 #EXTINF:-1 group-title="SoCoLive - GER D2" tvg-name="[SoCoLive] Holstein Kiel vs 1. FC Nürnberg | BLV: ĐỖ TÚ TÀI (FLV HD)",[SoCoLive] Holstein Kiel vs 1. FC Nürnberg | BLV: ĐỖ TÚ TÀI (FLV HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull06.scstream.net/live/stream-607552_lhd.flv?auth_key=1788614042-0-0-857db6d796b499ba68cdc665e062226a
-#EXTINF:-1 group-title="SoCoLive - GER D2" tvg-name="[SoCoLive] Holstein Kiel vs 1. FC Nürnberg | BLV: ĐỖ TÚ TÀI (FLV SD)",[SoCoLive] Holstein Kiel vs 1. FC Nürnberg | BLV: ĐỖ TÚ TÀI (FLV SD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull06.scstream.net/live/stream-607552_lsd.flv?auth_key=1788614042-0-0-0275bba61562df2f68ea23f8703389a1
+https://pull06.scstream.net/live/stream-607552_lhd.flv?auth_key=1788614642-0-0-81cd98f9b4d425c5a7e02bf08337b489
 #EXTINF:-1 group-title="SoCoLive - GER D2" tvg-name="[SoCoLive] 1. FC Kaiserslautern vs SV Darmstadt 98 | BLV: VINFAST (HLS HD)",[SoCoLive] 1. FC Kaiserslautern vs SV Darmstadt 98 | BLV: VINFAST (HLS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1788614042-0-0-e242b802736526e8ace25e86ebd97c83
-#EXTINF:-1 group-title="SoCoLive - GER D2" tvg-name="[SoCoLive] 1. FC Kaiserslautern vs SV Darmstadt 98 | BLV: VINFAST (HLS SD)",[SoCoLive] 1. FC Kaiserslautern vs SV Darmstadt 98 | BLV: VINFAST (HLS SD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-617313_lsd.m3u8?auth_key=1788614042-0-0-73207c1e3b56aeb61c9ead51014a6e58
+https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1788614642-0-0-4ecf55c5e3b2606f6cff55cdeaf1ee25
 #EXTINF:-1 group-title="SoCoLive - GER D2" tvg-name="[SoCoLive] 1. FC Kaiserslautern vs SV Darmstadt 98 | BLV: VINFAST (FLV HD)",[SoCoLive] 1. FC Kaiserslautern vs SV Darmstadt 98 | BLV: VINFAST (FLV HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull06.scstream.net/live/stream-617313_lhd.flv?auth_key=1788614042-0-0-33c97f8f7c0085b1195439ec2d9b9f36
-#EXTINF:-1 group-title="SoCoLive - GER D2" tvg-name="[SoCoLive] 1. FC Kaiserslautern vs SV Darmstadt 98 | BLV: VINFAST (FLV SD)",[SoCoLive] 1. FC Kaiserslautern vs SV Darmstadt 98 | BLV: VINFAST (FLV SD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull06.scstream.net/live/stream-617313_lsd.flv?auth_key=1788614042-0-0-504388e535cb2c288c692fe6013a9251
+https://pull06.scstream.net/live/stream-617313_lhd.flv?auth_key=1788614642-0-0-285bc7df38183729515be98626048ede
 #EXTINF:-1 group-title="SoCoLive - GER D2" tvg-name="[SoCoLive] 1. FC Kaiserslautern vs SV Darmstadt 98 | BLV: BLV ANH TÀI (HLS HD)",[SoCoLive] 1. FC Kaiserslautern vs SV Darmstadt 98 | BLV: BLV ANH TÀI (HLS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=f0257e42f87d264a92c7803b116a1e74&txTime=6a9c5be9
-#EXTINF:-1 group-title="SoCoLive - GER D2" tvg-name="[SoCoLive] 1. FC Kaiserslautern vs SV Darmstadt 98 | BLV: BLV ANH TÀI (HLS SD)",[SoCoLive] 1. FC Kaiserslautern vs SV Darmstadt 98 | BLV: BLV ANH TÀI (HLS SD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-406865_lsd.m3u8?txSecret=e47772e478639d066af393347192a3b7&txTime=6a9c5be9
+https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=dec29df5f59569ed5d404edeede6ea8f&txTime=6a9c5e41
 #EXTINF:-1 group-title="SoCoLive - GER D2" tvg-name="[SoCoLive] 1. FC Kaiserslautern vs SV Darmstadt 98 | BLV: BLV ANH TÀI (FLV HD)",[SoCoLive] 1. FC Kaiserslautern vs SV Darmstadt 98 | BLV: BLV ANH TÀI (FLV HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-406865_lhd.flv?txSecret=f0257e42f87d264a92c7803b116a1e74&txTime=6a9c5be9
-#EXTINF:-1 group-title="SoCoLive - GER D2" tvg-name="[SoCoLive] 1. FC Kaiserslautern vs SV Darmstadt 98 | BLV: BLV ANH TÀI (FLV SD)",[SoCoLive] 1. FC Kaiserslautern vs SV Darmstadt 98 | BLV: BLV ANH TÀI (FLV SD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-406865_lsd.flv?txSecret=e47772e478639d066af393347192a3b7&txTime=6a9c5be9
+https://pull.niur.live/live/stream-406865_lhd.flv?txSecret=dec29df5f59569ed5d404edeede6ea8f&txTime=6a9c5e41
 #EXTINF:-1 group-title="SoCoLive - GER D2" tvg-name="[SoCoLive] VfL Wolfsburg vs Energie Cottbus | BLV: RỒNG ĐẤT (HLS HD)",[SoCoLive] VfL Wolfsburg vs Energie Cottbus | BLV: RỒNG ĐẤT (HLS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912123_lhd.m3u8?auth_key=1788614042-0-0-9e0a1c7224638aa8ce665e9036da8cdd
-#EXTINF:-1 group-title="SoCoLive - GER D2" tvg-name="[SoCoLive] VfL Wolfsburg vs Energie Cottbus | BLV: RỒNG ĐẤT (HLS SD)",[SoCoLive] VfL Wolfsburg vs Energie Cottbus | BLV: RỒNG ĐẤT (HLS SD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912123_lsd.m3u8?auth_key=1788614042-0-0-c69c633156c1bbb55196530f7567dbf1
+https://pull.niues.live/live/stream-9912123_lhd.m3u8?auth_key=1788614642-0-0-e7028f9160caf4689da4d088eaab4b78
 #EXTINF:-1 group-title="SoCoLive - GER D2" tvg-name="[SoCoLive] VfL Wolfsburg vs Energie Cottbus | BLV: RỒNG ĐẤT (FLV HD)",[SoCoLive] VfL Wolfsburg vs Energie Cottbus | BLV: RỒNG ĐẤT (FLV HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull06.scstream.net/live/stream-9912123_lhd.flv?auth_key=1788614042-0-0-7e4372a3f71ccd44d8b87827ac60f82c
-#EXTINF:-1 group-title="SoCoLive - GER D2" tvg-name="[SoCoLive] VfL Wolfsburg vs Energie Cottbus | BLV: RỒNG ĐẤT (FLV SD)",[SoCoLive] VfL Wolfsburg vs Energie Cottbus | BLV: RỒNG ĐẤT (FLV SD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull06.scstream.net/live/stream-9912123_lsd.flv?auth_key=1788614042-0-0-e73df50f1295f91ee39cc043791fcb79
+https://pull06.scstream.net/live/stream-9912123_lhd.flv?auth_key=1788614642-0-0-56ff7e3b7afb574446092ad18ff653d4
 #EXTINF:-1 group-title="SoCoLive - GER D2" tvg-name="[SoCoLive] VfL Wolfsburg vs Energie Cottbus | BLV: BÚN ĐẬU (HLS HD)",[SoCoLive] VfL Wolfsburg vs Energie Cottbus | BLV: BÚN ĐẬU (HLS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1788614042-0-0-eac0f06de606d726ed91dbe02b985d46
-#EXTINF:-1 group-title="SoCoLive - GER D2" tvg-name="[SoCoLive] VfL Wolfsburg vs Energie Cottbus | BLV: BÚN ĐẬU (HLS SD)",[SoCoLive] VfL Wolfsburg vs Energie Cottbus | BLV: BÚN ĐẬU (HLS SD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-619561_lsd.m3u8?auth_key=1788614042-0-0-3afa42f64d954890f5610f6ab3c57f02
+https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1788614642-0-0-3ffa7f460b4aba9be2448e27f75a6b1a
 #EXTINF:-1 group-title="SoCoLive - GER D2" tvg-name="[SoCoLive] VfL Wolfsburg vs Energie Cottbus | BLV: BÚN ĐẬU (FLV HD)",[SoCoLive] VfL Wolfsburg vs Energie Cottbus | BLV: BÚN ĐẬU (FLV HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull06.scstream.net/live/stream-619561_lhd.flv?auth_key=1788614042-0-0-e4a2a71276afa66ad53120ff7d33f41b
-#EXTINF:-1 group-title="SoCoLive - GER D2" tvg-name="[SoCoLive] VfL Wolfsburg vs Energie Cottbus | BLV: BÚN ĐẬU (FLV SD)",[SoCoLive] VfL Wolfsburg vs Energie Cottbus | BLV: BÚN ĐẬU (FLV SD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull06.scstream.net/live/stream-619561_lsd.flv?auth_key=1788614042-0-0-60f75588b2cc116a052c32366da9d8bb
+https://pull06.scstream.net/live/stream-619561_lhd.flv?auth_key=1788614642-0-0-7c3ab2b2abf428d0e853a6577d085be9
 #EXTINF:-1 group-title="SoCoLive - VIE D1" tvg-name="[SoCoLive] XM Hai Phong FC vs Ninh Binh FC | BLV: NEKO (HLS HD)",[SoCoLive] XM Hai Phong FC vs Ninh Binh FC | BLV: NEKO (HLS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-625920_lhd.m3u8?auth_key=1788614042-0-0-c62dd14957d0214a6eafa2d33ca151fa
-#EXTINF:-1 group-title="SoCoLive - VIE D1" tvg-name="[SoCoLive] XM Hai Phong FC vs Ninh Binh FC | BLV: NEKO (HLS SD)",[SoCoLive] XM Hai Phong FC vs Ninh Binh FC | BLV: NEKO (HLS SD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-625920_lsd.m3u8?auth_key=1788614042-0-0-a2b5580012be35fb3fbff2f45dcb185f
+https://pull.niues.live/live/stream-625920_lhd.m3u8?auth_key=1788614642-0-0-ef6057f33139bd6cf058565853bd8cd2
 #EXTINF:-1 group-title="SoCoLive - VIE D1" tvg-name="[SoCoLive] XM Hai Phong FC vs Ninh Binh FC | BLV: NEKO (FLV HD)",[SoCoLive] XM Hai Phong FC vs Ninh Binh FC | BLV: NEKO (FLV HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull06.scstream.net/live/stream-625920_lhd.flv?auth_key=1788614042-0-0-4d15f72f19609a1ceb6bc4f19004f041
-#EXTINF:-1 group-title="SoCoLive - VIE D1" tvg-name="[SoCoLive] XM Hai Phong FC vs Ninh Binh FC | BLV: NEKO (FLV SD)",[SoCoLive] XM Hai Phong FC vs Ninh Binh FC | BLV: NEKO (FLV SD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull06.scstream.net/live/stream-625920_lsd.flv?auth_key=1788614042-0-0-53403e32976c33bc8541c4c8e736b84c
+https://pull06.scstream.net/live/stream-625920_lhd.flv?auth_key=1788614642-0-0-6b61db6bbb59bf69627ee1aeecff1b16
 #EXTINF:-1 group-title="SoCoLive - VIE D1" tvg-name="[SoCoLive] XM Hai Phong FC vs Ninh Binh FC | BLV: LOKA (HLS HD)",[SoCoLive] XM Hai Phong FC vs Ninh Binh FC | BLV: LOKA (HLS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1788614042-0-0-7f52c8221b0c8fabcaa84fa5a70bcda8
-#EXTINF:-1 group-title="SoCoLive - VIE D1" tvg-name="[SoCoLive] XM Hai Phong FC vs Ninh Binh FC | BLV: LOKA (HLS SD)",[SoCoLive] XM Hai Phong FC vs Ninh Binh FC | BLV: LOKA (HLS SD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912133_lsd.m3u8?auth_key=1788614042-0-0-c16d2010301ae5f44e44a19d2afd3dd8
+https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1788614642-0-0-dfbf3dff833c8df7224c1b6443845aaf
 #EXTINF:-1 group-title="SoCoLive - VIE D1" tvg-name="[SoCoLive] XM Hai Phong FC vs Ninh Binh FC | BLV: LOKA (FLV HD)",[SoCoLive] XM Hai Phong FC vs Ninh Binh FC | BLV: LOKA (FLV HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull06.scstream.net/live/stream-9912133_lhd.flv?auth_key=1788614042-0-0-052b425465250f98422f4e11068faade
-#EXTINF:-1 group-title="SoCoLive - VIE D1" tvg-name="[SoCoLive] XM Hai Phong FC vs Ninh Binh FC | BLV: LOKA (FLV SD)",[SoCoLive] XM Hai Phong FC vs Ninh Binh FC | BLV: LOKA (FLV SD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull06.scstream.net/live/stream-9912133_lsd.flv?auth_key=1788614042-0-0-b9977e10f0df87b0c8eadfce90a9daae
+https://pull06.scstream.net/live/stream-9912133_lhd.flv?auth_key=1788614642-0-0-1be7c3d0fcd017bdaf910a6359e99060
 #EXTINF:-1 group-title="SoCoLive - VIE D1" tvg-name="[SoCoLive] XM Hai Phong FC vs Ninh Binh FC | BLV: A PÁO (HLS HD)",[SoCoLive] XM Hai Phong FC vs Ninh Binh FC | BLV: A PÁO (HLS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1788614041-0-0-30ee8593f610bf0baf7d5e0649f3fd87
-#EXTINF:-1 group-title="SoCoLive - VIE D1" tvg-name="[SoCoLive] XM Hai Phong FC vs Ninh Binh FC | BLV: A PÁO (HLS SD)",[SoCoLive] XM Hai Phong FC vs Ninh Binh FC | BLV: A PÁO (HLS SD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1788614041-0-0-a3a408945e8cfd258057312047df39cf
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1788614641-0-0-c28fb562ab2e5693075a0c6f18765408
 #EXTINF:-1 group-title="SoCoLive - VIE D1" tvg-name="[SoCoLive] XM Hai Phong FC vs Ninh Binh FC | BLV: A PÁO (FLV HD)",[SoCoLive] XM Hai Phong FC vs Ninh Binh FC | BLV: A PÁO (FLV HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1788614041-0-0-bc183ac4b3d8b178e3189a5333a1879d
-#EXTINF:-1 group-title="SoCoLive - VIE D1" tvg-name="[SoCoLive] XM Hai Phong FC vs Ninh Binh FC | BLV: A PÁO (FLV SD)",[SoCoLive] XM Hai Phong FC vs Ninh Binh FC | BLV: A PÁO (FLV SD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1788614041-0-0-db702ac62dabe31d6fbf59a877d83cd8
+https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1788614641-0-0-0d9663d1309105f480c5cace07edda3e
 #EXTINF:-1 group-title="SoCoLive - VIE D1" tvg-name="[SoCoLive] XM Hai Phong FC vs Ninh Binh FC | BLV: BLV LUCAS (HLS HD)",[SoCoLive] XM Hai Phong FC vs Ninh Binh FC | BLV: BLV LUCAS (HLS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1788614041-0-0-6008e389ae85522f669f107f2f2aa8cc
-#EXTINF:-1 group-title="SoCoLive - VIE D1" tvg-name="[SoCoLive] XM Hai Phong FC vs Ninh Binh FC | BLV: BLV LUCAS (HLS SD)",[SoCoLive] XM Hai Phong FC vs Ninh Binh FC | BLV: BLV LUCAS (HLS SD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1788614041-0-0-ad36ed804c03b52e1938cfccf26944bc
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1788614641-0-0-a3a1c9df2e61d1d9f8a47280de66be70
 #EXTINF:-1 group-title="SoCoLive - VIE D1" tvg-name="[SoCoLive] XM Hai Phong FC vs Ninh Binh FC | BLV: BLV LUCAS (FLV HD)",[SoCoLive] XM Hai Phong FC vs Ninh Binh FC | BLV: BLV LUCAS (FLV HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1788614041-0-0-15e30cdd1363d327c934515b93a3e0f9
-#EXTINF:-1 group-title="SoCoLive - VIE D1" tvg-name="[SoCoLive] XM Hai Phong FC vs Ninh Binh FC | BLV: BLV LUCAS (FLV SD)",[SoCoLive] XM Hai Phong FC vs Ninh Binh FC | BLV: BLV LUCAS (FLV SD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull06.scstream.net/live/stream-304148_lsd.flv?auth_key=1788614041-0-0-a22b29169ace6ba6a913ad89bdf7664d
+https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1788614641-0-0-7aa035e3da1c5c2c5b2e7b95df75b1b1
 #EXTINF:-1 group-title="SoCoLive - VIE D1" tvg-name="[SoCoLive] Cong An Ho Chi Minh City vs Hanoi FC | BLV: SEVEN (HLS HD)",[SoCoLive] Cong An Ho Chi Minh City vs Hanoi FC | BLV: SEVEN (HLS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-9912126_lhd.m3u8?txSecret=7ce3f187dc9ea29734214379e969ff6e&txTime=6a9c5bea
-#EXTINF:-1 group-title="SoCoLive - VIE D1" tvg-name="[SoCoLive] Cong An Ho Chi Minh City vs Hanoi FC | BLV: SEVEN (HLS SD)",[SoCoLive] Cong An Ho Chi Minh City vs Hanoi FC | BLV: SEVEN (HLS SD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-9912126_lsd.m3u8?txSecret=f738244a8e8addec074393bbed5b7d76&txTime=6a9c5bea
+https://pull.niur.live/live/stream-9912126_lhd.m3u8?txSecret=0282cf24d63f94f343c394d1c2cc7e75&txTime=6a9c5e42
 #EXTINF:-1 group-title="SoCoLive - VIE D1" tvg-name="[SoCoLive] Cong An Ho Chi Minh City vs Hanoi FC | BLV: SEVEN (FLV HD)",[SoCoLive] Cong An Ho Chi Minh City vs Hanoi FC | BLV: SEVEN (FLV HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-9912126_lhd.flv?txSecret=7ce3f187dc9ea29734214379e969ff6e&txTime=6a9c5bea
-#EXTINF:-1 group-title="SoCoLive - VIE D1" tvg-name="[SoCoLive] Cong An Ho Chi Minh City vs Hanoi FC | BLV: SEVEN (FLV SD)",[SoCoLive] Cong An Ho Chi Minh City vs Hanoi FC | BLV: SEVEN (FLV SD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-9912126_lsd.flv?txSecret=f738244a8e8addec074393bbed5b7d76&txTime=6a9c5bea
+https://pull.niur.live/live/stream-9912126_lhd.flv?txSecret=0282cf24d63f94f343c394d1c2cc7e75&txTime=6a9c5e42
 #EXTINF:-1 group-title="SoCoLive - VIE D1" tvg-name="[SoCoLive] Cong An Ho Chi Minh City vs Hanoi FC | BLV: BLV CÒ (HLS HD)",[SoCoLive] Cong An Ho Chi Minh City vs Hanoi FC | BLV: BLV CÒ (HLS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1788614041-0-0-acea6afc667ec2d77f3068631d789c0b
-#EXTINF:-1 group-title="SoCoLive - VIE D1" tvg-name="[SoCoLive] Cong An Ho Chi Minh City vs Hanoi FC | BLV: BLV CÒ (HLS SD)",[SoCoLive] Cong An Ho Chi Minh City vs Hanoi FC | BLV: BLV CÒ (HLS SD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1788614041-0-0-324155ddfb67e0c401e2155fbacd816d
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1788614642-0-0-34c5688891d96241b73a2e90a9a9ad26
 #EXTINF:-1 group-title="SoCoLive - VIE D1" tvg-name="[SoCoLive] Cong An Ho Chi Minh City vs Hanoi FC | BLV: BLV CÒ (FLV HD)",[SoCoLive] Cong An Ho Chi Minh City vs Hanoi FC | BLV: BLV CÒ (FLV HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1788614041-0-0-96bbc59b205fe414a4fe5fadc2f8db0c
-#EXTINF:-1 group-title="SoCoLive - VIE D1" tvg-name="[SoCoLive] Cong An Ho Chi Minh City vs Hanoi FC | BLV: BLV CÒ (FLV SD)",[SoCoLive] Cong An Ho Chi Minh City vs Hanoi FC | BLV: BLV CÒ (FLV SD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1788614041-0-0-e11d31fcfcd89d832d87659e1be230d4
+https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1788614642-0-0-dd3c1f552c279b9404418797df502e4d
 #EXTINF:-1 group-title="SoCoLive - VIE D1" tvg-name="[SoCoLive] Cong An Ho Chi Minh City vs Hanoi FC | BLV: CHÍ PHÈO (HLS HD)",[SoCoLive] Cong An Ho Chi Minh City vs Hanoi FC | BLV: CHÍ PHÈO (HLS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912131_lhd.m3u8?auth_key=1788614041-0-0-40758c219633250bdacf6a1c520ac5cc
-#EXTINF:-1 group-title="SoCoLive - VIE D1" tvg-name="[SoCoLive] Cong An Ho Chi Minh City vs Hanoi FC | BLV: CHÍ PHÈO (HLS SD)",[SoCoLive] Cong An Ho Chi Minh City vs Hanoi FC | BLV: CHÍ PHÈO (HLS SD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912131_lsd.m3u8?auth_key=1788614041-0-0-60438d5206f4a5da331465808358d36b
+https://pull.niues.live/live/stream-9912131_lhd.m3u8?auth_key=1788614641-0-0-099c88d7ec33cd5576f3579a97f5e2d0
 #EXTINF:-1 group-title="SoCoLive - VIE D1" tvg-name="[SoCoLive] Cong An Ho Chi Minh City vs Hanoi FC | BLV: CHÍ PHÈO (FLV HD)",[SoCoLive] Cong An Ho Chi Minh City vs Hanoi FC | BLV: CHÍ PHÈO (FLV HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull06.scstream.net/live/stream-9912131_lhd.flv?auth_key=1788614041-0-0-267e53629276b75127a12698429e5502
-#EXTINF:-1 group-title="SoCoLive - VIE D1" tvg-name="[SoCoLive] Cong An Ho Chi Minh City vs Hanoi FC | BLV: CHÍ PHÈO (FLV SD)",[SoCoLive] Cong An Ho Chi Minh City vs Hanoi FC | BLV: CHÍ PHÈO (FLV SD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull06.scstream.net/live/stream-9912131_lsd.flv?auth_key=1788614041-0-0-725e4ee74a67513d8a3a8919a65b4059
+https://pull06.scstream.net/live/stream-9912131_lhd.flv?auth_key=1788614641-0-0-1af030c97c0813f5d2a4a9ef6f264b69
 #EXTINF:-1 group-title="SoCoLive - VIE D1" tvg-name="[SoCoLive] Cong An Ho Chi Minh City vs Hanoi FC | BLV: BLV XO (HLS HD)",[SoCoLive] Cong An Ho Chi Minh City vs Hanoi FC | BLV: BLV XO (HLS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=02cbb0ff31319975bc34d21d02396a28&txTime=6a9c5be9
-#EXTINF:-1 group-title="SoCoLive - VIE D1" tvg-name="[SoCoLive] Cong An Ho Chi Minh City vs Hanoi FC | BLV: BLV XO (HLS SD)",[SoCoLive] Cong An Ho Chi Minh City vs Hanoi FC | BLV: BLV XO (HLS SD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-9912132_lsd.m3u8?txSecret=bcb2b477113374cfce8cb201ec0d083b&txTime=6a9c5be9
+https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=f819daf7d57f078b90b1d5e62fb6a5b2&txTime=6a9c5e42
 #EXTINF:-1 group-title="SoCoLive - VIE D1" tvg-name="[SoCoLive] Cong An Ho Chi Minh City vs Hanoi FC | BLV: BLV XO (FLV HD)",[SoCoLive] Cong An Ho Chi Minh City vs Hanoi FC | BLV: BLV XO (FLV HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-9912132_lhd.flv?txSecret=02cbb0ff31319975bc34d21d02396a28&txTime=6a9c5be9
-#EXTINF:-1 group-title="SoCoLive - VIE D1" tvg-name="[SoCoLive] Cong An Ho Chi Minh City vs Hanoi FC | BLV: BLV XO (FLV SD)",[SoCoLive] Cong An Ho Chi Minh City vs Hanoi FC | BLV: BLV XO (FLV SD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-9912132_lsd.flv?txSecret=bcb2b477113374cfce8cb201ec0d083b&txTime=6a9c5be9
+https://pull.niur.live/live/stream-9912132_lhd.flv?txSecret=f819daf7d57f078b90b1d5e62fb6a5b2&txTime=6a9c5e42
 #EXTINF:-1 group-title="SoCoLive - ENG PR" tvg-name="[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: BLV CUỘI (HLS HD)",[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: BLV CUỘI (HLS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1788614041-0-0-6fdc57e73fa1596cc7629278f758eb86
-#EXTINF:-1 group-title="SoCoLive - ENG PR" tvg-name="[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: BLV CUỘI (HLS SD)",[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: BLV CUỘI (HLS SD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912146_lsd.m3u8?auth_key=1788614041-0-0-0c56d1b53b834e784c86e77efeb85cc3
+https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1788614641-0-0-5eb72fe9701d145e5dbce108b6e0e422
 #EXTINF:-1 group-title="SoCoLive - ENG PR" tvg-name="[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: BLV CUỘI (FLV HD)",[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: BLV CUỘI (FLV HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull06.scstream.net/live/stream-9912146_lhd.flv?auth_key=1788614041-0-0-c5a444f64483c4df60ea2bff90a88050
-#EXTINF:-1 group-title="SoCoLive - ENG PR" tvg-name="[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: BLV CUỘI (FLV SD)",[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: BLV CUỘI (FLV SD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull06.scstream.net/live/stream-9912146_lsd.flv?auth_key=1788614041-0-0-656119125c426f45ea1b091c24cd52eb
+https://pull06.scstream.net/live/stream-9912146_lhd.flv?auth_key=1788614641-0-0-16c172bd7fb8c654a534838b16f79386
 #EXTINF:-1 group-title="SoCoLive - ENG PR" tvg-name="[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: BLV TAP (HLS HD)",[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: BLV TAP (HLS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=fe3900960ba24e69dd2f45e4a8059141&txTime=6a9c5be9
-#EXTINF:-1 group-title="SoCoLive - ENG PR" tvg-name="[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: BLV TAP (HLS SD)",[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: BLV TAP (HLS SD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=cb7848d6dd7406c8dccc5b9d37d0bd04&txTime=6a9c5be9
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=b39a3f5caa0db6b026eaf98a55613180&txTime=6a9c5e41
 #EXTINF:-1 group-title="SoCoLive - ENG PR" tvg-name="[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: BLV TAP (FLV HD)",[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: BLV TAP (FLV HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-9912041_lhd.flv?txSecret=fe3900960ba24e69dd2f45e4a8059141&txTime=6a9c5be9
-#EXTINF:-1 group-title="SoCoLive - ENG PR" tvg-name="[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: BLV TAP (FLV SD)",[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: BLV TAP (FLV SD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-9912041_lsd.flv?txSecret=cb7848d6dd7406c8dccc5b9d37d0bd04&txTime=6a9c5be9
+https://pull.niur.live/live/stream-9912041_lhd.flv?txSecret=b39a3f5caa0db6b026eaf98a55613180&txTime=6a9c5e41
 #EXTINF:-1 group-title="SoCoLive - ENG PR" tvg-name="[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: ZIDANE (HLS HD)",[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: ZIDANE (HLS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1788614041-0-0-e153a2d2eef190dd419ccfc4141aade1
-#EXTINF:-1 group-title="SoCoLive - ENG PR" tvg-name="[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: ZIDANE (HLS SD)",[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: ZIDANE (HLS SD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912145_lsd.m3u8?auth_key=1788614041-0-0-10f94702c6980b01b9f17a618c41cc74
+https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1788614641-0-0-e16d649d242ede74c605b3043bbc57bf
 #EXTINF:-1 group-title="SoCoLive - ENG PR" tvg-name="[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: ZIDANE (FLV HD)",[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: ZIDANE (FLV HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull06.scstream.net/live/stream-9912145_lhd.flv?auth_key=1788614041-0-0-43aa1106425f50aaf75801f99d176196
-#EXTINF:-1 group-title="SoCoLive - ENG PR" tvg-name="[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: ZIDANE (FLV SD)",[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: ZIDANE (FLV SD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull06.scstream.net/live/stream-9912145_lsd.flv?auth_key=1788614041-0-0-d012281f1373f191daa3bc09d4c1f4e4
+https://pull06.scstream.net/live/stream-9912145_lhd.flv?auth_key=1788614641-0-0-12753335e59330cf0ac67d2f530ee809
 #EXTINF:-1 group-title="SoCoLive - ENG PR" tvg-name="[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: BLV ZOWIE (HLS HD)",[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: BLV ZOWIE (HLS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1788614041-0-0-6447aaf05feabe1a17cc331640cbf43a
-#EXTINF:-1 group-title="SoCoLive - ENG PR" tvg-name="[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: BLV ZOWIE (HLS SD)",[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: BLV ZOWIE (HLS SD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1788614041-0-0-7497aa776ab55b9143a7b13734be9907
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1788614641-0-0-87ce9f4172219ddafa4dc268147de41d
 #EXTINF:-1 group-title="SoCoLive - ENG PR" tvg-name="[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: BLV ZOWIE (FLV HD)",[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: BLV ZOWIE (FLV HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1788614041-0-0-7e3fa557d9ec0370a7a6bd6128a710ce
-#EXTINF:-1 group-title="SoCoLive - ENG PR" tvg-name="[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: BLV ZOWIE (FLV SD)",[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: BLV ZOWIE (FLV SD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1788614041-0-0-81df1c315928bd05a327bdde0377d672
+https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1788614641-0-0-b934e7af5e2ca436145cc7b76f1efc08
 #EXTINF:-1 group-title="SoCoLive - ENG PR" tvg-name="[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: BLV TOMIA (HLS HD)",[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: BLV TOMIA (HLS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1788613429-0-0-fe4e97cd4e99623dfaba3d6c3c6fd5ca
-#EXTINF:-1 group-title="SoCoLive - ENG PR" tvg-name="[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: BLV TOMIA (HLS SD)",[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: BLV TOMIA (HLS SD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1788613429-0-0-215ab3dd9d4cbfdec13c414e47e667b1
 #EXTINF:-1 group-title="SoCoLive - ENG PR" tvg-name="[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: BLV TOMIA (FLV HD)",[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: BLV TOMIA (FLV HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1788613429-0-0-0bf36489a7eb779a03084c2e111e05ce
-#EXTINF:-1 group-title="SoCoLive - ENG PR" tvg-name="[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: BLV TOMIA (FLV SD)",[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: BLV TOMIA (FLV SD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1788613429-0-0-9568f66ffc3240b522e332411b7009fd
 #EXTINF:-1 group-title="SoCoLive - ENG PR" tvg-name="[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: TẠ BIÊN GIỚI (HLS HD)",[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: TẠ BIÊN GIỚI (HLS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1788614041-0-0-9e7b0534cf5d70b6edd0da75861a6c5d
-#EXTINF:-1 group-title="SoCoLive - ENG PR" tvg-name="[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: TẠ BIÊN GIỚI (HLS SD)",[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: TẠ BIÊN GIỚI (HLS SD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912144_lsd.m3u8?auth_key=1788614041-0-0-7d1c9ffc20bffc0bcb77a4470fb3a5e7
+https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1788614641-0-0-a32ea39f9f37b29722697f662b204193
 #EXTINF:-1 group-title="SoCoLive - ENG PR" tvg-name="[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: TẠ BIÊN GIỚI (FLV HD)",[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: TẠ BIÊN GIỚI (FLV HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull06.scstream.net/live/stream-9912144_lhd.flv?auth_key=1788614041-0-0-da1b02fcea032457ecd02ad01da8501b
-#EXTINF:-1 group-title="SoCoLive - ENG PR" tvg-name="[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: TẠ BIÊN GIỚI (FLV SD)",[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: TẠ BIÊN GIỚI (FLV SD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull06.scstream.net/live/stream-9912144_lsd.flv?auth_key=1788614041-0-0-d178e7969ab9a728bf621f624bb8f691
+https://pull06.scstream.net/live/stream-9912144_lhd.flv?auth_key=1788614641-0-0-d9a8bda1c5b9dc5b1e9f7d596c9f7291
 #EXTINF:-1 group-title="SoCoLive - ENG PR" tvg-name="[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: THOMAS (HLS HD)",[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: THOMAS (HLS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=39bdda64a6f05b04c2dbd5e7e45f055d&txTime=6a9c5be9
-#EXTINF:-1 group-title="SoCoLive - ENG PR" tvg-name="[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: THOMAS (HLS SD)",[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: THOMAS (HLS SD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=723dceb4343a7725223c1c466bc1d23e&txTime=6a9c5be9
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=38a607ce078186b564a4a391a42c5499&txTime=6a9c5e41
 #EXTINF:-1 group-title="SoCoLive - ENG PR" tvg-name="[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: THOMAS (FLV HD)",[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: THOMAS (FLV HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=39bdda64a6f05b04c2dbd5e7e45f055d&txTime=6a9c5be9
-#EXTINF:-1 group-title="SoCoLive - ENG PR" tvg-name="[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: THOMAS (FLV SD)",[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: THOMAS (FLV SD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-414317_lsd.flv?txSecret=723dceb4343a7725223c1c466bc1d23e&txTime=6a9c5be9
+https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=38a607ce078186b564a4a391a42c5499&txTime=6a9c5e41
 #EXTINF:-1 group-title="SoCoLive - ENG PR" tvg-name="[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: CR Bưởi (HLS HD)",[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: CR Bưởi (HLS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=5c562860c79e440c5cbe51b98ca52e33&txTime=6a9c5be9
-#EXTINF:-1 group-title="SoCoLive - ENG PR" tvg-name="[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: CR Bưởi (HLS SD)",[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: CR Bưởi (HLS SD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=82689d8e03933a151ad1977caa67474a&txTime=6a9c5be9
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=4d0582ed74e67dc40a6aa610586c77c0&txTime=6a9c5e41
 #EXTINF:-1 group-title="SoCoLive - ENG PR" tvg-name="[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: CR Bưởi (FLV HD)",[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: CR Bưởi (FLV HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-387694_lhd.flv?txSecret=5c562860c79e440c5cbe51b98ca52e33&txTime=6a9c5be9
-#EXTINF:-1 group-title="SoCoLive - ENG PR" tvg-name="[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: CR Bưởi (FLV SD)",[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: CR Bưởi (FLV SD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-387694_lsd.flv?txSecret=82689d8e03933a151ad1977caa67474a&txTime=6a9c5be9
+https://pull.niur.live/live/stream-387694_lhd.flv?txSecret=4d0582ed74e67dc40a6aa610586c77c0&txTime=6a9c5e41
 #EXTINF:-1 group-title="SoCoLive - ENG PR" tvg-name="[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: LÃO LÂM (HLS HD)",[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: LÃO LÂM (HLS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1788614041-0-0-78895454a167d634f4e5b069edf32098
-#EXTINF:-1 group-title="SoCoLive - ENG PR" tvg-name="[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: LÃO LÂM (HLS SD)",[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: LÃO LÂM (HLS SD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1788614041-0-0-1e17b484d2d0269ac09f9aee2edee3cc
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1788614642-0-0-c69c7c3a2c8926f964456c7a0a3f5ce6
 #EXTINF:-1 group-title="SoCoLive - ENG PR" tvg-name="[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: LÃO LÂM (FLV HD)",[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: LÃO LÂM (FLV HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1788614041-0-0-8065f2bcab866ca3479e3273b2716d93
-#EXTINF:-1 group-title="SoCoLive - ENG PR" tvg-name="[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: LÃO LÂM (FLV SD)",[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: LÃO LÂM (FLV SD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1788614041-0-0-6cdb4f0efa5bbb0dd0ce56a449c17358
+https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1788614642-0-0-2412b3d41788a42a459d285a0f5b165f
 #EXTINF:-1 group-title="SoCoLive - ENG PR" tvg-name="[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: BLV ALEX (HLS HD)",[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: BLV ALEX (HLS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1788614041-0-0-819f1cc028611ea11bdaf26605f5b0ac
-#EXTINF:-1 group-title="SoCoLive - ENG PR" tvg-name="[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: BLV ALEX (HLS SD)",[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: BLV ALEX (HLS SD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1788614041-0-0-04b8b94fc69096baac75986b7f3600fe
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1788614642-0-0-433f2e81bebed4eb13def0105fb2a4f8
 #EXTINF:-1 group-title="SoCoLive - ENG PR" tvg-name="[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: BLV ALEX (FLV HD)",[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: BLV ALEX (FLV HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1788614041-0-0-f658b5090aa2e9eeb91fc8ce2c124396
-#EXTINF:-1 group-title="SoCoLive - ENG PR" tvg-name="[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: BLV ALEX (FLV SD)",[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: BLV ALEX (FLV SD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1788614041-0-0-0cfc5546fa731bad20a1e2feebabf297
+https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1788614642-0-0-b424a30aa361a6eef06ed8306668b33c
 #EXTINF:-1 group-title="SoCoLive - ENG PR" tvg-name="[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: BLV Củ Cải (HLS HD)",[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: BLV Củ Cải (HLS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1788614041-0-0-6699ee4f2f7bc02059a368e595752149
-#EXTINF:-1 group-title="SoCoLive - ENG PR" tvg-name="[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: BLV Củ Cải (HLS SD)",[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: BLV Củ Cải (HLS SD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1788614041-0-0-f75634cbab3665e63de07dfc8113bc26
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1788614641-0-0-b1389e32d02efb2b443187edf446d3c4
 #EXTINF:-1 group-title="SoCoLive - ENG PR" tvg-name="[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: BLV Củ Cải (FLV HD)",[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: BLV Củ Cải (FLV HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1788614041-0-0-7395219ee51065bad2a584b37edfcedf
-#EXTINF:-1 group-title="SoCoLive - ENG PR" tvg-name="[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: BLV Củ Cải (FLV SD)",[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: BLV Củ Cải (FLV SD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1788614041-0-0-dc20229bc3c672ec668e0d2b3c4e584b
+https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1788614641-0-0-84f6b94abf53018f02cb378425f5de5b
 #EXTINF:-1 group-title="SoCoLive - ENG PR" tvg-name="[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: BLV HEHE (HLS HD)",[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: BLV HEHE (HLS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1788614042-0-0-7ed4ecd7ccaf70f67b1bd8a019b1b43f
-#EXTINF:-1 group-title="SoCoLive - ENG PR" tvg-name="[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: BLV HEHE (HLS SD)",[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: BLV HEHE (HLS SD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-622241_lsd.m3u8?auth_key=1788614042-0-0-84e5875ed5a7b0a129265d949b25bcd9
+https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1788614642-0-0-4e563e58d45a9c8770858df555b08fb7
 #EXTINF:-1 group-title="SoCoLive - ENG PR" tvg-name="[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: BLV HEHE (FLV HD)",[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: BLV HEHE (FLV HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull06.scstream.net/live/stream-622241_lhd.flv?auth_key=1788614042-0-0-50542cfd22a81b0dadd44826a89901a0
-#EXTINF:-1 group-title="SoCoLive - ENG PR" tvg-name="[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: BLV HEHE (FLV SD)",[SoCoLive] Newcastle United vs Bournemouth AFC | BLV: BLV HEHE (FLV SD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull06.scstream.net/live/stream-622241_lsd.flv?auth_key=1788614042-0-0-a1d8512fc581c576e74087ec8b65d706
+https://pull06.scstream.net/live/stream-622241_lhd.flv?auth_key=1788614642-0-0-cc5dac52dc0c6ef5f75f1c93dbee6ad7
 #EXTINF:-1 group-title="SoCoLive - CHA SL" tvg-name="[SoCoLive] Shanghai Port vs Beijing Guoan | BLV: BLV YONE (HLS HD)",[SoCoLive] Shanghai Port vs Beijing Guoan | BLV: BLV YONE (HLS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1788614041-0-0-cea40225d85c067aeac3be4659b54241
-#EXTINF:-1 group-title="SoCoLive - CHA SL" tvg-name="[SoCoLive] Shanghai Port vs Beijing Guoan | BLV: BLV YONE (HLS SD)",[SoCoLive] Shanghai Port vs Beijing Guoan | BLV: BLV YONE (HLS SD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1788614041-0-0-5796c3c4fcb8371ef2dc74a4177f3a27
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1788614641-0-0-a1fb0ed7cfd725eca652802b345cfc2e
 #EXTINF:-1 group-title="SoCoLive - CHA SL" tvg-name="[SoCoLive] Shanghai Port vs Beijing Guoan | BLV: BLV YONE (FLV HD)",[SoCoLive] Shanghai Port vs Beijing Guoan | BLV: BLV YONE (FLV HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull06.scstream.net/live/stream-372746_lhd.flv?auth_key=1788614041-0-0-d17972542a2fbce0684506751c8872c1
-#EXTINF:-1 group-title="SoCoLive - CHA SL" tvg-name="[SoCoLive] Shanghai Port vs Beijing Guoan | BLV: BLV YONE (FLV SD)",[SoCoLive] Shanghai Port vs Beijing Guoan | BLV: BLV YONE (FLV SD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull06.scstream.net/live/stream-372746_lsd.flv?auth_key=1788614041-0-0-03ad454888929d18c2658bc5e64f682e
+https://pull06.scstream.net/live/stream-372746_lhd.flv?auth_key=1788614641-0-0-9baf3ff0dbfb10d7a23e7a1b3747226d
 #EXTINF:-1 group-title="SoCoLive - CHA SL" tvg-name="[SoCoLive] Shanghai Port vs Beijing Guoan | BLV: BLV VIP (HLS HD)",[SoCoLive] Shanghai Port vs Beijing Guoan | BLV: BLV VIP (HLS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=e99033f574ba2ab15dc9b69ee0943a8b&txTime=6a9c5be9
-#EXTINF:-1 group-title="SoCoLive - CHA SL" tvg-name="[SoCoLive] Shanghai Port vs Beijing Guoan | BLV: BLV VIP (HLS SD)",[SoCoLive] Shanghai Port vs Beijing Guoan | BLV: BLV VIP (HLS SD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=d675ff05189e743995e9383b1331c208&txTime=6a9c5be9
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=ced23e672d39eab14f0e520d7e8c028c&txTime=6a9c5e42
 #EXTINF:-1 group-title="SoCoLive - CHA SL" tvg-name="[SoCoLive] Shanghai Port vs Beijing Guoan | BLV: BLV VIP (FLV HD)",[SoCoLive] Shanghai Port vs Beijing Guoan | BLV: BLV VIP (FLV HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-491873_lhd.flv?txSecret=e99033f574ba2ab15dc9b69ee0943a8b&txTime=6a9c5be9
-#EXTINF:-1 group-title="SoCoLive - CHA SL" tvg-name="[SoCoLive] Shanghai Port vs Beijing Guoan | BLV: BLV VIP (FLV SD)",[SoCoLive] Shanghai Port vs Beijing Guoan | BLV: BLV VIP (FLV SD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-491873_lsd.flv?txSecret=d675ff05189e743995e9383b1331c208&txTime=6a9c5be9
+https://pull.niur.live/live/stream-491873_lhd.flv?txSecret=ced23e672d39eab14f0e520d7e8c028c&txTime=6a9c5e42
 #EXTINF:-1 group-title="SoCoLive - CHA SL" tvg-name="[SoCoLive] Shanghai Port vs Beijing Guoan | BLV: CƠM NẾP (HLS HD)",[SoCoLive] Shanghai Port vs Beijing Guoan | BLV: CƠM NẾP (HLS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1788614042-0-0-4c39ceb747c22280d4d6fb8c2686f87e
-#EXTINF:-1 group-title="SoCoLive - CHA SL" tvg-name="[SoCoLive] Shanghai Port vs Beijing Guoan | BLV: CƠM NẾP (HLS SD)",[SoCoLive] Shanghai Port vs Beijing Guoan | BLV: CƠM NẾP (HLS SD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-618950_lsd.m3u8?auth_key=1788614042-0-0-660234c843ba67a9b15edfe4b03c2de5
+https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1788614642-0-0-5ddca5d9b3a83a6737814a6b1ccb8840
 #EXTINF:-1 group-title="SoCoLive - CHA SL" tvg-name="[SoCoLive] Shanghai Port vs Beijing Guoan | BLV: CƠM NẾP (FLV HD)",[SoCoLive] Shanghai Port vs Beijing Guoan | BLV: CƠM NẾP (FLV HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull06.scstream.net/live/stream-618950_lhd.flv?auth_key=1788614042-0-0-43f806dd59773f98181868ef8048a041
-#EXTINF:-1 group-title="SoCoLive - CHA SL" tvg-name="[SoCoLive] Shanghai Port vs Beijing Guoan | BLV: CƠM NẾP (FLV SD)",[SoCoLive] Shanghai Port vs Beijing Guoan | BLV: CƠM NẾP (FLV SD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull06.scstream.net/live/stream-618950_lsd.flv?auth_key=1788614042-0-0-3b07115a557910f6bf44966866d13c09
+https://pull06.scstream.net/live/stream-618950_lhd.flv?auth_key=1788614642-0-0-fa4deecacb523fa8521f658268b847e6
 #EXTINF:-1 group-title="SoCoLive - CHA SL" tvg-name="[SoCoLive] Shanghai Port vs Beijing Guoan | BLV: GRAP (HLS HD)",[SoCoLive] Shanghai Port vs Beijing Guoan | BLV: GRAP (HLS HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-622093_lhd.m3u8?txSecret=a276f3be9b36b576139711246605977e&txTime=6a9c5bea
-#EXTINF:-1 group-title="SoCoLive - CHA SL" tvg-name="[SoCoLive] Shanghai Port vs Beijing Guoan | BLV: GRAP (HLS SD)",[SoCoLive] Shanghai Port vs Beijing Guoan | BLV: GRAP (HLS SD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-622093_lsd.m3u8?txSecret=0b69c58d255b1b3a457ed7dc7d65574d&txTime=6a9c5bea
+https://pull.niur.live/live/stream-622093_lhd.m3u8?txSecret=df2c710aff38ac7b45f7e10d0b61b5b4&txTime=6a9c5e42
 #EXTINF:-1 group-title="SoCoLive - CHA SL" tvg-name="[SoCoLive] Shanghai Port vs Beijing Guoan | BLV: GRAP (FLV HD)",[SoCoLive] Shanghai Port vs Beijing Guoan | BLV: GRAP (FLV HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-622093_lhd.flv?txSecret=a276f3be9b36b576139711246605977e&txTime=6a9c5bea
-#EXTINF:-1 group-title="SoCoLive - CHA SL" tvg-name="[SoCoLive] Shanghai Port vs Beijing Guoan | BLV: GRAP (FLV SD)",[SoCoLive] Shanghai Port vs Beijing Guoan | BLV: GRAP (FLV SD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-622093_lsd.flv?txSecret=0b69c58d255b1b3a457ed7dc7d65574d&txTime=6a9c5bea
+https://pull.niur.live/live/stream-622093_lhd.flv?txSecret=df2c710aff38ac7b45f7e10d0b61b5b4&txTime=6a9c5e42
 #EXTINF:-1 group-title="Cola - Giải bóng đá Ngoại hạng Anh" tvg-name="[Cola] Newcastle United vs Bournemouth | BLV: BLV C2 (Main)",[Cola] Newcastle United vs Bournemouth | BLV: BLV C2 (Main)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://live05.meung.app/live/08552895.flv
@@ -455,743 +269,47 @@ https://live05.meung.app/live/99121525.flv
 #EXTINF:-1 group-title="Cola - Giải bóng đá ngoại hạng Trung Quốc" tvg-name="[Cola] Shandong Taishan vs Shenzhen Peng City | BLV: BLV BÍ ĐAO (Backup)",[Cola] Shandong Taishan vs Shenzhen Peng City | BLV: BLV BÍ ĐAO (Backup)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://live05.meung.app/live/99121525.m3u8
-#EXTINF:-1 group-title="Cola - Giải bóng đá Serie A Italia" tvg-name="[Cola] ACF Fiorentina vs Torino F.C. | BLV: BLV HỔ VẰN (Main)",[Cola] ACF Fiorentina vs Torino F.C. | BLV: BLV HỔ VẰN (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/07428422.flv
-#EXTINF:-1 group-title="Cola - Giải bóng đá Serie A Italia" tvg-name="[Cola] ACF Fiorentina vs Torino F.C. | BLV: BLV HỔ VẰN (Backup)",[Cola] ACF Fiorentina vs Torino F.C. | BLV: BLV HỔ VẰN (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/07428422.m3u8
-#EXTINF:-1 group-title="Cola - Giải bóng đá vô địch quốc gia Đức" tvg-name="[Cola] Bayer 04 Leverkusen vs 1. FC Union Berlin | BLV: BLV PEPSI (Main)",[Cola] Bayer 04 Leverkusen vs 1. FC Union Berlin | BLV: BLV PEPSI (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/59444581.flv
-#EXTINF:-1 group-title="Cola - Giải bóng đá vô địch quốc gia Đức" tvg-name="[Cola] Bayer 04 Leverkusen vs 1. FC Union Berlin | BLV: BLV PEPSI (Backup)",[Cola] Bayer 04 Leverkusen vs 1. FC Union Berlin | BLV: BLV PEPSI (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/59444581.m3u8
-#EXTINF:-1 group-title="Cola - Giải bóng đá vô địch quốc gia Đức" tvg-name="[Cola] Paderborn vs SC Freiburg | BLV: BLV POCARI (Main)",[Cola] Paderborn vs SC Freiburg | BLV: BLV POCARI (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/19919577.flv
-#EXTINF:-1 group-title="Cola - Giải bóng đá vô địch quốc gia Đức" tvg-name="[Cola] Paderborn vs SC Freiburg | BLV: BLV POCARI (Backup)",[Cola] Paderborn vs SC Freiburg | BLV: BLV POCARI (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/19919577.m3u8
-#EXTINF:-1 group-title="Cola - Giải bóng đá vô địch quốc gia Đức" tvg-name="[Cola] TSG 1899 Hoffenheim vs Borussia Dortmund | BLV: BLV SAMURAI (Main)",[Cola] TSG 1899 Hoffenheim vs Borussia Dortmund | BLV: BLV SAMURAI (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/07808742.flv
-#EXTINF:-1 group-title="Cola - Giải bóng đá vô địch quốc gia Đức" tvg-name="[Cola] TSG 1899 Hoffenheim vs Borussia Dortmund | BLV: BLV SAMURAI (Backup)",[Cola] TSG 1899 Hoffenheim vs Borussia Dortmund | BLV: BLV SAMURAI (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/07808742.m3u8
-#EXTINF:-1 group-title="Cola - Giải bóng đá vô địch quốc gia Đức" tvg-name="[Cola] Borussia Mönchengladbach vs CLB Elversberg | BLV: BLV MOUNTAIN DEW (Main)",[Cola] Borussia Mönchengladbach vs CLB Elversberg | BLV: BLV MOUNTAIN DEW (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/87547578.flv
-#EXTINF:-1 group-title="Cola - Giải bóng đá vô địch quốc gia Đức" tvg-name="[Cola] Borussia Mönchengladbach vs CLB Elversberg | BLV: BLV MOUNTAIN DEW (Backup)",[Cola] Borussia Mönchengladbach vs CLB Elversberg | BLV: BLV MOUNTAIN DEW (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/87547578.m3u8
-#EXTINF:-1 group-title="Cola - Giải bóng đá vô địch quốc gia Đức" tvg-name="[Cola] SV Werder Bremen vs RB Leipzig | BLV: BLV MONSTER (Main)",[Cola] SV Werder Bremen vs RB Leipzig | BLV: BLV MONSTER (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/75915087.flv
-#EXTINF:-1 group-title="Cola - Giải bóng đá vô địch quốc gia Đức" tvg-name="[Cola] SV Werder Bremen vs RB Leipzig | BLV: BLV MONSTER (Backup)",[Cola] SV Werder Bremen vs RB Leipzig | BLV: BLV MONSTER (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/75915087.m3u8
-#EXTINF:-1 group-title="Cola - Giải bóng đá Ngoại hạng Anh" tvg-name="[Cola] Brighton & Hove Albion FC vs CLB Leeds United | BLV: BLV SODA (Main)",[Cola] Brighton & Hove Albion FC vs CLB Leeds United | BLV: BLV SODA (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/02456966.flv
-#EXTINF:-1 group-title="Cola - Giải bóng đá Ngoại hạng Anh" tvg-name="[Cola] Brighton & Hove Albion FC vs CLB Leeds United | BLV: BLV SODA (Backup)",[Cola] Brighton & Hove Albion FC vs CLB Leeds United | BLV: BLV SODA (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/02456966.m3u8
-#EXTINF:-1 group-title="Cola - Giải bóng đá Ngoại hạng Anh" tvg-name="[Cola] Brighton & Hove Albion FC vs CLB Leeds United | BLV: BLV STING (Main)",[Cola] Brighton & Hove Albion FC vs CLB Leeds United | BLV: BLV STING (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/14707124.flv
-#EXTINF:-1 group-title="Cola - Giải bóng đá Ngoại hạng Anh" tvg-name="[Cola] Brighton & Hove Albion FC vs CLB Leeds United | BLV: BLV STING (Backup)",[Cola] Brighton & Hove Albion FC vs CLB Leeds United | BLV: BLV STING (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/14707124.m3u8
-#EXTINF:-1 group-title="Cola - Giải bóng đá Ngoại hạng Anh" tvg-name="[Cola] Brentford vs Sunderland | BLV: BLV SPRITE (Main)",[Cola] Brentford vs Sunderland | BLV: BLV SPRITE (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/75748097.flv
-#EXTINF:-1 group-title="Cola - Giải bóng đá Ngoại hạng Anh" tvg-name="[Cola] Brentford vs Sunderland | BLV: BLV SPRITE (Backup)",[Cola] Brentford vs Sunderland | BLV: BLV SPRITE (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/75748097.m3u8
-#EXTINF:-1 group-title="Cola - Giải bóng đá Ngoại hạng Anh" tvg-name="[Cola] Brentford vs Sunderland | BLV: BLV Cozy (Main)",[Cola] Brentford vs Sunderland | BLV: BLV Cozy (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/87379114.flv
-#EXTINF:-1 group-title="Cola - Giải bóng đá Ngoại hạng Anh" tvg-name="[Cola] Brentford vs Sunderland | BLV: BLV Cozy (Backup)",[Cola] Brentford vs Sunderland | BLV: BLV Cozy (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/87379114.m3u8
-#EXTINF:-1 group-title="Cola - Giải bóng đá Ngoại hạng Anh" tvg-name="[Cola] Nottingham Forest vs Tottenham Hotspur | BLV: BLV REVIVE (Main)",[Cola] Nottingham Forest vs Tottenham Hotspur | BLV: BLV REVIVE (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/33982309.flv
-#EXTINF:-1 group-title="Cola - Giải bóng đá Ngoại hạng Anh" tvg-name="[Cola] Nottingham Forest vs Tottenham Hotspur | BLV: BLV REVIVE (Backup)",[Cola] Nottingham Forest vs Tottenham Hotspur | BLV: BLV REVIVE (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/33982309.m3u8
-#EXTINF:-1 group-title="Cola - Giải bóng đá Ngoại hạng Anh" tvg-name="[Cola] Nottingham Forest vs Tottenham Hotspur | BLV: BLV C2 (Main)",[Cola] Nottingham Forest vs Tottenham Hotspur | BLV: BLV C2 (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/08552895.flv
-#EXTINF:-1 group-title="Cola - Giải bóng đá Ngoại hạng Anh" tvg-name="[Cola] Nottingham Forest vs Tottenham Hotspur | BLV: BLV C2 (Backup)",[Cola] Nottingham Forest vs Tottenham Hotspur | BLV: BLV C2 (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/08552895.m3u8
-#EXTINF:-1 group-title="Cola - Giải bóng đá Ngoại hạng Anh" tvg-name="[Cola] Nottingham Forest vs Tottenham Hotspur | BLV: BLV  KHÔNG ĐỘ (Main)",[Cola] Nottingham Forest vs Tottenham Hotspur | BLV: BLV  KHÔNG ĐỘ (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/41943555.flv
-#EXTINF:-1 group-title="Cola - Giải bóng đá Ngoại hạng Anh" tvg-name="[Cola] Nottingham Forest vs Tottenham Hotspur | BLV: BLV  KHÔNG ĐỘ (Backup)",[Cola] Nottingham Forest vs Tottenham Hotspur | BLV: BLV  KHÔNG ĐỘ (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/41943555.m3u8
-#EXTINF:-1 group-title="Cola - Giải bóng đá Ngoại hạng Anh" tvg-name="[Cola] Manchester City vs Coventry City | BLV: BLV 7UP (Main)",[Cola] Manchester City vs Coventry City | BLV: BLV 7UP (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/78905744.flv
-#EXTINF:-1 group-title="Cola - Giải bóng đá Ngoại hạng Anh" tvg-name="[Cola] Manchester City vs Coventry City | BLV: BLV 7UP (Backup)",[Cola] Manchester City vs Coventry City | BLV: BLV 7UP (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/78905744.m3u8
-#EXTINF:-1 group-title="Cola - Giải bóng đá Ngoại hạng Anh" tvg-name="[Cola] Manchester City vs Coventry City | BLV: BLV GIÀ LÀNG (Main)",[Cola] Manchester City vs Coventry City | BLV: BLV GIÀ LÀNG (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/14830711.flv
-#EXTINF:-1 group-title="Cola - Giải bóng đá Ngoại hạng Anh" tvg-name="[Cola] Manchester City vs Coventry City | BLV: BLV GIÀ LÀNG (Backup)",[Cola] Manchester City vs Coventry City | BLV: BLV GIÀ LÀNG (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/14830711.m3u8
-#EXTINF:-1 group-title="Cola - Giải bóng đá Ngoại hạng Anh" tvg-name="[Cola] Manchester City vs Coventry City | BLV: BLV ROCKSTAR (Main)",[Cola] Manchester City vs Coventry City | BLV: BLV ROCKSTAR (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/82054853.flv
-#EXTINF:-1 group-title="Cola - Giải bóng đá Ngoại hạng Anh" tvg-name="[Cola] Manchester City vs Coventry City | BLV: BLV ROCKSTAR (Backup)",[Cola] Manchester City vs Coventry City | BLV: BLV ROCKSTAR (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/82054853.m3u8
-#EXTINF:-1 group-title="Cola - Giải bóng đá Ngoại hạng Anh" tvg-name="[Cola] Fulham vs Crystal Palace | BLV: BLV 247 (Main)",[Cola] Fulham vs Crystal Palace | BLV: BLV 247 (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/90865415.flv
-#EXTINF:-1 group-title="Cola - Giải bóng đá Ngoại hạng Anh" tvg-name="[Cola] Fulham vs Crystal Palace | BLV: BLV 247 (Backup)",[Cola] Fulham vs Crystal Palace | BLV: BLV 247 (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/90865415.m3u8
-#EXTINF:-1 group-title="Cola - Giải bóng đá Ngoại hạng Anh" tvg-name="[Cola] Fulham vs Crystal Palace | BLV: BLV WARRIOR (Main)",[Cola] Fulham vs Crystal Palace | BLV: BLV WARRIOR (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/97885009.flv
-#EXTINF:-1 group-title="Cola - Giải bóng đá Ngoại hạng Anh" tvg-name="[Cola] Fulham vs Crystal Palace | BLV: BLV WARRIOR (Backup)",[Cola] Fulham vs Crystal Palace | BLV: BLV WARRIOR (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/97885009.m3u8
-#EXTINF:-1 group-title="Cola - Giải Bóng đá Vô địch Quốc gia Tây Ban Nha" tvg-name="[Cola] Athletic Bilbao vs Atlético Madrid | BLV: BLV AQUA (Main)",[Cola] Athletic Bilbao vs Atlético Madrid | BLV: BLV AQUA (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/18812304.flv
-#EXTINF:-1 group-title="Cola - Giải Bóng đá Vô địch Quốc gia Tây Ban Nha" tvg-name="[Cola] Athletic Bilbao vs Atlético Madrid | BLV: BLV AQUA (Backup)",[Cola] Athletic Bilbao vs Atlético Madrid | BLV: BLV AQUA (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/18812304.m3u8
-#EXTINF:-1 group-title="Cola - Ligue 1" tvg-name="[Cola] RC Lens vs FC Lorient | BLV: BLV FANTA (Main)",[Cola] RC Lens vs FC Lorient | BLV: BLV FANTA (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/16226575.flv
-#EXTINF:-1 group-title="Cola - Ligue 1" tvg-name="[Cola] RC Lens vs FC Lorient | BLV: BLV FANTA (Backup)",[Cola] RC Lens vs FC Lorient | BLV: BLV FANTA (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/16226575.m3u8
-#EXTINF:-1 group-title="Cola - Giải bóng đá Serie A Italia" tvg-name="[Cola] Inter Milan vs S.S.C. Napoli | BLV: BLV SODA (Main)",[Cola] Inter Milan vs S.S.C. Napoli | BLV: BLV SODA (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/02456966.flv
-#EXTINF:-1 group-title="Cola - Giải bóng đá Serie A Italia" tvg-name="[Cola] Inter Milan vs S.S.C. Napoli | BLV: BLV SODA (Backup)",[Cola] Inter Milan vs S.S.C. Napoli | BLV: BLV SODA (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/02456966.m3u8
-#EXTINF:-1 group-title="Cola - Giải bóng đá Serie A Italia" tvg-name="[Cola] Inter Milan vs S.S.C. Napoli | BLV: BLV Cozy (Main)",[Cola] Inter Milan vs S.S.C. Napoli | BLV: BLV Cozy (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/87379114.flv
-#EXTINF:-1 group-title="Cola - Giải bóng đá Serie A Italia" tvg-name="[Cola] Inter Milan vs S.S.C. Napoli | BLV: BLV Cozy (Backup)",[Cola] Inter Milan vs S.S.C. Napoli | BLV: BLV Cozy (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/87379114.m3u8
-#EXTINF:-1 group-title="Cola - Giải bóng đá Ngoại hạng Anh" tvg-name="[Cola] CLB Hull City vs Aston Villa | BLV: BLV REVIVE (Main)",[Cola] CLB Hull City vs Aston Villa | BLV: BLV REVIVE (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/33982309.flv
-#EXTINF:-1 group-title="Cola - Giải bóng đá Ngoại hạng Anh" tvg-name="[Cola] CLB Hull City vs Aston Villa | BLV: BLV REVIVE (Backup)",[Cola] CLB Hull City vs Aston Villa | BLV: BLV REVIVE (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/33982309.m3u8
-#EXTINF:-1 group-title="Cola - Giải bóng đá Ngoại hạng Anh" tvg-name="[Cola] CLB Hull City vs Aston Villa | BLV: BLV C2 (Main)",[Cola] CLB Hull City vs Aston Villa | BLV: BLV C2 (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/08552895.flv
-#EXTINF:-1 group-title="Cola - Giải bóng đá Ngoại hạng Anh" tvg-name="[Cola] CLB Hull City vs Aston Villa | BLV: BLV C2 (Backup)",[Cola] CLB Hull City vs Aston Villa | BLV: BLV C2 (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/08552895.m3u8
-#EXTINF:-1 group-title="Cola - Giải bóng đá Ngoại hạng Anh" tvg-name="[Cola] CLB Hull City vs Aston Villa | BLV: BLV 7UP (Main)",[Cola] CLB Hull City vs Aston Villa | BLV: BLV 7UP (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/78905744.flv
-#EXTINF:-1 group-title="Cola - Giải bóng đá Ngoại hạng Anh" tvg-name="[Cola] CLB Hull City vs Aston Villa | BLV: BLV 7UP (Backup)",[Cola] CLB Hull City vs Aston Villa | BLV: BLV 7UP (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/78905744.m3u8
-#EXTINF:-1 group-title="Cola - Giải bóng đá vô địch quốc gia Đức" tvg-name="[Cola] FC Schalke 04 vs FC Bayern München | BLV: BLV 247 (Main)",[Cola] FC Schalke 04 vs FC Bayern München | BLV: BLV 247 (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/90865415.flv
-#EXTINF:-1 group-title="Cola - Giải bóng đá vô địch quốc gia Đức" tvg-name="[Cola] FC Schalke 04 vs FC Bayern München | BLV: BLV 247 (Backup)",[Cola] FC Schalke 04 vs FC Bayern München | BLV: BLV 247 (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/90865415.m3u8
-#EXTINF:-1 group-title="Cola - Giải bóng đá vô địch quốc gia Đức" tvg-name="[Cola] FC Schalke 04 vs FC Bayern München | BLV: BLV WARRIOR (Main)",[Cola] FC Schalke 04 vs FC Bayern München | BLV: BLV WARRIOR (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/97885009.flv
-#EXTINF:-1 group-title="Cola - Giải bóng đá vô địch quốc gia Đức" tvg-name="[Cola] FC Schalke 04 vs FC Bayern München | BLV: BLV WARRIOR (Backup)",[Cola] FC Schalke 04 vs FC Bayern München | BLV: BLV WARRIOR (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/97885009.m3u8
-#EXTINF:-1 group-title="Cola - Giải Bóng đá Vô địch Quốc gia Tây Ban Nha" tvg-name="[Cola] Rayo Vallecano vs CLB Racing Santander | BLV: BLV BÍ ĐAO (Main)",[Cola] Rayo Vallecano vs CLB Racing Santander | BLV: BLV BÍ ĐAO (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/99121525.flv
-#EXTINF:-1 group-title="Cola - Giải Bóng đá Vô địch Quốc gia Tây Ban Nha" tvg-name="[Cola] Rayo Vallecano vs CLB Racing Santander | BLV: BLV BÍ ĐAO (Backup)",[Cola] Rayo Vallecano vs CLB Racing Santander | BLV: BLV BÍ ĐAO (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/99121525.m3u8
-#EXTINF:-1 group-title="Cola - Giải Bóng đá Vô địch Quốc gia Bồ Đào Nha" tvg-name="[Cola] Alverca vs Braga | BLV: BLV ROCKSTAR (Main)",[Cola] Alverca vs Braga | BLV: BLV ROCKSTAR (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/82054853.flv
-#EXTINF:-1 group-title="Cola - Giải Bóng đá Vô địch Quốc gia Bồ Đào Nha" tvg-name="[Cola] Alverca vs Braga | BLV: BLV ROCKSTAR (Backup)",[Cola] Alverca vs Braga | BLV: BLV ROCKSTAR (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/82054853.m3u8
-#EXTINF:-1 group-title="Cola - Giải Bóng đá Vô địch Quốc gia Hà Lan" tvg-name="[Cola] AFC Ajax vs PSV Eindhoven | BLV: BLV  KHÔNG ĐỘ (Main)",[Cola] AFC Ajax vs PSV Eindhoven | BLV: BLV  KHÔNG ĐỘ (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/41943555.flv
-#EXTINF:-1 group-title="Cola - Giải Bóng đá Vô địch Quốc gia Hà Lan" tvg-name="[Cola] AFC Ajax vs PSV Eindhoven | BLV: BLV  KHÔNG ĐỘ (Backup)",[Cola] AFC Ajax vs PSV Eindhoven | BLV: BLV  KHÔNG ĐỘ (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/41943555.m3u8
-#EXTINF:-1 group-title="Cola - Giải Vô địch quốc gia Ả-rập Xê-út" tvg-name="[Cola] Al-Ittihad FC vs Al-Nassr | BLV: BLV GIÀ LÀNG (Main)",[Cola] Al-Ittihad FC vs Al-Nassr | BLV: BLV GIÀ LÀNG (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/14830711.flv
-#EXTINF:-1 group-title="Cola - Giải Vô địch quốc gia Ả-rập Xê-út" tvg-name="[Cola] Al-Ittihad FC vs Al-Nassr | BLV: BLV GIÀ LÀNG (Backup)",[Cola] Al-Ittihad FC vs Al-Nassr | BLV: BLV GIÀ LÀNG (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/14830711.m3u8
-#EXTINF:-1 group-title="Cola - Giải Vô địch quốc gia Ả-rập Xê-út" tvg-name="[Cola] Al-Ittihad FC vs Al-Nassr | BLV: BLV STING (Main)",[Cola] Al-Ittihad FC vs Al-Nassr | BLV: BLV STING (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/14707124.flv
-#EXTINF:-1 group-title="Cola - Giải Vô địch quốc gia Ả-rập Xê-út" tvg-name="[Cola] Al-Ittihad FC vs Al-Nassr | BLV: BLV STING (Backup)",[Cola] Al-Ittihad FC vs Al-Nassr | BLV: BLV STING (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/14707124.m3u8
-#EXTINF:-1 group-title="Cola - World Cup Bóng rổ Nữ" tvg-name="[Cola] Pháp W vs Hàn Quốc W | BLV: BLV POCARI (Main)",[Cola] Pháp W vs Hàn Quốc W | BLV: BLV POCARI (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/19919577.flv
-#EXTINF:-1 group-title="Cola - World Cup Bóng rổ Nữ" tvg-name="[Cola] Pháp W vs Hàn Quốc W | BLV: BLV POCARI (Backup)",[Cola] Pháp W vs Hàn Quốc W | BLV: BLV POCARI (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/19919577.m3u8
-#EXTINF:-1 group-title="Cola - Giải bóng đá Serie A Italia" tvg-name="[Cola] A.S. Roma vs Atalanta B.C. | BLV: BLV SAMURAI (Main)",[Cola] A.S. Roma vs Atalanta B.C. | BLV: BLV SAMURAI (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/07808742.flv
-#EXTINF:-1 group-title="Cola - Giải bóng đá Serie A Italia" tvg-name="[Cola] A.S. Roma vs Atalanta B.C. | BLV: BLV SAMURAI (Backup)",[Cola] A.S. Roma vs Atalanta B.C. | BLV: BLV SAMURAI (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/07808742.m3u8
-#EXTINF:-1 group-title="Cola - Ligue 1" tvg-name="[Cola] Le Havre vs Stade Brestois 29 | BLV: BLV MONSTER (Main)",[Cola] Le Havre vs Stade Brestois 29 | BLV: BLV MONSTER (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/75915087.flv
-#EXTINF:-1 group-title="Cola - Ligue 1" tvg-name="[Cola] Le Havre vs Stade Brestois 29 | BLV: BLV MONSTER (Backup)",[Cola] Le Havre vs Stade Brestois 29 | BLV: BLV MONSTER (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/75915087.m3u8
-#EXTINF:-1 group-title="Cola - Ligue 1" tvg-name="[Cola] OGC Nice vs Le Mans | BLV: BLV FANTA (Main)",[Cola] OGC Nice vs Le Mans | BLV: BLV FANTA (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/16226575.flv
-#EXTINF:-1 group-title="Cola - Ligue 1" tvg-name="[Cola] OGC Nice vs Le Mans | BLV: BLV FANTA (Backup)",[Cola] OGC Nice vs Le Mans | BLV: BLV FANTA (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/16226575.m3u8
-#EXTINF:-1 group-title="Cola - Giải Bóng đá Vô địch Quốc gia Tây Ban Nha" tvg-name="[Cola] Villarreal vs Dep. La Coruna | BLV: BLV SODA (Main)",[Cola] Villarreal vs Dep. La Coruna | BLV: BLV SODA (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/02456966.flv
-#EXTINF:-1 group-title="Cola - Giải Bóng đá Vô địch Quốc gia Tây Ban Nha" tvg-name="[Cola] Villarreal vs Dep. La Coruna | BLV: BLV SODA (Backup)",[Cola] Villarreal vs Dep. La Coruna | BLV: BLV SODA (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/02456966.m3u8
-#EXTINF:-1 group-title="Cola - Championship" tvg-name="[Cola] CLB Swansea City vs CLB Wrexham | BLV: BLV WARRIOR (Main)",[Cola] CLB Swansea City vs CLB Wrexham | BLV: BLV WARRIOR (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/97885009.flv
-#EXTINF:-1 group-title="Cola - Championship" tvg-name="[Cola] CLB Swansea City vs CLB Wrexham | BLV: BLV WARRIOR (Backup)",[Cola] CLB Swansea City vs CLB Wrexham | BLV: BLV WARRIOR (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/97885009.m3u8
-#EXTINF:-1 group-title="Cola - Giải Bóng đá Vô địch Quốc gia Bồ Đào Nha" tvg-name="[Cola] Sporting vs CLB Nacional | BLV: BLV BÍ ĐAO (Main)",[Cola] Sporting vs CLB Nacional | BLV: BLV BÍ ĐAO (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/99121525.flv
-#EXTINF:-1 group-title="Cola - Giải Bóng đá Vô địch Quốc gia Bồ Đào Nha" tvg-name="[Cola] Sporting vs CLB Nacional | BLV: BLV BÍ ĐAO (Backup)",[Cola] Sporting vs CLB Nacional | BLV: BLV BÍ ĐAO (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/99121525.m3u8
-#EXTINF:-1 group-title="Cola - Giải bóng đá Hạng nhất Brasil" tvg-name="[Cola] CLB Sao Paulo vs CLB Atletico Mineiro | BLV: BLV MOUNTAIN DEW (Main)",[Cola] CLB Sao Paulo vs CLB Atletico Mineiro | BLV: BLV MOUNTAIN DEW (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/87547578.flv
-#EXTINF:-1 group-title="Cola - Giải bóng đá Hạng nhất Brasil" tvg-name="[Cola] CLB Sao Paulo vs CLB Atletico Mineiro | BLV: BLV MOUNTAIN DEW (Backup)",[Cola] CLB Sao Paulo vs CLB Atletico Mineiro | BLV: BLV MOUNTAIN DEW (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/87547578.m3u8
-#EXTINF:-1 group-title="Cola - Giải Bóng đá Vô địch Quốc gia Argentina" tvg-name="[Cola] CLB San Lorenzo vs Talleres Cordoba | BLV: BLV PEPSI (Main)",[Cola] CLB San Lorenzo vs Talleres Cordoba | BLV: BLV PEPSI (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/59444581.flv
-#EXTINF:-1 group-title="Cola - Giải Bóng đá Vô địch Quốc gia Argentina" tvg-name="[Cola] CLB San Lorenzo vs Talleres Cordoba | BLV: BLV PEPSI (Backup)",[Cola] CLB San Lorenzo vs Talleres Cordoba | BLV: BLV PEPSI (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/59444581.m3u8
-#EXTINF:-1 group-title="Cola - Giải Vô địch Bóng đá Quốc gia Mexico" tvg-name="[Cola] Atletico San Luis vs Chivas Guadalajara | BLV: BLV SPRITE (Main)",[Cola] Atletico San Luis vs Chivas Guadalajara | BLV: BLV SPRITE (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/75748097.flv
-#EXTINF:-1 group-title="Cola - Giải Vô địch Bóng đá Quốc gia Mexico" tvg-name="[Cola] Atletico San Luis vs Chivas Guadalajara | BLV: BLV SPRITE (Backup)",[Cola] Atletico San Luis vs Chivas Guadalajara | BLV: BLV SPRITE (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/75748097.m3u8
-#EXTINF:-1 group-title="Cola - Giải vô địch quốc gia Colombia" tvg-name="[Cola] CLB Santa Fe vs Fortaleza CEIF | BLV: BLV 7UP (Main)",[Cola] CLB Santa Fe vs Fortaleza CEIF | BLV: BLV 7UP (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/78905744.flv
-#EXTINF:-1 group-title="Cola - Giải vô địch quốc gia Colombia" tvg-name="[Cola] CLB Santa Fe vs Fortaleza CEIF | BLV: BLV 7UP (Backup)",[Cola] CLB Santa Fe vs Fortaleza CEIF | BLV: BLV 7UP (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/78905744.m3u8
-#EXTINF:-1 group-title="Cola - Major League Soccer" tvg-name="[Cola] Inter Miami vs Atlanta Utd | BLV: BLV Cozy (Main)",[Cola] Inter Miami vs Atlanta Utd | BLV: BLV Cozy (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/87379114.flv
-#EXTINF:-1 group-title="Cola - Major League Soccer" tvg-name="[Cola] Inter Miami vs Atlanta Utd | BLV: BLV Cozy (Backup)",[Cola] Inter Miami vs Atlanta Utd | BLV: BLV Cozy (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/87379114.m3u8
-#EXTINF:-1 group-title="Cola - Major League Soccer" tvg-name="[Cola] Charlotte FC vs Houston Dynamo | BLV: BLV 247 (Main)",[Cola] Charlotte FC vs Houston Dynamo | BLV: BLV 247 (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/90865415.flv
-#EXTINF:-1 group-title="Cola - Major League Soccer" tvg-name="[Cola] Charlotte FC vs Houston Dynamo | BLV: BLV 247 (Backup)",[Cola] Charlotte FC vs Houston Dynamo | BLV: BLV 247 (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/90865415.m3u8
-#EXTINF:-1 group-title="Cola - Major League Soccer" tvg-name="[Cola] CLB Toronto  vs CLB Chicago Fire | BLV: BLV 7UP (Main)",[Cola] CLB Toronto  vs CLB Chicago Fire | BLV: BLV 7UP (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/78905744.flv
-#EXTINF:-1 group-title="Cola - Major League Soccer" tvg-name="[Cola] CLB Toronto  vs CLB Chicago Fire | BLV: BLV 7UP (Backup)",[Cola] CLB Toronto  vs CLB Chicago Fire | BLV: BLV 7UP (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/78905744.m3u8
-#EXTINF:-1 group-title="Cola - Giải bóng đá Hạng nhất Brasil" tvg-name="[Cola] Fluminense RJ vs Vasco | BLV: BLV C2 (Main)",[Cola] Fluminense RJ vs Vasco | BLV: BLV C2 (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/08552895.flv
-#EXTINF:-1 group-title="Cola - Giải bóng đá Hạng nhất Brasil" tvg-name="[Cola] Fluminense RJ vs Vasco | BLV: BLV C2 (Backup)",[Cola] Fluminense RJ vs Vasco | BLV: BLV C2 (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/08552895.m3u8
-#EXTINF:-1 group-title="Cola - Giải Bóng đá Vô địch Quốc gia Argentina" tvg-name="[Cola] CLB Velez Sarsfield vs CLB Estudiantes La Plata | BLV: BLV REVIVE (Main)",[Cola] CLB Velez Sarsfield vs CLB Estudiantes La Plata | BLV: BLV REVIVE (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/33982309.flv
-#EXTINF:-1 group-title="Cola - Giải Bóng đá Vô địch Quốc gia Argentina" tvg-name="[Cola] CLB Velez Sarsfield vs CLB Estudiantes La Plata | BLV: BLV REVIVE (Backup)",[Cola] CLB Velez Sarsfield vs CLB Estudiantes La Plata | BLV: BLV REVIVE (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/33982309.m3u8
-#EXTINF:-1 group-title="Cola - Major League Soccer" tvg-name="[Cola] Austin FC vs San Jose Earthquakes | BLV: BLV MOUNTAIN DEW (Main)",[Cola] Austin FC vs San Jose Earthquakes | BLV: BLV MOUNTAIN DEW (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/87547578.flv
-#EXTINF:-1 group-title="Cola - Major League Soccer" tvg-name="[Cola] Austin FC vs San Jose Earthquakes | BLV: BLV MOUNTAIN DEW (Backup)",[Cola] Austin FC vs San Jose Earthquakes | BLV: BLV MOUNTAIN DEW (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/87547578.m3u8
-#EXTINF:-1 group-title="Cola - Giải Vô địch Bóng đá Quốc gia Mexico" tvg-name="[Cola] Tigres vs Necaxa | BLV: BLV GIÀ LÀNG (Main)",[Cola] Tigres vs Necaxa | BLV: BLV GIÀ LÀNG (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/14830711.flv
-#EXTINF:-1 group-title="Cola - Giải Vô địch Bóng đá Quốc gia Mexico" tvg-name="[Cola] Tigres vs Necaxa | BLV: BLV GIÀ LÀNG (Backup)",[Cola] Tigres vs Necaxa | BLV: BLV GIÀ LÀNG (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/14830711.m3u8
-#EXTINF:-1 group-title="Cola - Giải bóng đá nữ cao cấp Mexico" tvg-name="[Cola] Club Tijuana Nữ vs Pachuca Nữ | BLV: BLV GIÀ LÀNG (Main)",[Cola] Club Tijuana Nữ vs Pachuca Nữ | BLV: BLV GIÀ LÀNG (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/14830711.flv
-#EXTINF:-1 group-title="Cola - Giải bóng đá nữ cao cấp Mexico" tvg-name="[Cola] Club Tijuana Nữ vs Pachuca Nữ | BLV: BLV GIÀ LÀNG (Backup)",[Cola] Club Tijuana Nữ vs Pachuca Nữ | BLV: BLV GIÀ LÀNG (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/14830711.m3u8
-#EXTINF:-1 group-title="Cola - Major League Soccer" tvg-name="[Cola] Real Salt Lake vs Los Angeles FC | BLV: BLV AQUA (Main)",[Cola] Real Salt Lake vs Los Angeles FC | BLV: BLV AQUA (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/18812304.flv
-#EXTINF:-1 group-title="Cola - Major League Soccer" tvg-name="[Cola] Real Salt Lake vs Los Angeles FC | BLV: BLV AQUA (Backup)",[Cola] Real Salt Lake vs Los Angeles FC | BLV: BLV AQUA (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/18812304.m3u8
-#EXTINF:-1 group-title="Cola - Major League Soccer" tvg-name="[Cola] Vancouver Whitecaps vs Thành phố St. Louis SC | BLV: BLV SPRITE (Main)",[Cola] Vancouver Whitecaps vs Thành phố St. Louis SC | BLV: BLV SPRITE (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/75748097.flv
-#EXTINF:-1 group-title="Cola - Major League Soccer" tvg-name="[Cola] Vancouver Whitecaps vs Thành phố St. Louis SC | BLV: BLV SPRITE (Backup)",[Cola] Vancouver Whitecaps vs Thành phố St. Louis SC | BLV: BLV SPRITE (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/75748097.m3u8
-#EXTINF:-1 group-title="Cola - Giải Vô địch Bóng đá Quốc gia Mexico" tvg-name="[Cola] Atlas vs CLB Atlante | BLV: BLV HỔ VẰN (Main)",[Cola] Atlas vs CLB Atlante | BLV: BLV HỔ VẰN (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/07428422.flv
-#EXTINF:-1 group-title="Cola - Giải Vô địch Bóng đá Quốc gia Mexico" tvg-name="[Cola] Atlas vs CLB Atlante | BLV: BLV HỔ VẰN (Backup)",[Cola] Atlas vs CLB Atlante | BLV: BLV HỔ VẰN (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/07428422.m3u8
-#EXTINF:-1 group-title="Cola - Giải bóng đá hạng nhì Nhật Bản" tvg-name="[Cola] Hokkaido Consadole Sapporo vs Tochigi | BLV: BLV GIÀ LÀNG (Main)",[Cola] Hokkaido Consadole Sapporo vs Tochigi | BLV: BLV GIÀ LÀNG (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/14830711.flv
-#EXTINF:-1 group-title="Cola - Giải bóng đá hạng nhì Nhật Bản" tvg-name="[Cola] Hokkaido Consadole Sapporo vs Tochigi | BLV: BLV GIÀ LÀNG (Backup)",[Cola] Hokkaido Consadole Sapporo vs Tochigi | BLV: BLV GIÀ LÀNG (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/14830711.m3u8
-#EXTINF:-1 group-title="Cola - Giải bóng đá Liga 1 Indonesia" tvg-name="[Cola] Malut United vs Garudayaksa FC | BLV: BLV SAMURAI (Main)",[Cola] Malut United vs Garudayaksa FC | BLV: BLV SAMURAI (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/07808742.flv
-#EXTINF:-1 group-title="Cola - Giải bóng đá Liga 1 Indonesia" tvg-name="[Cola] Malut United vs Garudayaksa FC | BLV: BLV SAMURAI (Backup)",[Cola] Malut United vs Garudayaksa FC | BLV: BLV SAMURAI (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/07808742.m3u8
-#EXTINF:-1 group-title="Cola - Giải vô địch quốc gia Nhật Bản" tvg-name="[Cola] Nagoya Grampus vs Machida | BLV: BLV Cozy (Main)",[Cola] Nagoya Grampus vs Machida | BLV: BLV Cozy (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/87379114.flv
-#EXTINF:-1 group-title="Cola - Giải vô địch quốc gia Nhật Bản" tvg-name="[Cola] Nagoya Grampus vs Machida | BLV: BLV Cozy (Backup)",[Cola] Nagoya Grampus vs Machida | BLV: BLV Cozy (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/87379114.m3u8
-#EXTINF:-1 group-title="Cola - Giải vô địch quốc gia Nhật Bản" tvg-name="[Cola] Kashima Antlers vs Urawa Reds | BLV: BLV AQUA (Main)",[Cola] Kashima Antlers vs Urawa Reds | BLV: BLV AQUA (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/18812304.flv
-#EXTINF:-1 group-title="Cola - Giải vô địch quốc gia Nhật Bản" tvg-name="[Cola] Kashima Antlers vs Urawa Reds | BLV: BLV AQUA (Backup)",[Cola] Kashima Antlers vs Urawa Reds | BLV: BLV AQUA (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/18812304.m3u8
-#EXTINF:-1 group-title="Cola - World Cup Bóng rổ Nữ" tvg-name="[Cola] Thổ Nhỹ Kỳ Nữ vs Úc Nữ | BLV: BLV ROCKSTAR (Main)",[Cola] Thổ Nhỹ Kỳ Nữ vs Úc Nữ | BLV: BLV ROCKSTAR (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/82054853.flv
-#EXTINF:-1 group-title="Cola - World Cup Bóng rổ Nữ" tvg-name="[Cola] Thổ Nhỹ Kỳ Nữ vs Úc Nữ | BLV: BLV ROCKSTAR (Backup)",[Cola] Thổ Nhỹ Kỳ Nữ vs Úc Nữ | BLV: BLV ROCKSTAR (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/82054853.m3u8
-#EXTINF:-1 group-title="Cola - Giải hạng Tư Tây Ban Nha" tvg-name="[Cola] UD San Pedro vs Malaga B | BLV: BLV SAMURAI (Main)",[Cola] UD San Pedro vs Malaga B | BLV: BLV SAMURAI (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/07808742.flv
-#EXTINF:-1 group-title="Cola - Giải hạng Tư Tây Ban Nha" tvg-name="[Cola] UD San Pedro vs Malaga B | BLV: BLV SAMURAI (Backup)",[Cola] UD San Pedro vs Malaga B | BLV: BLV SAMURAI (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/07808742.m3u8
-#EXTINF:-1 group-title="Cola - Giải vô địch quốc gia Nhật Bản" tvg-name="[Cola] Vissel Kobe vs V Varen Nagasaki | BLV: BLV MONSTER (Main)",[Cola] Vissel Kobe vs V Varen Nagasaki | BLV: BLV MONSTER (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/75915087.flv
-#EXTINF:-1 group-title="Cola - Giải vô địch quốc gia Nhật Bản" tvg-name="[Cola] Vissel Kobe vs V Varen Nagasaki | BLV: BLV MONSTER (Backup)",[Cola] Vissel Kobe vs V Varen Nagasaki | BLV: BLV MONSTER (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/75915087.m3u8
-#EXTINF:-1 group-title="Cola - Giải vô địch quốc gia Việt Nam" tvg-name="[Cola] Đông Á Thanh Hóa vs SHB Đà Nẵng | BLV: BLV FANTA (Main)",[Cola] Đông Á Thanh Hóa vs SHB Đà Nẵng | BLV: BLV FANTA (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/16226575.flv
-#EXTINF:-1 group-title="Cola - Giải vô địch quốc gia Việt Nam" tvg-name="[Cola] Đông Á Thanh Hóa vs SHB Đà Nẵng | BLV: BLV FANTA (Backup)",[Cola] Đông Á Thanh Hóa vs SHB Đà Nẵng | BLV: BLV FANTA (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/16226575.m3u8
-#EXTINF:-1 group-title="Cola - Giải K1 Hàn Quốc" tvg-name="[Cola] FC Anyang vs Gangwon | BLV: BLV BÍ ĐAO (Main)",[Cola] FC Anyang vs Gangwon | BLV: BLV BÍ ĐAO (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/99121525.flv
-#EXTINF:-1 group-title="Cola - Giải K1 Hàn Quốc" tvg-name="[Cola] FC Anyang vs Gangwon | BLV: BLV BÍ ĐAO (Backup)",[Cola] FC Anyang vs Gangwon | BLV: BLV BÍ ĐAO (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/99121525.m3u8
-#EXTINF:-1 group-title="Cola - Giải K1 Hàn Quốc" tvg-name="[Cola] Gimcheon Sangmu FC vs Gwangju FC | BLV: BLV 247 (Main)",[Cola] Gimcheon Sangmu FC vs Gwangju FC | BLV: BLV 247 (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/90865415.flv
-#EXTINF:-1 group-title="Cola - Giải K1 Hàn Quốc" tvg-name="[Cola] Gimcheon Sangmu FC vs Gwangju FC | BLV: BLV 247 (Backup)",[Cola] Gimcheon Sangmu FC vs Gwangju FC | BLV: BLV 247 (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/90865415.m3u8
-#EXTINF:-1 group-title="Cola - Giải vô địch quốc gia Nhật Bản" tvg-name="[Cola] Kashiwa Reysol vs Yokohama F. Marinos | BLV: BLV SPRITE (Main)",[Cola] Kashiwa Reysol vs Yokohama F. Marinos | BLV: BLV SPRITE (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/75748097.flv
-#EXTINF:-1 group-title="Cola - Giải vô địch quốc gia Nhật Bản" tvg-name="[Cola] Kashiwa Reysol vs Yokohama F. Marinos | BLV: BLV SPRITE (Backup)",[Cola] Kashiwa Reysol vs Yokohama F. Marinos | BLV: BLV SPRITE (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/75748097.m3u8
-#EXTINF:-1 group-title="Cola - Giải vô địch quốc gia Nhật Bản" tvg-name="[Cola] CLB Tokyo vs Kyoto Sanga | BLV: BLV PEPSI (Main)",[Cola] CLB Tokyo vs Kyoto Sanga | BLV: BLV PEPSI (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/59444581.flv
-#EXTINF:-1 group-title="Cola - Giải vô địch quốc gia Nhật Bản" tvg-name="[Cola] CLB Tokyo vs Kyoto Sanga | BLV: BLV PEPSI (Backup)",[Cola] CLB Tokyo vs Kyoto Sanga | BLV: BLV PEPSI (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/59444581.m3u8
-#EXTINF:-1 group-title="Cola - Giải bóng đá ngoại hạng Trung Quốc" tvg-name="[Cola] Tongliangloong Trùng Khánh vs Shanghai Shenhua | BLV: BLV  KHÔNG ĐỘ (Main)",[Cola] Tongliangloong Trùng Khánh vs Shanghai Shenhua | BLV: BLV  KHÔNG ĐỘ (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/41943555.flv
-#EXTINF:-1 group-title="Cola - Giải bóng đá ngoại hạng Trung Quốc" tvg-name="[Cola] Tongliangloong Trùng Khánh vs Shanghai Shenhua | BLV: BLV  KHÔNG ĐỘ (Backup)",[Cola] Tongliangloong Trùng Khánh vs Shanghai Shenhua | BLV: BLV  KHÔNG ĐỘ (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/41943555.m3u8
-#EXTINF:-1 group-title="Cola - Giải vô địch quốc gia Việt Nam" tvg-name="[Cola] Sông Lam Nghệ An vs Bac Ninh | BLV: BLV STING (Main)",[Cola] Sông Lam Nghệ An vs Bac Ninh | BLV: BLV STING (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/14707124.flv
-#EXTINF:-1 group-title="Cola - Giải vô địch quốc gia Việt Nam" tvg-name="[Cola] Sông Lam Nghệ An vs Bac Ninh | BLV: BLV STING (Backup)",[Cola] Sông Lam Nghệ An vs Bac Ninh | BLV: BLV STING (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/14707124.m3u8
-#EXTINF:-1 group-title="Cola - Giải vô địch quốc gia Việt Nam" tvg-name="[Cola] Nam Định vs Hoàng Anh Gia Lai | BLV: BLV SAMURAI (Main)",[Cola] Nam Định vs Hoàng Anh Gia Lai | BLV: BLV SAMURAI (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/07808742.flv
-#EXTINF:-1 group-title="Cola - Giải vô địch quốc gia Việt Nam" tvg-name="[Cola] Nam Định vs Hoàng Anh Gia Lai | BLV: BLV SAMURAI (Backup)",[Cola] Nam Định vs Hoàng Anh Gia Lai | BLV: BLV SAMURAI (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/07808742.m3u8
-#EXTINF:-1 group-title="Cola - Championship" tvg-name="[Cola] Birmingham City vs Wolverhampton Wanderers | BLV: BLV MOUNTAIN DEW (Main)",[Cola] Birmingham City vs Wolverhampton Wanderers | BLV: BLV MOUNTAIN DEW (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/87547578.flv
-#EXTINF:-1 group-title="Cola - Championship" tvg-name="[Cola] Birmingham City vs Wolverhampton Wanderers | BLV: BLV MOUNTAIN DEW (Backup)",[Cola] Birmingham City vs Wolverhampton Wanderers | BLV: BLV MOUNTAIN DEW (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/87547578.m3u8
-#EXTINF:-1 group-title="Cola - Giải bóng đá Hạng hai Đức" tvg-name="[Cola] Hertha BSC vs CLB Magdeburg | BLV: BLV HỔ VẰN (Main)",[Cola] Hertha BSC vs CLB Magdeburg | BLV: BLV HỔ VẰN (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/07428422.flv
-#EXTINF:-1 group-title="Cola - Giải bóng đá Hạng hai Đức" tvg-name="[Cola] Hertha BSC vs CLB Magdeburg | BLV: BLV HỔ VẰN (Backup)",[Cola] Hertha BSC vs CLB Magdeburg | BLV: BLV HỔ VẰN (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/07428422.m3u8
-#EXTINF:-1 group-title="Cola - Giải bóng đá ngoại hạng Trung Quốc" tvg-name="[Cola] Henan Songshan Longmen vs Chengdu Rongcheng | BLV: BLV POCARI (Main)",[Cola] Henan Songshan Longmen vs Chengdu Rongcheng | BLV: BLV POCARI (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/19919577.flv
-#EXTINF:-1 group-title="Cola - Giải bóng đá ngoại hạng Trung Quốc" tvg-name="[Cola] Henan Songshan Longmen vs Chengdu Rongcheng | BLV: BLV POCARI (Backup)",[Cola] Henan Songshan Longmen vs Chengdu Rongcheng | BLV: BLV POCARI (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/19919577.m3u8
-#EXTINF:-1 group-title="Cola - Giải bóng đá ngoại hạng Trung Quốc" tvg-name="[Cola] Yuxi Yukun vs Shenyang Urban FC | BLV: BLV WARRIOR (Main)",[Cola] Yuxi Yukun vs Shenyang Urban FC | BLV: BLV WARRIOR (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/97885009.flv
-#EXTINF:-1 group-title="Cola - Giải bóng đá ngoại hạng Trung Quốc" tvg-name="[Cola] Yuxi Yukun vs Shenyang Urban FC | BLV: BLV WARRIOR (Backup)",[Cola] Yuxi Yukun vs Shenyang Urban FC | BLV: BLV WARRIOR (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/97885009.m3u8
-#EXTINF:-1 group-title="Cola - Giải bóng đá ngoại hạng Trung Quốc" tvg-name="[Cola] Tianjin Jinmen Tiger vs Zhejiang Professional | BLV: BLV ROCKSTAR (Main)",[Cola] Tianjin Jinmen Tiger vs Zhejiang Professional | BLV: BLV ROCKSTAR (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/82054853.flv
-#EXTINF:-1 group-title="Cola - Giải bóng đá ngoại hạng Trung Quốc" tvg-name="[Cola] Tianjin Jinmen Tiger vs Zhejiang Professional | BLV: BLV ROCKSTAR (Backup)",[Cola] Tianjin Jinmen Tiger vs Zhejiang Professional | BLV: BLV ROCKSTAR (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/82054853.m3u8
-#EXTINF:-1 group-title="Cola - Cúp Bóng đá Châu Á U20" tvg-name="[Cola] Iran U20 vs Vietnam U20 | BLV: BLV SODA (Main)",[Cola] Iran U20 vs Vietnam U20 | BLV: BLV SODA (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/02456966.flv
-#EXTINF:-1 group-title="Cola - Cúp Bóng đá Châu Á U20" tvg-name="[Cola] Iran U20 vs Vietnam U20 | BLV: BLV SODA (Backup)",[Cola] Iran U20 vs Vietnam U20 | BLV: BLV SODA (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/02456966.m3u8
-#EXTINF:-1 group-title="Cola - Cúp Bóng đá Châu Á U20" tvg-name="[Cola] Iran U20 vs Vietnam U20 | BLV: BLV Cozy (Main)",[Cola] Iran U20 vs Vietnam U20 | BLV: BLV Cozy (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/87379114.flv
-#EXTINF:-1 group-title="Cola - Cúp Bóng đá Châu Á U20" tvg-name="[Cola] Iran U20 vs Vietnam U20 | BLV: BLV Cozy (Backup)",[Cola] Iran U20 vs Vietnam U20 | BLV: BLV Cozy (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/87379114.m3u8
-#EXTINF:-1 group-title="Cola - Giải vô địch U20 Nữ thế giới" tvg-name="[Cola] Pháp U20 Nữ vs Đại diện Hàn Quốc U20 nữ | BLV: BLV POCARI (Main)",[Cola] Pháp U20 Nữ vs Đại diện Hàn Quốc U20 nữ | BLV: BLV POCARI (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/19919577.flv
-#EXTINF:-1 group-title="Cola - Giải vô địch U20 Nữ thế giới" tvg-name="[Cola] Pháp U20 Nữ vs Đại diện Hàn Quốc U20 nữ | BLV: BLV POCARI (Backup)",[Cola] Pháp U20 Nữ vs Đại diện Hàn Quốc U20 nữ | BLV: BLV POCARI (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/19919577.m3u8
-#EXTINF:-1 group-title="Cola - Giải bóng đá Serie A Italia" tvg-name="[Cola] Frosinone vs CLB Venezia | BLV: BLV MONSTER (Main)",[Cola] Frosinone vs CLB Venezia | BLV: BLV MONSTER (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/75915087.flv
-#EXTINF:-1 group-title="Cola - Giải bóng đá Serie A Italia" tvg-name="[Cola] Frosinone vs CLB Venezia | BLV: BLV MONSTER (Backup)",[Cola] Frosinone vs CLB Venezia | BLV: BLV MONSTER (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/75915087.m3u8
-#EXTINF:-1 group-title="Cola - Ligue 1" tvg-name="[Cola] Troyes AC vs RC Strasbourg | BLV: BLV FANTA (Main)",[Cola] Troyes AC vs RC Strasbourg | BLV: BLV FANTA (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/16226575.flv
-#EXTINF:-1 group-title="Cola - Ligue 1" tvg-name="[Cola] Troyes AC vs RC Strasbourg | BLV: BLV FANTA (Backup)",[Cola] Troyes AC vs RC Strasbourg | BLV: BLV FANTA (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/16226575.m3u8
-#EXTINF:-1 group-title="Cola - Giải bóng đá Serie A Italia" tvg-name="[Cola] CLB Parma vs A.C. Monza | BLV: BLV BÍ ĐAO (Main)",[Cola] CLB Parma vs A.C. Monza | BLV: BLV BÍ ĐAO (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/99121525.flv
-#EXTINF:-1 group-title="Cola - Giải bóng đá Serie A Italia" tvg-name="[Cola] CLB Parma vs A.C. Monza | BLV: BLV BÍ ĐAO (Backup)",[Cola] CLB Parma vs A.C. Monza | BLV: BLV BÍ ĐAO (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/99121525.m3u8
-#EXTINF:-1 group-title="Cola - Giải bóng đá Ngoại hạng Anh" tvg-name="[Cola] Everton vs Manchester United | BLV: BLV C2 (Main)",[Cola] Everton vs Manchester United | BLV: BLV C2 (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/08552895.flv
-#EXTINF:-1 group-title="Cola - Giải bóng đá Ngoại hạng Anh" tvg-name="[Cola] Everton vs Manchester United | BLV: BLV C2 (Backup)",[Cola] Everton vs Manchester United | BLV: BLV C2 (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/08552895.m3u8
-#EXTINF:-1 group-title="Cola - Giải bóng đá Ngoại hạng Anh" tvg-name="[Cola] Everton vs Manchester United | BLV: BLV REVIVE (Main)",[Cola] Everton vs Manchester United | BLV: BLV REVIVE (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/33982309.flv
-#EXTINF:-1 group-title="Cola - Giải bóng đá Ngoại hạng Anh" tvg-name="[Cola] Everton vs Manchester United | BLV: BLV REVIVE (Backup)",[Cola] Everton vs Manchester United | BLV: BLV REVIVE (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/33982309.m3u8
-#EXTINF:-1 group-title="Cola - Giải bóng đá Ngoại hạng Anh" tvg-name="[Cola] Everton vs Manchester United | BLV: BLV 7UP (Main)",[Cola] Everton vs Manchester United | BLV: BLV 7UP (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/78905744.flv
-#EXTINF:-1 group-title="Cola - Giải bóng đá Ngoại hạng Anh" tvg-name="[Cola] Everton vs Manchester United | BLV: BLV 7UP (Backup)",[Cola] Everton vs Manchester United | BLV: BLV 7UP (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/78905744.m3u8
-#EXTINF:-1 group-title="Cola - Giải bóng đá Ngoại hạng Anh" tvg-name="[Cola] Everton vs Manchester United | BLV: BLV 247 (Main)",[Cola] Everton vs Manchester United | BLV: BLV 247 (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/90865415.flv
-#EXTINF:-1 group-title="Cola - Giải bóng đá Ngoại hạng Anh" tvg-name="[Cola] Everton vs Manchester United | BLV: BLV 247 (Backup)",[Cola] Everton vs Manchester United | BLV: BLV 247 (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/90865415.m3u8
-#EXTINF:-1 group-title="Cola - Giải bóng đá vô địch quốc gia Đức" tvg-name="[Cola] Hamburger SV vs 1. FSV Mainz 05 | BLV: BLV PEPSI (Main)",[Cola] Hamburger SV vs 1. FSV Mainz 05 | BLV: BLV PEPSI (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/59444581.flv
-#EXTINF:-1 group-title="Cola - Giải bóng đá vô địch quốc gia Đức" tvg-name="[Cola] Hamburger SV vs 1. FSV Mainz 05 | BLV: BLV PEPSI (Backup)",[Cola] Hamburger SV vs 1. FSV Mainz 05 | BLV: BLV PEPSI (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/59444581.m3u8
-#EXTINF:-1 group-title="Cola - Giải Bóng đá Vô địch Quốc gia Tây Ban Nha " tvg-name="[Cola] Valencia CF vs FC Barcelona | BLV: BLV SPRITE (Main)",[Cola] Valencia CF vs FC Barcelona | BLV: BLV SPRITE (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/75748097.flv
-#EXTINF:-1 group-title="Cola - Giải Bóng đá Vô địch Quốc gia Tây Ban Nha " tvg-name="[Cola] Valencia CF vs FC Barcelona | BLV: BLV SPRITE (Backup)",[Cola] Valencia CF vs FC Barcelona | BLV: BLV SPRITE (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/75748097.m3u8
-#EXTINF:-1 group-title="Cola - Giải Bóng đá Vô địch Quốc gia Tây Ban Nha " tvg-name="[Cola] Valencia CF vs FC Barcelona | BLV: BLV SODA (Main)",[Cola] Valencia CF vs FC Barcelona | BLV: BLV SODA (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/02456966.flv
-#EXTINF:-1 group-title="Cola - Giải Bóng đá Vô địch Quốc gia Tây Ban Nha " tvg-name="[Cola] Valencia CF vs FC Barcelona | BLV: BLV SODA (Backup)",[Cola] Valencia CF vs FC Barcelona | BLV: BLV SODA (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/02456966.m3u8
-#EXTINF:-1 group-title="Cola - Giải Bóng đá Vô địch Quốc gia Tây Ban Nha " tvg-name="[Cola] Valencia CF vs FC Barcelona | BLV: BLV WARRIOR (Main)",[Cola] Valencia CF vs FC Barcelona | BLV: BLV WARRIOR (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/97885009.flv
-#EXTINF:-1 group-title="Cola - Giải Bóng đá Vô địch Quốc gia Tây Ban Nha " tvg-name="[Cola] Valencia CF vs FC Barcelona | BLV: BLV WARRIOR (Backup)",[Cola] Valencia CF vs FC Barcelona | BLV: BLV WARRIOR (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/97885009.m3u8
-#EXTINF:-1 group-title="Cola - Ligue 1" tvg-name="[Cola] Angers SCO vs Stade Rennais | BLV: BLV MONSTER (Main)",[Cola] Angers SCO vs Stade Rennais | BLV: BLV MONSTER (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/75915087.flv
-#EXTINF:-1 group-title="Cola - Ligue 1" tvg-name="[Cola] Angers SCO vs Stade Rennais | BLV: BLV MONSTER (Backup)",[Cola] Angers SCO vs Stade Rennais | BLV: BLV MONSTER (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/75915087.m3u8
-#EXTINF:-1 group-title="Cola - Giải bóng đá Ngoại hạng Anh" tvg-name="[Cola] Arsenal vs Chelsea | BLV: BLV C2 (Main)",[Cola] Arsenal vs Chelsea | BLV: BLV C2 (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/08552895.flv
-#EXTINF:-1 group-title="Cola - Giải bóng đá Ngoại hạng Anh" tvg-name="[Cola] Arsenal vs Chelsea | BLV: BLV C2 (Backup)",[Cola] Arsenal vs Chelsea | BLV: BLV C2 (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/08552895.m3u8
-#EXTINF:-1 group-title="Cola - Giải bóng đá Ngoại hạng Anh" tvg-name="[Cola] Arsenal vs Chelsea | BLV: BLV REVIVE (Main)",[Cola] Arsenal vs Chelsea | BLV: BLV REVIVE (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/33982309.flv
-#EXTINF:-1 group-title="Cola - Giải bóng đá Ngoại hạng Anh" tvg-name="[Cola] Arsenal vs Chelsea | BLV: BLV REVIVE (Backup)",[Cola] Arsenal vs Chelsea | BLV: BLV REVIVE (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/33982309.m3u8
-#EXTINF:-1 group-title="Cola - Giải bóng đá Ngoại hạng Anh" tvg-name="[Cola] Arsenal vs Chelsea | BLV: BLV 7UP (Main)",[Cola] Arsenal vs Chelsea | BLV: BLV 7UP (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/78905744.flv
-#EXTINF:-1 group-title="Cola - Giải bóng đá Ngoại hạng Anh" tvg-name="[Cola] Arsenal vs Chelsea | BLV: BLV 7UP (Backup)",[Cola] Arsenal vs Chelsea | BLV: BLV 7UP (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/78905744.m3u8
-#EXTINF:-1 group-title="Cola - Giải bóng đá Ngoại hạng Anh" tvg-name="[Cola] Arsenal vs Chelsea | BLV: BLV GIÀ LÀNG (Main)",[Cola] Arsenal vs Chelsea | BLV: BLV GIÀ LÀNG (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/14830711.flv
-#EXTINF:-1 group-title="Cola - Giải bóng đá Ngoại hạng Anh" tvg-name="[Cola] Arsenal vs Chelsea | BLV: BLV GIÀ LÀNG (Backup)",[Cola] Arsenal vs Chelsea | BLV: BLV GIÀ LÀNG (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/14830711.m3u8
-#EXTINF:-1 group-title="Cola - Giải bóng đá vô địch quốc gia Đức" tvg-name="[Cola] Eintracht Frankfurt vs FC Augsburg | BLV: BLV POCARI (Main)",[Cola] Eintracht Frankfurt vs FC Augsburg | BLV: BLV POCARI (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/19919577.flv
-#EXTINF:-1 group-title="Cola - Giải bóng đá vô địch quốc gia Đức" tvg-name="[Cola] Eintracht Frankfurt vs FC Augsburg | BLV: BLV POCARI (Backup)",[Cola] Eintracht Frankfurt vs FC Augsburg | BLV: BLV POCARI (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/19919577.m3u8
-#EXTINF:-1 group-title="Cola - Giải bóng đá Serie A Italia" tvg-name="[Cola] Bologna F.C. 1909 vs U.S. Sassuolo Calcio | BLV: BLV STING (Main)",[Cola] Bologna F.C. 1909 vs U.S. Sassuolo Calcio | BLV: BLV STING (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/14707124.flv
-#EXTINF:-1 group-title="Cola - Giải bóng đá Serie A Italia" tvg-name="[Cola] Bologna F.C. 1909 vs U.S. Sassuolo Calcio | BLV: BLV STING (Backup)",[Cola] Bologna F.C. 1909 vs U.S. Sassuolo Calcio | BLV: BLV STING (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/14707124.m3u8
-#EXTINF:-1 group-title="Cola - Giải bóng đá Serie A Italia" tvg-name="[Cola] Bologna F.C. 1909 vs U.S. Sassuolo Calcio | BLV: BLV HỔ VẰN (Main)",[Cola] Bologna F.C. 1909 vs U.S. Sassuolo Calcio | BLV: BLV HỔ VẰN (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/07428422.flv
-#EXTINF:-1 group-title="Cola - Giải bóng đá Serie A Italia" tvg-name="[Cola] Bologna F.C. 1909 vs U.S. Sassuolo Calcio | BLV: BLV HỔ VẰN (Backup)",[Cola] Bologna F.C. 1909 vs U.S. Sassuolo Calcio | BLV: BLV HỔ VẰN (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/07428422.m3u8
-#EXTINF:-1 group-title="Cola - Giải Bóng đá Vô địch Quốc gia Tây Ban Nha " tvg-name="[Cola] Alaves vs Osasuna | BLV: BLV  KHÔNG ĐỘ (Main)",[Cola] Alaves vs Osasuna | BLV: BLV  KHÔNG ĐỘ (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/41943555.flv
-#EXTINF:-1 group-title="Cola - Giải Bóng đá Vô địch Quốc gia Tây Ban Nha " tvg-name="[Cola] Alaves vs Osasuna | BLV: BLV  KHÔNG ĐỘ (Backup)",[Cola] Alaves vs Osasuna | BLV: BLV  KHÔNG ĐỘ (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/41943555.m3u8
-#EXTINF:-1 group-title="Cola - Giải Bóng đá Vô địch Quốc gia Tây Ban Nha " tvg-name="[Cola] Malaga vs CLB Levante | BLV: BLV SAMURAI (Main)",[Cola] Malaga vs CLB Levante | BLV: BLV SAMURAI (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/07808742.flv
-#EXTINF:-1 group-title="Cola - Giải Bóng đá Vô địch Quốc gia Tây Ban Nha " tvg-name="[Cola] Malaga vs CLB Levante | BLV: BLV SAMURAI (Backup)",[Cola] Malaga vs CLB Levante | BLV: BLV SAMURAI (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/07808742.m3u8
-#EXTINF:-1 group-title="Cola - Giải Bóng đá Vô địch Quốc gia Bồ Đào Nha" tvg-name="[Cola] Vitoria Guimaraes vs Casa Pia AC | BLV: BLV FANTA (Main)",[Cola] Vitoria Guimaraes vs Casa Pia AC | BLV: BLV FANTA (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/16226575.flv
-#EXTINF:-1 group-title="Cola - Giải Bóng đá Vô địch Quốc gia Bồ Đào Nha" tvg-name="[Cola] Vitoria Guimaraes vs Casa Pia AC | BLV: BLV FANTA (Backup)",[Cola] Vitoria Guimaraes vs Casa Pia AC | BLV: BLV FANTA (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/16226575.m3u8
-#EXTINF:-1 group-title="Cola - World Cup Bóng rổ Nữ" tvg-name="[Cola] Đội tuyển bóng đá nữ quốc gia Ý vs Mỹ Nữ | BLV: BLV Cozy (Main)",[Cola] Đội tuyển bóng đá nữ quốc gia Ý vs Mỹ Nữ | BLV: BLV Cozy (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/87379114.flv
-#EXTINF:-1 group-title="Cola - World Cup Bóng rổ Nữ" tvg-name="[Cola] Đội tuyển bóng đá nữ quốc gia Ý vs Mỹ Nữ | BLV: BLV Cozy (Backup)",[Cola] Đội tuyển bóng đá nữ quốc gia Ý vs Mỹ Nữ | BLV: BLV Cozy (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/87379114.m3u8
-#EXTINF:-1 group-title="Cola - Giải bóng đá Serie A Italia" tvg-name="[Cola] Juventus F.C. vs AC Milan | BLV: BLV C2 (Main)",[Cola] Juventus F.C. vs AC Milan | BLV: BLV C2 (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/08552895.flv
-#EXTINF:-1 group-title="Cola - Giải bóng đá Serie A Italia" tvg-name="[Cola] Juventus F.C. vs AC Milan | BLV: BLV C2 (Backup)",[Cola] Juventus F.C. vs AC Milan | BLV: BLV C2 (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/08552895.m3u8
-#EXTINF:-1 group-title="Cola - Giải bóng đá Serie A Italia" tvg-name="[Cola] Juventus F.C. vs AC Milan | BLV: BLV GIÀ LÀNG (Main)",[Cola] Juventus F.C. vs AC Milan | BLV: BLV GIÀ LÀNG (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/14830711.flv
-#EXTINF:-1 group-title="Cola - Giải bóng đá Serie A Italia" tvg-name="[Cola] Juventus F.C. vs AC Milan | BLV: BLV GIÀ LÀNG (Backup)",[Cola] Juventus F.C. vs AC Milan | BLV: BLV GIÀ LÀNG (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/14830711.m3u8
-#EXTINF:-1 group-title="Cola - Giải bóng đá Serie A Italia" tvg-name="[Cola] Juventus F.C. vs AC Milan | BLV: BLV SODA (Main)",[Cola] Juventus F.C. vs AC Milan | BLV: BLV SODA (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/02456966.flv
-#EXTINF:-1 group-title="Cola - Giải bóng đá Serie A Italia" tvg-name="[Cola] Juventus F.C. vs AC Milan | BLV: BLV SODA (Backup)",[Cola] Juventus F.C. vs AC Milan | BLV: BLV SODA (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/02456966.m3u8
-#EXTINF:-1 group-title="Cola - Ligue 1" tvg-name="[Cola] Olympique de Marseille vs Paris FC | BLV: BLV ROCKSTAR (Main)",[Cola] Olympique de Marseille vs Paris FC | BLV: BLV ROCKSTAR (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/82054853.flv
-#EXTINF:-1 group-title="Cola - Ligue 1" tvg-name="[Cola] Olympique de Marseille vs Paris FC | BLV: BLV ROCKSTAR (Backup)",[Cola] Olympique de Marseille vs Paris FC | BLV: BLV ROCKSTAR (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/82054853.m3u8
-#EXTINF:-1 group-title="Cola - Giải Bóng đá Vô địch Quốc gia Tây Ban Nha " tvg-name="[Cola] CLB Espanyol vs Sevilla FC | BLV: BLV  KHÔNG ĐỘ (Main)",[Cola] CLB Espanyol vs Sevilla FC | BLV: BLV  KHÔNG ĐỘ (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/41943555.flv
-#EXTINF:-1 group-title="Cola - Giải Bóng đá Vô địch Quốc gia Tây Ban Nha " tvg-name="[Cola] CLB Espanyol vs Sevilla FC | BLV: BLV  KHÔNG ĐỘ (Backup)",[Cola] CLB Espanyol vs Sevilla FC | BLV: BLV  KHÔNG ĐỘ (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/41943555.m3u8
-#EXTINF:-1 group-title="Cola - Giải bóng đá Hạng nhất Brasil" tvg-name="[Cola] Remo Belem (PA) vs CLB Flamengo | BLV: BLV HỔ VẰN (Main)",[Cola] Remo Belem (PA) vs CLB Flamengo | BLV: BLV HỔ VẰN (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/07428422.flv
-#EXTINF:-1 group-title="Cola - Giải bóng đá Hạng nhất Brasil" tvg-name="[Cola] Remo Belem (PA) vs CLB Flamengo | BLV: BLV HỔ VẰN (Backup)",[Cola] Remo Belem (PA) vs CLB Flamengo | BLV: BLV HỔ VẰN (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/07428422.m3u8
-#EXTINF:-1 group-title="Cola - Giải Bóng đá Vô địch Quốc gia Bồ Đào Nha" tvg-name="[Cola] Gil Vicente vs CLB Viseu | BLV: BLV SAMURAI (Main)",[Cola] Gil Vicente vs CLB Viseu | BLV: BLV SAMURAI (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/07808742.flv
-#EXTINF:-1 group-title="Cola - Giải Bóng đá Vô địch Quốc gia Bồ Đào Nha" tvg-name="[Cola] Gil Vicente vs CLB Viseu | BLV: BLV SAMURAI (Backup)",[Cola] Gil Vicente vs CLB Viseu | BLV: BLV SAMURAI (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/07808742.m3u8
-#EXTINF:-1 group-title="Cola - Giải Bóng đá Vô địch Quốc gia Argentina" tvg-name="[Cola] Lanus vs Defensa y Justicia | BLV: BLV STING (Main)",[Cola] Lanus vs Defensa y Justicia | BLV: BLV STING (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/14707124.flv
-#EXTINF:-1 group-title="Cola - Giải Bóng đá Vô địch Quốc gia Argentina" tvg-name="[Cola] Lanus vs Defensa y Justicia | BLV: BLV STING (Backup)",[Cola] Lanus vs Defensa y Justicia | BLV: BLV STING (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/14707124.m3u8
-#EXTINF:-1 group-title="Cola - Giải bóng đá Hạng nhất Brasil" tvg-name="[Cola] Botafogo RJ vs Palmeiras | BLV: BLV MOUNTAIN DEW (Main)",[Cola] Botafogo RJ vs Palmeiras | BLV: BLV MOUNTAIN DEW (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/87547578.flv
-#EXTINF:-1 group-title="Cola - Giải bóng đá Hạng nhất Brasil" tvg-name="[Cola] Botafogo RJ vs Palmeiras | BLV: BLV MOUNTAIN DEW (Backup)",[Cola] Botafogo RJ vs Palmeiras | BLV: BLV MOUNTAIN DEW (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/87547578.m3u8
-#EXTINF:-1 group-title="Cola - Giải Bóng đá Vô địch Quốc gia Argentina" tvg-name="[Cola] River Plate vs Independiente Rivadavia | BLV: BLV SPRITE (Main)",[Cola] River Plate vs Independiente Rivadavia | BLV: BLV SPRITE (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/75748097.flv
-#EXTINF:-1 group-title="Cola - Giải Bóng đá Vô địch Quốc gia Argentina" tvg-name="[Cola] River Plate vs Independiente Rivadavia | BLV: BLV SPRITE (Backup)",[Cola] River Plate vs Independiente Rivadavia | BLV: BLV SPRITE (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/75748097.m3u8
-#EXTINF:-1 group-title="Cola - Giải bóng đá Hạng nhất Brasil" tvg-name="[Cola] CLB Corinthians Paulista vs CLB Chapecoense SC | BLV: BLV BÍ ĐAO (Main)",[Cola] CLB Corinthians Paulista vs CLB Chapecoense SC | BLV: BLV BÍ ĐAO (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/99121525.flv
-#EXTINF:-1 group-title="Cola - Giải bóng đá Hạng nhất Brasil" tvg-name="[Cola] CLB Corinthians Paulista vs CLB Chapecoense SC | BLV: BLV BÍ ĐAO (Backup)",[Cola] CLB Corinthians Paulista vs CLB Chapecoense SC | BLV: BLV BÍ ĐAO (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/99121525.m3u8
-#EXTINF:-1 group-title="Cola - Giải Vô địch Bóng đá Quốc gia Mexico" tvg-name="[Cola] Cruz Azul vs Santos Laguna | BLV: BLV WARRIOR (Main)",[Cola] Cruz Azul vs Santos Laguna | BLV: BLV WARRIOR (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/97885009.flv
-#EXTINF:-1 group-title="Cola - Giải Vô địch Bóng đá Quốc gia Mexico" tvg-name="[Cola] Cruz Azul vs Santos Laguna | BLV: BLV WARRIOR (Backup)",[Cola] Cruz Azul vs Santos Laguna | BLV: BLV WARRIOR (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/97885009.m3u8
-#EXTINF:-1 group-title="Cola - Giải vô địch quốc gia Colombia" tvg-name="[Cola] Pereira vs CLB Millonarios | BLV: BLV MONSTER (Main)",[Cola] Pereira vs CLB Millonarios | BLV: BLV MONSTER (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/75915087.flv
-#EXTINF:-1 group-title="Cola - Giải vô địch quốc gia Colombia" tvg-name="[Cola] Pereira vs CLB Millonarios | BLV: BLV MONSTER (Backup)",[Cola] Pereira vs CLB Millonarios | BLV: BLV MONSTER (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/75915087.m3u8
-#EXTINF:-1 group-title="Cola - Giải Bóng đá Vô địch Quốc gia Argentina" tvg-name="[Cola] Racing Club vs Atl. Tucuman | BLV: BLV AQUA (Main)",[Cola] Racing Club vs Atl. Tucuman | BLV: BLV AQUA (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/18812304.flv
-#EXTINF:-1 group-title="Cola - Giải Bóng đá Vô địch Quốc gia Argentina" tvg-name="[Cola] Racing Club vs Atl. Tucuman | BLV: BLV AQUA (Backup)",[Cola] Racing Club vs Atl. Tucuman | BLV: BLV AQUA (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/18812304.m3u8
-#EXTINF:-1 group-title="Cola - World Cup Bóng rổ Nữ" tvg-name="[Cola] Bỉ Nữ vs Úc Nữ | BLV: BLV Cozy (Main)",[Cola] Bỉ Nữ vs Úc Nữ | BLV: BLV Cozy (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/87379114.flv
-#EXTINF:-1 group-title="Cola - World Cup Bóng rổ Nữ" tvg-name="[Cola] Bỉ Nữ vs Úc Nữ | BLV: BLV Cozy (Backup)",[Cola] Bỉ Nữ vs Úc Nữ | BLV: BLV Cozy (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/87379114.m3u8
-#EXTINF:-1 group-title="Cola - World Cup Bóng rổ Nữ" tvg-name="[Cola] Puerto Rico Women vs Thổ Nhỹ Kỳ Nữ | BLV: BLV 247 (Main)",[Cola] Puerto Rico Women vs Thổ Nhỹ Kỳ Nữ | BLV: BLV 247 (Main)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/90865415.flv
-#EXTINF:-1 group-title="Cola - World Cup Bóng rổ Nữ" tvg-name="[Cola] Puerto Rico Women vs Thổ Nhỹ Kỳ Nữ | BLV: BLV 247 (Backup)",[Cola] Puerto Rico Women vs Thổ Nhỹ Kỳ Nữ | BLV: BLV 247 (Backup)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live05.meung.app/live/90865415.m3u8
 #EXTINF:-1 group-title="bTV - Giải vô địch quốc gia Việt Nam" tvg-name="[bTV] Thành phố Hồ Chí Minh vs Hà Nội | BLV: bTV (Server 1)",[bTV] Thành phố Hồ Chí Minh vs Hà Nội | BLV: bTV (Server 1)
 #EXTVLCOPT:http-referrer=https://bongplus.vip
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://live.cds78y11d.org/live/sd-6Mxj4jUihXY6WEB7KS.m3u8?txSecret=bd7132f51717a3b89b929562716223da&txTime=6A9CB06E
+http://live.cds78y11d.org/live/sd-6Mxj4jUihXY6WEB7KS.m3u8?txSecret=d03a65e36c32b171ae7a9015028e1e6b&txTime=6A9CB2D8
 #EXTINF:-1 group-title="bTV - Giải bóng đá Ngoại hạng Anh" tvg-name="[bTV] Câu lạc bộ bóng đá Newcastle United vs Câu lạc bộ bóng đá Bournemouth | BLV: bTV (Server 1)",[bTV] Câu lạc bộ bóng đá Newcastle United vs Câu lạc bộ bóng đá Bournemouth | BLV: bTV (Server 1)
 #EXTVLCOPT:http-referrer=https://bongplus.vip
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://live.cds78y11d.org/live/hd-en-6MwdqQhZeWLNCBqVCQ.m3u8?txSecret=01a60643c7597b13c1b3e89cf5b491f2&txTime=6A9CB06E
+http://live.cds78y11d.org/live/hd-en-6MwdqQhZeWLNCBqVCQ.m3u8?txSecret=ff89c4180426b46749fd978b591179c8&txTime=6A9CB2D8
 #EXTINF:-1 group-title="bTV - Giải bóng đá Ngoại hạng Anh" tvg-name="[bTV] Câu lạc bộ bóng đá Newcastle United vs Câu lạc bộ bóng đá Bournemouth | BLV: bTV (Server 2)",[bTV] Câu lạc bộ bóng đá Newcastle United vs Câu lạc bộ bóng đá Bournemouth | BLV: bTV (Server 2)
 #EXTVLCOPT:http-referrer=https://bongplus.vip
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://live.cds78y11d.org/live/sd-6MwdqQhZeWLNCBqVCQ.m3u8?txSecret=5cbc4a3b94250a6058ff687b8b6d0c5e&txTime=6A9CB06E
+http://live.cds78y11d.org/live/sd-6MwdqQhZeWLNCBqVCQ.m3u8?txSecret=a8837318dd19cfc48618663697d9260b&txTime=6A9CB2D8
+#EXTINF:-1 group-title="bTV - Giải vô địch quốc gia Việt Nam" tvg-name="[bTV] Công An Hà Nội FC vs Hồng Lĩnh Hà Tĩnh | BLV: bTV (Server 1)",[bTV] Công An Hà Nội FC vs Hồng Lĩnh Hà Tĩnh | BLV: bTV (Server 1)
+#EXTVLCOPT:http-referrer=https://bongplus.vip
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://live.cds78y11d.org/live/sd-6Mxj4jUirvdGMD4PMn.m3u8?txSecret=a9b3557059d4b220d911ec0451aacfae&txTime=6A9CB2D8
 #EXTINF:-1 group-title="bTV - Giải bóng đá ngoại hạng Trung Quốc" tvg-name="[bTV] Wuhan Three Towns vs Qingdao West Coast | BLV: bTV (Server 1)",[bTV] Wuhan Three Towns vs Qingdao West Coast | BLV: bTV (Server 1)
 #EXTVLCOPT:http-referrer=https://bongplus.vip
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://live.cds78y11d.org/live/sd-6MvVNtTi7KWaP1umR6.m3u8?txSecret=90de651493e14e9222967a43d9e7d234&txTime=6A9CB06F
+http://live.cds78y11d.org/live/sd-6MvVNtTi7KWaP1umR6.m3u8?txSecret=953cc2d367d681457d32fd6dbeb6c794&txTime=6A9CB2D9
 #EXTINF:-1 group-title="bTV - German Bundesliga 2" tvg-name="[bTV] VfL Wolfsburg vs Energie Cottbus | BLV: bTV (Server 1)",[bTV] VfL Wolfsburg vs Energie Cottbus | BLV: bTV (Server 1)
 #EXTVLCOPT:http-referrer=https://bongplus.vip
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://live.cds78y11d.org/live/sd-6MweaDiCbvAozVdatL.m3u8?txSecret=d33880627d1ee3ba7a56a238831ec997&txTime=6A9CB06F
+http://live.cds78y11d.org/live/sd-6MweaDiCbvAozVdatL.m3u8?txSecret=6ab26b74caa08bda28dadec428d52373&txTime=6A9CB2D9
 #EXTINF:-1 group-title="bTV - German Bundesliga 2" tvg-name="[bTV] CLB Holstein Kiel vs Nurnberg | BLV: bTV (Server 1)",[bTV] CLB Holstein Kiel vs Nurnberg | BLV: bTV (Server 1)
 #EXTVLCOPT:http-referrer=https://bongplus.vip
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://live.cds78y11d.org/live/sd-6MweaDiDScXHNzECzQ.m3u8?txSecret=70a50e6d7bcc66f63ced73453a18406d&txTime=6A9CB06F
+http://live.cds78y11d.org/live/sd-6MweaDiDScXHNzECzQ.m3u8?txSecret=232947dbedb763ec9274c61a6ae3b660&txTime=6A9CB2D9
 #EXTINF:-1 group-title="bTV - German Bundesliga 2" tvg-name="[bTV] CLB Kaiserslautern vs Darmstadt | BLV: bTV (Server 1)",[bTV] CLB Kaiserslautern vs Darmstadt | BLV: bTV (Server 1)
 #EXTVLCOPT:http-referrer=https://bongplus.vip
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://live.cds78y11d.org/live/sd-6MweaDixmEjtT4yhHN.m3u8?txSecret=3cfda068a31641ab200ec37c6733f08f&txTime=6A9CB070
+http://live.cds78y11d.org/live/sd-6MweaDixmEjtT4yhHN.m3u8?txSecret=882e2ab2b6046fcbb90d6091bbd2e07c&txTime=6A9CB2D9
 #EXTINF:-1 group-title="bTV - Thái League 1" tvg-name="[bTV] Chiangrai Utd vs Chonburi | BLV: bTV (Server 1)",[bTV] Chiangrai Utd vs Chonburi | BLV: bTV (Server 1)
 #EXTVLCOPT:http-referrer=https://bongplus.vip
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://live.cds78y11d.org/live/sd-6MwarK9VVn5E2yaB2U.m3u8?txSecret=6d1e3494357568d00696047a7d97a7d7&txTime=6A9CB070
+http://live.cds78y11d.org/live/sd-6MwarK9VVn5E2yaB2U.m3u8?txSecret=0994271fd9ca376686ff85be8f13233d&txTime=6A9CB2DA
 #EXTINF:-1 group-title="bTV - Thái League 1" tvg-name="[bTV] Bangkok Utd vs Sisaket United | BLV: bTV (Server 1)",[bTV] Bangkok Utd vs Sisaket United | BLV: bTV (Server 1)
 #EXTVLCOPT:http-referrer=https://bongplus.vip
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://live.cds78y11d.org/live/sd-6MwarK9VVjskAVkFsa.m3u8?txSecret=11c4dbd4b6a0ecbc88268674bc1970bc&txTime=6A9CB070
+http://live.cds78y11d.org/live/sd-6MwarK9VVjskAVkFsa.m3u8?txSecret=e551903ea3cda52dfc60f74bf0487b93&txTime=6A9CB2DA
 #EXTINF:-1 group-title="bTV - Giải bóng đá ngoại hạng Trung Quốc" tvg-name="[bTV] Shanghai Port vs Beijing Guoan | BLV: bTV (Server 1)",[bTV] Shanghai Port vs Beijing Guoan | BLV: bTV (Server 1)
 #EXTVLCOPT:http-referrer=https://bongplus.vip
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://live.cds78y11d.org/live/sd-6MvVNtTi7Mi4FVjgZz.m3u8?txSecret=946ab33b2d26f7efb7eb353379e3cb86&txTime=6A9CB070
-#EXTINF:-1 group-title="bTV - Giải bóng đá ngoại hạng Trung Quốc" tvg-name="[bTV] Câu lạc bộ bóng đá Zhixing Đại Liên vs Qingdao Hainiu FC | BLV: bTV (Server 1)",[bTV] Câu lạc bộ bóng đá Zhixing Đại Liên vs Qingdao Hainiu FC | BLV: bTV (Server 1)
-#EXTVLCOPT:http-referrer=https://bongplus.vip
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://live.cds78y11d.org/live/sd-6MvVNtThwWF7xkwQgt.m3u8?txSecret=c49a453ddae5c6709e16b36e80801329&txTime=6A9CB071
+http://live.cds78y11d.org/live/sd-6MvVNtTi7Mi4FVjgZz.m3u8?txSecret=311c4c632717f405aea37195a2477436&txTime=6A9CB2DA
