@@ -1,6 +1,45 @@
-#EXTINF:-1 tvg-name="NBA TV" group-title="NBA",官方NBA 频道
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1acd2d7afd8cb34099cb832862e3c08d:b85491a27c2852323ac704a07cf7b779
-https://lpnba.akamaized.net/live/q/hls-wvpr/NBATVI/index.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="Now Sports 4K / UHD",HK: NOW PREMIER SPORTS 2 4K
+http://204.52.191.254/play/live.php?mac=A0:BB:3E:B9:3C:DC&stream=791021&extension=ts&play_token=qgiMJk1w4B
+#EXTINF:-1 group-title="Now Sports 4K / UHD",4K: NOW SPORTS PREMIER LEAGUE ᵁᴴᴰ ³⁸⁴⁰ᴾ ᴺᴹ
+http://204.52.191.254/play/live.php?mac=A0:BB:3E:B9:3C:DC&stream=1556135&extension=ts&play_token=7Yby5PcpLI
+#EXTINF:-1 group-title="Now Sports 4K / UHD",HK: NOW PREMIER SPORTS 1 4K
+http://204.52.191.254/play/live.php?mac=A0:BB:3E:B9:3C:DC&stream=791022&extension=ts&play_token=fxQeIq8ixL
+#EXTINF:-1 group-title="Now Sports 4K / UHD",HK: NOW PREMIER SPORTS 4 4K
+http://204.52.191.254/play/live.php?mac=A0:BB:3E:B9:3C:DC&stream=791019&extension=ts&play_token=G8JpLbC2Se
+#EXTINF:-1 group-title="Now Sports 4K / UHD",HK: NOW SPORTS 4K 2 3840P
+http://204.52.191.254/play/live.php?mac=A0:BB:3E:B9:3C:DC&stream=791026&extension=ts&play_token=Sz3O5bWk8u
+#EXTINF:-1 group-title="Now Sports 4K / UHD",HK: NOW SPORTS 4K 1 3840P
+http://204.52.191.254/play/live.php?mac=A0:BB:3E:B9:3C:DC&stream=791028&extension=ts&play_token=72Nzav4mLG
+#EXTINF:-1 group-title="Now Sports 4K / UHD",HK: NOW PREMIER SPORTS 3 4K
+http://204.52.191.254/play/live.php?mac=A0:BB:3E:B9:3C:DC&stream=791020&extension=ts&play_token=qPR5lTnFDH
+#EXTINF:-1 group-title="Now Sports 4K / UHD",HK: NOW PREMIER SPORTS 7 4K
+http://204.52.191.254/play/live.php?mac=A0:BB:3E:B9:3C:DC&stream=791016&extension=ts&play_token=13W1XEIRos
+#EXTINF:-1 group-title="Now Sports 4K / UHD",HK: NOW SPORTS 3 4K
+http://204.52.191.254/play/live.php?mac=A0:BB:3E:B9:3C:DC&stream=791013&extension=ts&play_token=4iYDHoXDiw
+#EXTINF:-1 group-title="Now Sports 4K / UHD",HK: NOW PREMIER SPORTS 6 4K
+http://204.52.191.254/play/live.php?mac=A0:BB:3E:B9:3C:DC&stream=791017&extension=ts&play_token=uorXeB3B02
+#EXTINF:-1 group-title="Now Sports 4K / UHD",HK: NOW SPORTS 2 4K
+http://204.52.191.254/play/live.php?mac=A0:BB:3E:B9:3C:DC&stream=791014&extension=ts&play_token=VS6yi39LUx
+#EXTINF:-1 group-title="Now Sports 4K / UHD",HK: NOW SPORTS 4 4K
+http://204.52.191.254/play/live.php?mac=A0:BB:3E:B9:3C:DC&stream=791012&extension=ts&play_token=JOtMPIk1Es
+#EXTINF:-1 group-title="Now Sports 4K / UHD",4K| NOW SPORTS PREMIER LEAGUE UHD/4K NM
+http://185.80.197.55/play/live.php?mac=00:1A:79:72:F3:F0&stream=1948624&extension=ts&play_token=NkpGx8teYf
+#EXTINF:-1 group-title="Now Sports 4K / UHD",4K| NOW SPORTS HK UHD/4K
+http://185.80.197.55/play/live.php?mac=00:1A:79:72:F3:F0&stream=1948636&extension=ts&play_token=AvmpIEn35E
+#EXTINF:-1 group-title="Now Sports 4K / UHD",HK| NOW SPORTS PREMIER LEAGUE 4K
+http://185.80.197.55/play/live.php?mac=00:1A:79:72:F3:F0&stream=1903729&extension=ts&play_token=rPIwifxOp0
+#EXTINF:-1 group-title="Now Sports 4K / UHD",HK: NOW SPORTS PRIME 4K
+http://204.52.191.254/play/live.php?mac=A0:BB:3E:B9:3C:DC&stream=791025&extension=ts&play_token=SpdqGe5vyU
+#EXTINF:-1 group-title="Now Sports 4K / UHD",HK: NOW PREMIER SPORTS  4K
+http://204.52.191.254/play/live.php?mac=A0:BB:3E:B9:3C:DC&stream=791024&extension=ts&play_token=1xtArHcs3L
+#EXTINF:-1 group-title="Now Sports 4K / UHD",HK: NOW PREMIER SPORTS 5 4K
+http://204.52.191.254/play/live.php?mac=A0:BB:3E:B9:3C:DC&stream=791018&extension=ts&play_token=NdUIyESFAI
+#EXTINF:-1 group-title="Now Sports 4K / UHD",HK: NOW SPORTS 1 4K
+http://204.52.191.254/play/live.php?mac=A0:BB:3E:B9:3C:DC&stream=791015&extension=ts&play_token=Kre6dtuwzw
+#EXTINF:-1 group-title="Now Sports 4K / UHD",HK: NOW SPORTS 6 4K
+http://204.52.191.254/play/live.php?mac=A0:BB:3E:B9:3C:DC&stream=791010&extension=ts&play_token=vBvvvxjxPD
+#EXTINF:-1 group-title="Now Sports 4K / UHD",HK: NOW SPORTS 7 4K
+http://204.52.191.254/play/live.php?mac=A0:BB:3E:B9:3C:DC&stream=791009&extension=ts&play_token=TvRMw3XTuf
+#EXTINF:-1 group-title="Now Sports 4K / UHD",HK: NOW SPORTS 5 4K
+http://204.52.191.254/play/live.php?mac=A0:BB:3E:B9:3C:DC&stream=791011&extension=ts&play_token=zbGmZvYHPW
